@@ -1,0 +1,35 @@
+docRoot                   /usr/local/lsws/conf/vhosts/payload/html
+vhDomain                  payload.presspizza.com
+
+extprocessor payload-proxy {
+  type                    proxy
+  address                 http://payload-cms:3000
+  maxConns                100
+  pcKeepAliveTimeout      60
+  keepAlive               0
+  retryTimeout            0
+  respBuffer              0
+}
+
+context /.well-known/acme-challenge/ {
+  location                /usr/local/lsws/conf/vhosts/payload/html/.well-known/acme-challenge/
+  allowBrowse             1
+}
+
+context / {
+  type                    proxy
+  handler                 payload-proxy
+  addDefaultCharset	  off
+}
+
+vhssl  {
+  keyFile                 /etc/letsencrypt/live/payload.presspizza.com/privkey.pem
+  certFile                /etc/letsencrypt/live/payload.presspizza.com/fullchain.pem
+  certChain               1
+  CACertPath              /etc/letsencrypt/live/payload.presspizza.com/fullchain.pem
+
+  acme  {
+    enabled               2
+  }
+}
+

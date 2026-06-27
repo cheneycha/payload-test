@@ -1,0 +1,17 @@
+docroot $VH_ROOT/html
+enablegzip 1
+
+rewrite  {
+    autoloadhtaccess 1
+    enable 1
+    unknownkeywords rewriterule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+    rules rewriterule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+}
+
+context / {
+    unknownkeywords proxyheaders X-Forwarded-Proto:https, X-Forwarded-Host:$HTTP_HOST, X-Forwarded-For:$REMOTE_ADDR
+    param proxyheaders X-Forwarded-Proto:https, X-Forwarded-Host:$HTTP_HOST, X-Forwarded-For:$REMOTE_ADDR
+    type proxy
+    adddefaultcharset off
+    handler payload_proxy
+}

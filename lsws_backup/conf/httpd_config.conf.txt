@@ -1,0 +1,35 @@
+servername payload.presspizza.com
+user nobody
+group nogroup
+
+errorlog /usr/local/lsws/logs/error.log {
+    loglevel NOTICE
+    rollingsize 10M
+}
+
+accesslog /usr/local/lsws/logs/access.log {
+    rollingsize 10M
+    keepdays 30
+}
+
+tuning  {
+    maxconnections 10000
+    maxsslconnections 10000
+    conntimeout 300
+    maxkeepalivereq 1000
+    keepalivetimeout 5
+}
+
+virtualhost payload.presspizza.com {
+    vhroot /usr/local/lsws/conf/vhosts/payload/
+    configfile /usr/local/lsws/conf/vhosts/payload/vhconf.conf
+    allowsymbollink 1
+    enablescript 1
+    restrained 1
+}
+
+listener DefaultHTTP {
+    address *:80
+    secure 0
+    map payload.presspizza.com payload.presspizza.com
+}

@@ -1,0 +1,1628 @@
+2026-06-27 01:15:15.834854 [NOTICE] [testAndFixDirs] "/usr/local/lsws//conf/" own or permission need to be changed.
+2026-06-27 01:15:16.370871 [WARN] [PlainConf] [httpServerConfig:] Not support [serverroot /usr/local/lsws] in file /usr/local/lsws/conf/httpd_config.conf:2
+2026-06-27 01:15:16.370914 [WARN] [PlainConf] [tuning:] Not support [gzipstatic 1] in file /usr/local/lsws/conf/httpd_config.conf:22
+2026-06-27 01:15:16.370925 [NOTICE] Loading LiteSpeed/1.9.0 Open (lsquic 4.6.2, modgzip 1.1, cache 1.66, mod_security 1.4 (with libmodsecurity v3.0.14)) BUILD (built: Thu May  7 15:34:11 UTC 2026) ...
+2026-06-27 01:15:16.370954 [NOTICE] Using [BoringSSL]
+2026-06-27 01:15:16.651610 [NOTICE] [ADMIN] server socket: uds://usr/local/lsws/admin/tmp/admin.sock.7874, fd 7.
+2026-06-27 01:15:16.655193 [NOTICE] [36] chroot is disabled.
+2026-06-27 01:15:16.658539 [ERROR] [36] [config:server:basics2] missing <mime> in <httpServerConfig>
+2026-06-27 01:15:16.658588 [ERROR] [36] [config:server:basics2] failed to load mime configure
+2026-06-27 01:15:16.658785 [ERROR] [36] Fatal error in configuration, exit!
+2026-06-27 01:15:19.780461 [WARN] [PlainConf] [httpServerConfig:] Not support [serverroot /usr/local/lsws] in file /usr/local/lsws/conf/httpd_config.conf:2
+2026-06-27 01:15:19.780596 [WARN] [PlainConf] [tuning:] Not support [gzipstatic 1] in file /usr/local/lsws/conf/httpd_config.conf:22
+2026-06-27 01:15:19.780609 [NOTICE] Loading LiteSpeed/1.9.0 Open (lsquic 4.6.2, modgzip 1.1, cache 1.66, mod_security 1.4 (with libmodsecurity v3.0.14)) BUILD (built: Thu May  7 15:34:11 UTC 2026) ...
+2026-06-27 01:15:19.780650 [NOTICE] Using [BoringSSL]
+2026-06-27 01:15:19.784207 [NOTICE] [ADMIN] server socket: uds://usr/local/lsws/admin/tmp/admin.sock.7213, fd 7.
+2026-06-27 01:15:19.784549 [NOTICE] [55] chroot is disabled.
+2026-06-27 01:15:19.785024 [ERROR] [55] [config:server:basics2] missing <mime> in <httpServerConfig>
+2026-06-27 01:15:19.785047 [ERROR] [55] [config:server:basics2] failed to load mime configure
+2026-06-27 01:15:19.785089 [ERROR] [55] Fatal error in configuration, exit!
+2026-06-27 01:15:22.476280 [NOTICE] [testAndFixDirs] "/usr/local/lsws//conf/" own or permission need to be changed.
+2026-06-27 01:15:22.611053 [WARN] [PlainConf] [httpServerConfig:] Not support [serverroot /usr/local/lsws] in file /usr/local/lsws/conf/httpd_config.conf:2
+2026-06-27 01:15:22.611093 [WARN] [PlainConf] [tuning:] Not support [gzipstatic 1] in file /usr/local/lsws/conf/httpd_config.conf:22
+2026-06-27 01:15:22.611103 [NOTICE] Loading LiteSpeed/1.9.0 Open (lsquic 4.6.2, modgzip 1.1, cache 1.66, mod_security 1.4 (with libmodsecurity v3.0.14)) BUILD (built: Thu May  7 15:34:11 UTC 2026) ...
+2026-06-27 01:15:22.611134 [NOTICE] Using [BoringSSL]
+2026-06-27 01:15:22.619595 [NOTICE] [ADMIN] server socket: uds://usr/local/lsws/admin/tmp/admin.sock.7658, fd 7.
+2026-06-27 01:15:22.619894 [NOTICE] [35] chroot is disabled.
+2026-06-27 01:15:22.620712 [ERROR] [35] [config:server:basics2] missing <mime> in <httpServerConfig>
+2026-06-27 01:15:22.620761 [ERROR] [35] [config:server:basics2] failed to load mime configure
+2026-06-27 01:15:22.620856 [ERROR] [35] Fatal error in configuration, exit!
+2026-06-27 01:15:25.937179 [WARN] [PlainConf] [httpServerConfig:] Not support [serverroot /usr/local/lsws] in file /usr/local/lsws/conf/httpd_config.conf:2
+2026-06-27 01:15:25.937298 [WARN] [PlainConf] [tuning:] Not support [gzipstatic 1] in file /usr/local/lsws/conf/httpd_config.conf:22
+2026-06-27 01:15:25.937308 [NOTICE] Loading LiteSpeed/1.9.0 Open (lsquic 4.6.2, modgzip 1.1, cache 1.66, mod_security 1.4 (with libmodsecurity v3.0.14)) BUILD (built: Thu May  7 15:34:11 UTC 2026) ...
+2026-06-27 01:15:25.937341 [NOTICE] Using [BoringSSL]
+2026-06-27 01:15:25.963103 [NOTICE] [ADMIN] server socket: uds://usr/local/lsws/admin/tmp/admin.sock.7068, fd 7.
+2026-06-27 01:15:25.963426 [NOTICE] [54] chroot is disabled.
+2026-06-27 01:15:25.963676 [ERROR] [54] [config:server:basics2] missing <mime> in <httpServerConfig>
+2026-06-27 01:15:25.963694 [ERROR] [54] [config:server:basics2] failed to load mime configure
+2026-06-27 01:15:25.963767 [ERROR] [54] Fatal error in configuration, exit!
+2026-06-27 01:15:27.985561 [NOTICE] [testAndFixDirs] "/usr/local/lsws//conf/" own or permission need to be changed.
+2026-06-27 01:15:28.069352 [WARN] [PlainConf] [httpServerConfig:] Not support [serverroot /usr/local/lsws] in file /usr/local/lsws/conf/httpd_config.conf:2
+2026-06-27 01:15:28.069392 [WARN] [PlainConf] [tuning:] Not support [gzipstatic 1] in file /usr/local/lsws/conf/httpd_config.conf:22
+2026-06-27 01:15:28.069402 [NOTICE] Loading LiteSpeed/1.9.0 Open (lsquic 4.6.2, modgzip 1.1, cache 1.66, mod_security 1.4 (with libmodsecurity v3.0.14)) BUILD (built: Thu May  7 15:34:11 UTC 2026) ...
+2026-06-27 01:15:28.069429 [NOTICE] Using [BoringSSL]
+2026-06-27 01:15:28.078793 [NOTICE] [ADMIN] server socket: uds://usr/local/lsws/admin/tmp/admin.sock.7854, fd 7.
+2026-06-27 01:15:28.079171 [NOTICE] [36] chroot is disabled.
+2026-06-27 01:15:28.079497 [ERROR] [36] [config:server:basics2] missing <mime> in <httpServerConfig>
+2026-06-27 01:15:28.079523 [ERROR] [36] [config:server:basics2] failed to load mime configure
+2026-06-27 01:15:28.079603 [ERROR] [36] Fatal error in configuration, exit!
+2026-06-27 01:15:31.357832 [WARN] [PlainConf] [httpServerConfig:] Not support [serverroot /usr/local/lsws] in file /usr/local/lsws/conf/httpd_config.conf:2
+2026-06-27 01:15:31.357934 [WARN] [PlainConf] [tuning:] Not support [gzipstatic 1] in file /usr/local/lsws/conf/httpd_config.conf:22
+2026-06-27 01:15:31.358138 [NOTICE] Loading LiteSpeed/1.9.0 Open (lsquic 4.6.2, modgzip 1.1, cache 1.66, mod_security 1.4 (with libmodsecurity v3.0.14)) BUILD (built: Thu May  7 15:34:11 UTC 2026) ...
+2026-06-27 01:15:31.358210 [NOTICE] Using [BoringSSL]
+2026-06-27 01:15:31.462487 [NOTICE] [ADMIN] server socket: uds://usr/local/lsws/admin/tmp/admin.sock.7270, fd 7.
+2026-06-27 01:15:31.463505 [NOTICE] [54] chroot is disabled.
+2026-06-27 01:15:31.463923 [ERROR] [54] [config:server:basics2] missing <mime> in <httpServerConfig>
+2026-06-27 01:15:31.463947 [ERROR] [54] [config:server:basics2] failed to load mime configure
+2026-06-27 01:15:31.464002 [ERROR] [54] Fatal error in configuration, exit!
+2026-06-27 01:15:33.923664 [NOTICE] [testAndFixDirs] "/usr/local/lsws//conf/" own or permission need to be changed.
+2026-06-27 01:15:34.044358 [WARN] [PlainConf] [httpServerConfig:] Not support [serverroot /usr/local/lsws] in file /usr/local/lsws/conf/httpd_config.conf:2
+2026-06-27 01:15:34.044396 [WARN] [PlainConf] [tuning:] Not support [gzipstatic 1] in file /usr/local/lsws/conf/httpd_config.conf:22
+2026-06-27 01:15:34.044407 [NOTICE] Loading LiteSpeed/1.9.0 Open (lsquic 4.6.2, modgzip 1.1, cache 1.66, mod_security 1.4 (with libmodsecurity v3.0.14)) BUILD (built: Thu May  7 15:34:11 UTC 2026) ...
+2026-06-27 01:15:34.044433 [NOTICE] Using [BoringSSL]
+2026-06-27 01:15:34.046392 [NOTICE] [ADMIN] server socket: uds://usr/local/lsws/admin/tmp/admin.sock.7693, fd 7.
+2026-06-27 01:15:34.046666 [NOTICE] [35] chroot is disabled.
+2026-06-27 01:15:34.046954 [ERROR] [35] [config:server:basics2] missing <mime> in <httpServerConfig>
+2026-06-27 01:15:34.046979 [ERROR] [35] [config:server:basics2] failed to load mime configure
+2026-06-27 01:15:34.047068 [ERROR] [35] Fatal error in configuration, exit!
+2026-06-27 01:15:37.233036 [WARN] [PlainConf] [httpServerConfig:] Not support [serverroot /usr/local/lsws] in file /usr/local/lsws/conf/httpd_config.conf:2
+2026-06-27 01:15:37.233177 [WARN] [PlainConf] [tuning:] Not support [gzipstatic 1] in file /usr/local/lsws/conf/httpd_config.conf:22
+2026-06-27 01:15:37.233189 [NOTICE] Loading LiteSpeed/1.9.0 Open (lsquic 4.6.2, modgzip 1.1, cache 1.66, mod_security 1.4 (with libmodsecurity v3.0.14)) BUILD (built: Thu May  7 15:34:11 UTC 2026) ...
+2026-06-27 01:15:37.233227 [NOTICE] Using [BoringSSL]
+2026-06-27 01:15:37.237994 [NOTICE] [ADMIN] server socket: uds://usr/local/lsws/admin/tmp/admin.sock.7541, fd 7.
+2026-06-27 01:15:37.238322 [NOTICE] [54] chroot is disabled.
+2026-06-27 01:15:37.238610 [ERROR] [54] [config:server:basics2] missing <mime> in <httpServerConfig>
+2026-06-27 01:15:37.238641 [ERROR] [54] [config:server:basics2] failed to load mime configure
+2026-06-27 01:15:37.238685 [ERROR] [54] Fatal error in configuration, exit!
+2026-06-27 01:15:39.275793 [NOTICE] [testAndFixDirs] "/usr/local/lsws//conf/" own or permission need to be changed.
+2026-06-27 01:15:39.486034 [WARN] [PlainConf] [httpServerConfig:] Not support [serverroot /usr/local/lsws] in file /usr/local/lsws/conf/httpd_config.conf:2
+2026-06-27 01:15:39.486073 [WARN] [PlainConf] [tuning:] Not support [gzipstatic 1] in file /usr/local/lsws/conf/httpd_config.conf:22
+2026-06-27 01:15:39.486084 [NOTICE] Loading LiteSpeed/1.9.0 Open (lsquic 4.6.2, modgzip 1.1, cache 1.66, mod_security 1.4 (with libmodsecurity v3.0.14)) BUILD (built: Thu May  7 15:34:11 UTC 2026) ...
+2026-06-27 01:15:39.486113 [NOTICE] Using [BoringSSL]
+2026-06-27 01:15:39.591636 [NOTICE] [ADMIN] server socket: uds://usr/local/lsws/admin/tmp/admin.sock.7777, fd 7.
+2026-06-27 01:15:39.592230 [NOTICE] [35] chroot is disabled.
+2026-06-27 01:15:39.592571 [ERROR] [35] [config:server:basics2] missing <mime> in <httpServerConfig>
+2026-06-27 01:15:39.592595 [ERROR] [35] [config:server:basics2] failed to load mime configure
+2026-06-27 01:15:39.592687 [ERROR] [35] Fatal error in configuration, exit!
+2026-06-27 01:15:43.631398 [WARN] [PlainConf] [httpServerConfig:] Not support [serverroot /usr/local/lsws] in file /usr/local/lsws/conf/httpd_config.conf:2
+2026-06-27 01:15:43.631516 [WARN] [PlainConf] [tuning:] Not support [gzipstatic 1] in file /usr/local/lsws/conf/httpd_config.conf:22
+2026-06-27 01:15:43.631528 [NOTICE] Loading LiteSpeed/1.9.0 Open (lsquic 4.6.2, modgzip 1.1, cache 1.66, mod_security 1.4 (with libmodsecurity v3.0.14)) BUILD (built: Thu May  7 15:34:11 UTC 2026) ...
+2026-06-27 01:15:43.631562 [NOTICE] Using [BoringSSL]
+2026-06-27 01:15:43.635201 [NOTICE] [ADMIN] server socket: uds://usr/local/lsws/admin/tmp/admin.sock.7677, fd 7.
+2026-06-27 01:15:43.635565 [NOTICE] [56] chroot is disabled.
+2026-06-27 01:15:43.635926 [ERROR] [56] [config:server:basics2] missing <mime> in <httpServerConfig>
+2026-06-27 01:15:43.635950 [ERROR] [56] [config:server:basics2] failed to load mime configure
+2026-06-27 01:15:43.635997 [ERROR] [56] Fatal error in configuration, exit!
+2026-06-27 01:15:46.339511 [NOTICE] [testAndFixDirs] "/usr/local/lsws//conf/" own or permission need to be changed.
+2026-06-27 01:15:46.410223 [WARN] [PlainConf] [httpServerConfig:] Not support [serverroot /usr/local/lsws] in file /usr/local/lsws/conf/httpd_config.conf:2
+2026-06-27 01:15:46.410274 [WARN] [PlainConf] [tuning:] Not support [gzipstatic 1] in file /usr/local/lsws/conf/httpd_config.conf:22
+2026-06-27 01:15:46.410284 [NOTICE] Loading LiteSpeed/1.9.0 Open (lsquic 4.6.2, modgzip 1.1, cache 1.66, mod_security 1.4 (with libmodsecurity v3.0.14)) BUILD (built: Thu May  7 15:34:11 UTC 2026) ...
+2026-06-27 01:15:46.410309 [NOTICE] Using [BoringSSL]
+2026-06-27 01:15:46.412969 [NOTICE] [ADMIN] server socket: uds://usr/local/lsws/admin/tmp/admin.sock.7424, fd 7.
+2026-06-27 01:15:46.413276 [NOTICE] [35] chroot is disabled.
+2026-06-27 01:15:46.413562 [ERROR] [35] [config:server:basics2] missing <mime> in <httpServerConfig>
+2026-06-27 01:15:46.413596 [ERROR] [35] [config:server:basics2] failed to load mime configure
+2026-06-27 01:15:46.413666 [ERROR] [35] Fatal error in configuration, exit!
+2026-06-27 01:15:49.553292 [WARN] [PlainConf] [httpServerConfig:] Not support [serverroot /usr/local/lsws] in file /usr/local/lsws/conf/httpd_config.conf:2
+2026-06-27 01:15:49.553393 [WARN] [PlainConf] [tuning:] Not support [gzipstatic 1] in file /usr/local/lsws/conf/httpd_config.conf:22
+2026-06-27 01:15:49.553403 [NOTICE] Loading LiteSpeed/1.9.0 Open (lsquic 4.6.2, modgzip 1.1, cache 1.66, mod_security 1.4 (with libmodsecurity v3.0.14)) BUILD (built: Thu May  7 15:34:11 UTC 2026) ...
+2026-06-27 01:15:49.553440 [NOTICE] Using [BoringSSL]
+2026-06-27 01:15:49.560307 [NOTICE] [ADMIN] server socket: uds://usr/local/lsws/admin/tmp/admin.sock.7109, fd 7.
+2026-06-27 01:15:49.560600 [NOTICE] [54] chroot is disabled.
+2026-06-27 01:15:49.560896 [ERROR] [54] [config:server:basics2] missing <mime> in <httpServerConfig>
+2026-06-27 01:15:49.560914 [ERROR] [54] [config:server:basics2] failed to load mime configure
+2026-06-27 01:15:49.561065 [ERROR] [54] Fatal error in configuration, exit!
+2026-06-27 01:15:53.704496 [NOTICE] [testAndFixDirs] "/usr/local/lsws//conf/" own or permission need to be changed.
+2026-06-27 01:15:53.802218 [WARN] [PlainConf] [httpServerConfig:] Not support [serverroot /usr/local/lsws] in file /usr/local/lsws/conf/httpd_config.conf:2
+2026-06-27 01:15:53.802269 [WARN] [PlainConf] [tuning:] Not support [gzipstatic 1] in file /usr/local/lsws/conf/httpd_config.conf:22
+2026-06-27 01:15:53.802280 [NOTICE] Loading LiteSpeed/1.9.0 Open (lsquic 4.6.2, modgzip 1.1, cache 1.66, mod_security 1.4 (with libmodsecurity v3.0.14)) BUILD (built: Thu May  7 15:34:11 UTC 2026) ...
+2026-06-27 01:15:53.802312 [NOTICE] Using [BoringSSL]
+2026-06-27 01:15:53.822851 [NOTICE] [ADMIN] server socket: uds://usr/local/lsws/admin/tmp/admin.sock.7477, fd 7.
+2026-06-27 01:15:53.826177 [NOTICE] [34] chroot is disabled.
+2026-06-27 01:15:53.833633 [ERROR] [34] [config:server:basics2] missing <mime> in <httpServerConfig>
+2026-06-27 01:15:53.833693 [ERROR] [34] [config:server:basics2] failed to load mime configure
+2026-06-27 01:15:53.834171 [ERROR] [34] Fatal error in configuration, exit!
+2026-06-27 01:15:56.942609 [WARN] [PlainConf] [httpServerConfig:] Not support [serverroot /usr/local/lsws] in file /usr/local/lsws/conf/httpd_config.conf:2
+2026-06-27 01:15:56.942693 [WARN] [PlainConf] [tuning:] Not support [gzipstatic 1] in file /usr/local/lsws/conf/httpd_config.conf:22
+2026-06-27 01:15:56.942702 [NOTICE] Loading LiteSpeed/1.9.0 Open (lsquic 4.6.2, modgzip 1.1, cache 1.66, mod_security 1.4 (with libmodsecurity v3.0.14)) BUILD (built: Thu May  7 15:34:11 UTC 2026) ...
+2026-06-27 01:15:56.942742 [NOTICE] Using [BoringSSL]
+2026-06-27 01:15:56.944451 [NOTICE] [ADMIN] server socket: uds://usr/local/lsws/admin/tmp/admin.sock.7960, fd 7.
+2026-06-27 01:15:56.946057 [NOTICE] [53] chroot is disabled.
+2026-06-27 01:15:56.946357 [ERROR] [53] [config:server:basics2] missing <mime> in <httpServerConfig>
+2026-06-27 01:15:56.946378 [ERROR] [53] [config:server:basics2] failed to load mime configure
+2026-06-27 01:15:56.946426 [ERROR] [53] Fatal error in configuration, exit!
+2026-06-27 01:16:06.714486 [NOTICE] [testAndFixDirs] "/usr/local/lsws//conf/" own or permission need to be changed.
+2026-06-27 01:16:06.810941 [WARN] [PlainConf] [httpServerConfig:] Not support [serverroot /usr/local/lsws] in file /usr/local/lsws/conf/httpd_config.conf:2
+2026-06-27 01:16:06.810981 [WARN] [PlainConf] [tuning:] Not support [gzipstatic 1] in file /usr/local/lsws/conf/httpd_config.conf:22
+2026-06-27 01:16:06.810991 [NOTICE] Loading LiteSpeed/1.9.0 Open (lsquic 4.6.2, modgzip 1.1, cache 1.66, mod_security 1.4 (with libmodsecurity v3.0.14)) BUILD (built: Thu May  7 15:34:11 UTC 2026) ...
+2026-06-27 01:16:06.811023 [NOTICE] Using [BoringSSL]
+2026-06-27 01:16:06.819629 [NOTICE] [ADMIN] server socket: uds://usr/local/lsws/admin/tmp/admin.sock.7952, fd 7.
+2026-06-27 01:16:06.820004 [NOTICE] [36] chroot is disabled.
+2026-06-27 01:16:06.820300 [ERROR] [36] [config:server:basics2] missing <mime> in <httpServerConfig>
+2026-06-27 01:16:06.820319 [ERROR] [36] [config:server:basics2] failed to load mime configure
+2026-06-27 01:16:06.820393 [ERROR] [36] Fatal error in configuration, exit!
+2026-06-27 01:16:10.050613 [WARN] [PlainConf] [httpServerConfig:] Not support [serverroot /usr/local/lsws] in file /usr/local/lsws/conf/httpd_config.conf:2
+2026-06-27 01:16:10.050703 [WARN] [PlainConf] [tuning:] Not support [gzipstatic 1] in file /usr/local/lsws/conf/httpd_config.conf:22
+2026-06-27 01:16:10.050712 [NOTICE] Loading LiteSpeed/1.9.0 Open (lsquic 4.6.2, modgzip 1.1, cache 1.66, mod_security 1.4 (with libmodsecurity v3.0.14)) BUILD (built: Thu May  7 15:34:11 UTC 2026) ...
+2026-06-27 01:16:10.050759 [NOTICE] Using [BoringSSL]
+2026-06-27 01:16:10.053808 [NOTICE] [ADMIN] server socket: uds://usr/local/lsws/admin/tmp/admin.sock.7691, fd 7.
+2026-06-27 01:16:10.054272 [NOTICE] [54] chroot is disabled.
+2026-06-27 01:16:10.054523 [ERROR] [54] [config:server:basics2] missing <mime> in <httpServerConfig>
+2026-06-27 01:16:10.054542 [ERROR] [54] [config:server:basics2] failed to load mime configure
+2026-06-27 01:16:10.054577 [ERROR] [54] Fatal error in configuration, exit!
+2026-06-27 01:16:23.739393 [NOTICE] [testAndFixDirs] "/usr/local/lsws//conf/" own or permission need to be changed.
+2026-06-27 01:16:23.787186 [WARN] [PlainConf] [httpServerConfig:] Not support [serverroot /usr/local/lsws] in file /usr/local/lsws/conf/httpd_config.conf:2
+2026-06-27 01:16:23.787228 [WARN] [PlainConf] [tuning:] Not support [gzipstatic 1] in file /usr/local/lsws/conf/httpd_config.conf:22
+2026-06-27 01:16:23.787259 [NOTICE] Loading LiteSpeed/1.9.0 Open (lsquic 4.6.2, modgzip 1.1, cache 1.66, mod_security 1.4 (with libmodsecurity v3.0.14)) BUILD (built: Thu May  7 15:34:11 UTC 2026) ...
+2026-06-27 01:16:23.787287 [NOTICE] Using [BoringSSL]
+2026-06-27 01:16:23.890012 [NOTICE] [ADMIN] server socket: uds://usr/local/lsws/admin/tmp/admin.sock.7365, fd 7.
+2026-06-27 01:16:23.890401 [NOTICE] [34] chroot is disabled.
+2026-06-27 01:16:23.890914 [ERROR] [34] [config:server:basics2] missing <mime> in <httpServerConfig>
+2026-06-27 01:16:23.890942 [ERROR] [34] [config:server:basics2] failed to load mime configure
+2026-06-27 01:16:23.891036 [ERROR] [34] Fatal error in configuration, exit!
+2026-06-27 01:16:27.903512 [WARN] [PlainConf] [httpServerConfig:] Not support [serverroot /usr/local/lsws] in file /usr/local/lsws/conf/httpd_config.conf:2
+2026-06-27 01:16:27.903592 [WARN] [PlainConf] [tuning:] Not support [gzipstatic 1] in file /usr/local/lsws/conf/httpd_config.conf:22
+2026-06-27 01:16:27.903599 [NOTICE] Loading LiteSpeed/1.9.0 Open (lsquic 4.6.2, modgzip 1.1, cache 1.66, mod_security 1.4 (with libmodsecurity v3.0.14)) BUILD (built: Thu May  7 15:34:11 UTC 2026) ...
+2026-06-27 01:16:27.903619 [NOTICE] Using [BoringSSL]
+2026-06-27 01:16:27.906095 [NOTICE] [ADMIN] server socket: uds://usr/local/lsws/admin/tmp/admin.sock.7906, fd 7.
+2026-06-27 01:16:27.906759 [NOTICE] [55] chroot is disabled.
+2026-06-27 01:16:27.907062 [ERROR] [55] [config:server:basics2] missing <mime> in <httpServerConfig>
+2026-06-27 01:16:27.907086 [ERROR] [55] [config:server:basics2] failed to load mime configure
+2026-06-27 01:16:27.907129 [ERROR] [55] Fatal error in configuration, exit!
+2026-06-27 01:16:54.377606 [NOTICE] [testAndFixDirs] "/usr/local/lsws//conf/" own or permission need to be changed.
+2026-06-27 01:16:54.421325 [WARN] [PlainConf] [httpServerConfig:] Not support [serverroot /usr/local/lsws] in file /usr/local/lsws/conf/httpd_config.conf:2
+2026-06-27 01:16:54.421361 [WARN] [PlainConf] [tuning:] Not support [gzipstatic 1] in file /usr/local/lsws/conf/httpd_config.conf:22
+2026-06-27 01:16:54.421370 [NOTICE] Loading LiteSpeed/1.9.0 Open (lsquic 4.6.2, modgzip 1.1, cache 1.66, mod_security 1.4 (with libmodsecurity v3.0.14)) BUILD (built: Thu May  7 15:34:11 UTC 2026) ...
+2026-06-27 01:16:54.421391 [NOTICE] Using [BoringSSL]
+2026-06-27 01:16:54.425271 [NOTICE] [ADMIN] server socket: uds://usr/local/lsws/admin/tmp/admin.sock.7730, fd 7.
+2026-06-27 01:16:54.425603 [NOTICE] [35] chroot is disabled.
+2026-06-27 01:16:54.425935 [ERROR] [35] [config:server:basics2] missing <mime> in <httpServerConfig>
+2026-06-27 01:16:54.425961 [ERROR] [35] [config:server:basics2] failed to load mime configure
+2026-06-27 01:16:54.426036 [ERROR] [35] Fatal error in configuration, exit!
+2026-06-27 01:16:57.516665 [WARN] [PlainConf] [httpServerConfig:] Not support [serverroot /usr/local/lsws] in file /usr/local/lsws/conf/httpd_config.conf:2
+2026-06-27 01:16:57.516803 [WARN] [PlainConf] [tuning:] Not support [gzipstatic 1] in file /usr/local/lsws/conf/httpd_config.conf:22
+2026-06-27 01:16:57.516817 [NOTICE] Loading LiteSpeed/1.9.0 Open (lsquic 4.6.2, modgzip 1.1, cache 1.66, mod_security 1.4 (with libmodsecurity v3.0.14)) BUILD (built: Thu May  7 15:34:11 UTC 2026) ...
+2026-06-27 01:16:57.516841 [NOTICE] Using [BoringSSL]
+2026-06-27 01:16:57.518458 [NOTICE] [ADMIN] server socket: uds://usr/local/lsws/admin/tmp/admin.sock.7761, fd 7.
+2026-06-27 01:16:57.518789 [NOTICE] [54] chroot is disabled.
+2026-06-27 01:16:57.519065 [ERROR] [54] [config:server:basics2] missing <mime> in <httpServerConfig>
+2026-06-27 01:16:57.519085 [ERROR] [54] [config:server:basics2] failed to load mime configure
+2026-06-27 01:16:57.519122 [ERROR] [54] Fatal error in configuration, exit!
+2026-06-27 01:17:50.550072 [NOTICE] [testAndFixDirs] "/usr/local/lsws//conf/" own or permission need to be changed.
+2026-06-27 01:17:50.659563 [WARN] [PlainConf] [httpServerConfig:] Not support [serverroot /usr/local/lsws] in file /usr/local/lsws/conf/httpd_config.conf:2
+2026-06-27 01:17:50.659601 [WARN] [PlainConf] [tuning:] Not support [gzipstatic 1] in file /usr/local/lsws/conf/httpd_config.conf:22
+2026-06-27 01:17:50.659612 [NOTICE] Loading LiteSpeed/1.9.0 Open (lsquic 4.6.2, modgzip 1.1, cache 1.66, mod_security 1.4 (with libmodsecurity v3.0.14)) BUILD (built: Thu May  7 15:34:11 UTC 2026) ...
+2026-06-27 01:17:50.663066 [NOTICE] Using [BoringSSL]
+2026-06-27 01:17:50.666343 [NOTICE] [ADMIN] server socket: uds://usr/local/lsws/admin/tmp/admin.sock.7442, fd 7.
+2026-06-27 01:17:50.666786 [NOTICE] [35] chroot is disabled.
+2026-06-27 01:17:50.667062 [ERROR] [35] [config:server:basics2] missing <mime> in <httpServerConfig>
+2026-06-27 01:17:50.667085 [ERROR] [35] [config:server:basics2] failed to load mime configure
+2026-06-27 01:17:50.667305 [ERROR] [35] Fatal error in configuration, exit!
+2026-06-27 01:17:53.796152 [WARN] [PlainConf] [httpServerConfig:] Not support [serverroot /usr/local/lsws] in file /usr/local/lsws/conf/httpd_config.conf:2
+2026-06-27 01:17:53.796276 [WARN] [PlainConf] [tuning:] Not support [gzipstatic 1] in file /usr/local/lsws/conf/httpd_config.conf:22
+2026-06-27 01:17:53.796288 [NOTICE] Loading LiteSpeed/1.9.0 Open (lsquic 4.6.2, modgzip 1.1, cache 1.66, mod_security 1.4 (with libmodsecurity v3.0.14)) BUILD (built: Thu May  7 15:34:11 UTC 2026) ...
+2026-06-27 01:17:53.796315 [NOTICE] Using [BoringSSL]
+2026-06-27 01:17:53.799921 [NOTICE] [ADMIN] server socket: uds://usr/local/lsws/admin/tmp/admin.sock.7924, fd 7.
+2026-06-27 01:17:53.800223 [NOTICE] [54] chroot is disabled.
+2026-06-27 01:17:53.800536 [ERROR] [54] [config:server:basics2] missing <mime> in <httpServerConfig>
+2026-06-27 01:17:53.800558 [ERROR] [54] [config:server:basics2] failed to load mime configure
+2026-06-27 01:17:53.800601 [ERROR] [54] Fatal error in configuration, exit!
+2026-06-27 01:18:54.796605 [NOTICE] [testAndFixDirs] "/usr/local/lsws//conf/" own or permission need to be changed.
+2026-06-27 01:18:54.846619 [WARN] [PlainConf] [httpServerConfig:] Not support [serverroot /usr/local/lsws] in file /usr/local/lsws/conf/httpd_config.conf:2
+2026-06-27 01:18:54.846653 [WARN] [PlainConf] [tuning:] Not support [gzipstatic 1] in file /usr/local/lsws/conf/httpd_config.conf:22
+2026-06-27 01:18:54.846662 [NOTICE] Loading LiteSpeed/1.9.0 Open (lsquic 4.6.2, modgzip 1.1, cache 1.66, mod_security 1.4 (with libmodsecurity v3.0.14)) BUILD (built: Thu May  7 15:34:11 UTC 2026) ...
+2026-06-27 01:18:54.846687 [NOTICE] Using [BoringSSL]
+2026-06-27 01:18:54.951103 [NOTICE] [ADMIN] server socket: uds://usr/local/lsws/admin/tmp/admin.sock.7737, fd 7.
+2026-06-27 01:18:54.951497 [NOTICE] [35] chroot is disabled.
+2026-06-27 01:18:54.951854 [ERROR] [35] [config:server:basics2] missing <mime> in <httpServerConfig>
+2026-06-27 01:18:54.951879 [ERROR] [35] [config:server:basics2] failed to load mime configure
+2026-06-27 01:18:54.952310 [ERROR] [35] Fatal error in configuration, exit!
+2026-06-27 01:18:58.995887 [WARN] [PlainConf] [httpServerConfig:] Not support [serverroot /usr/local/lsws] in file /usr/local/lsws/conf/httpd_config.conf:2
+2026-06-27 01:18:58.996009 [WARN] [PlainConf] [tuning:] Not support [gzipstatic 1] in file /usr/local/lsws/conf/httpd_config.conf:22
+2026-06-27 01:18:58.996021 [NOTICE] Loading LiteSpeed/1.9.0 Open (lsquic 4.6.2, modgzip 1.1, cache 1.66, mod_security 1.4 (with libmodsecurity v3.0.14)) BUILD (built: Thu May  7 15:34:11 UTC 2026) ...
+2026-06-27 01:18:58.996087 [NOTICE] Using [BoringSSL]
+2026-06-27 01:18:59.000643 [NOTICE] [ADMIN] server socket: uds://usr/local/lsws/admin/tmp/admin.sock.7340, fd 7.
+2026-06-27 01:18:59.001104 [NOTICE] [56] chroot is disabled.
+2026-06-27 01:18:59.002869 [ERROR] [56] [config:server:basics2] missing <mime> in <httpServerConfig>
+2026-06-27 01:18:59.002900 [ERROR] [56] [config:server:basics2] failed to load mime configure
+2026-06-27 01:18:59.002954 [ERROR] [56] Fatal error in configuration, exit!
+2026-06-27 01:19:59.864752 [NOTICE] [testAndFixDirs] "/usr/local/lsws//conf/" own or permission need to be changed.
+2026-06-27 01:19:59.913781 [WARN] [PlainConf] [httpServerConfig:] Not support [serverroot /usr/local/lsws] in file /usr/local/lsws/conf/httpd_config.conf:2
+2026-06-27 01:19:59.913821 [WARN] [PlainConf] [tuning:] Not support [gzipstatic 1] in file /usr/local/lsws/conf/httpd_config.conf:22
+2026-06-27 01:19:59.913830 [NOTICE] Loading LiteSpeed/1.9.0 Open (lsquic 4.6.2, modgzip 1.1, cache 1.66, mod_security 1.4 (with libmodsecurity v3.0.14)) BUILD (built: Thu May  7 15:34:11 UTC 2026) ...
+2026-06-27 01:19:59.913857 [NOTICE] Using [BoringSSL]
+2026-06-27 01:19:59.916072 [NOTICE] [ADMIN] server socket: uds://usr/local/lsws/admin/tmp/admin.sock.7260, fd 7.
+2026-06-27 01:19:59.916523 [NOTICE] [34] chroot is disabled.
+2026-06-27 01:19:59.916796 [ERROR] [34] [config:server:basics2] missing <mime> in <httpServerConfig>
+2026-06-27 01:19:59.916820 [ERROR] [34] [config:server:basics2] failed to load mime configure
+2026-06-27 01:19:59.916891 [ERROR] [34] Fatal error in configuration, exit!
+2026-06-27 01:20:03.323990 [WARN] [PlainConf] [httpServerConfig:] Not support [serverroot /usr/local/lsws] in file /usr/local/lsws/conf/httpd_config.conf:2
+2026-06-27 01:20:03.324125 [WARN] [PlainConf] [tuning:] Not support [gzipstatic 1] in file /usr/local/lsws/conf/httpd_config.conf:22
+2026-06-27 01:20:03.324136 [NOTICE] Loading LiteSpeed/1.9.0 Open (lsquic 4.6.2, modgzip 1.1, cache 1.66, mod_security 1.4 (with libmodsecurity v3.0.14)) BUILD (built: Thu May  7 15:34:11 UTC 2026) ...
+2026-06-27 01:20:03.324175 [NOTICE] Using [BoringSSL]
+2026-06-27 01:20:03.429475 [NOTICE] [ADMIN] server socket: uds://usr/local/lsws/admin/tmp/admin.sock.7652, fd 7.
+2026-06-27 01:20:03.430374 [NOTICE] [53] chroot is disabled.
+2026-06-27 01:20:03.430851 [ERROR] [53] [config:server:basics2] missing <mime> in <httpServerConfig>
+2026-06-27 01:20:03.430877 [ERROR] [53] [config:server:basics2] failed to load mime configure
+2026-06-27 01:20:03.430920 [ERROR] [53] Fatal error in configuration, exit!
+2026-06-27 01:21:06.013004 [NOTICE] [testAndFixDirs] "/usr/local/lsws//conf/" own or permission need to be changed.
+2026-06-27 01:21:06.082267 [WARN] [PlainConf] [httpServerConfig:] Not support [serverroot /usr/local/lsws] in file /usr/local/lsws/conf/httpd_config.conf:2
+2026-06-27 01:21:06.082298 [WARN] [PlainConf] [tuning:] Not support [gzipstatic 1] in file /usr/local/lsws/conf/httpd_config.conf:22
+2026-06-27 01:21:06.082306 [NOTICE] Loading LiteSpeed/1.9.0 Open (lsquic 4.6.2, modgzip 1.1, cache 1.66, mod_security 1.4 (with libmodsecurity v3.0.14)) BUILD (built: Thu May  7 15:34:11 UTC 2026) ...
+2026-06-27 01:21:06.082325 [NOTICE] Using [BoringSSL]
+2026-06-27 01:21:06.084303 [NOTICE] [ADMIN] server socket: uds://usr/local/lsws/admin/tmp/admin.sock.7997, fd 7.
+2026-06-27 01:21:06.084578 [NOTICE] [36] chroot is disabled.
+2026-06-27 01:21:06.084852 [ERROR] [36] [config:server:basics2] missing <mime> in <httpServerConfig>
+2026-06-27 01:21:06.084876 [ERROR] [36] [config:server:basics2] failed to load mime configure
+2026-06-27 01:21:06.084946 [ERROR] [36] Fatal error in configuration, exit!
+2026-06-27 01:21:09.205188 [WARN] [PlainConf] [httpServerConfig:] Not support [serverroot /usr/local/lsws] in file /usr/local/lsws/conf/httpd_config.conf:2
+2026-06-27 01:21:09.205333 [WARN] [PlainConf] [tuning:] Not support [gzipstatic 1] in file /usr/local/lsws/conf/httpd_config.conf:22
+2026-06-27 01:21:09.205345 [NOTICE] Loading LiteSpeed/1.9.0 Open (lsquic 4.6.2, modgzip 1.1, cache 1.66, mod_security 1.4 (with libmodsecurity v3.0.14)) BUILD (built: Thu May  7 15:34:11 UTC 2026) ...
+2026-06-27 01:21:09.205395 [NOTICE] Using [BoringSSL]
+2026-06-27 01:21:09.208008 [NOTICE] [ADMIN] server socket: uds://usr/local/lsws/admin/tmp/admin.sock.7396, fd 7.
+2026-06-27 01:21:09.208332 [NOTICE] [54] chroot is disabled.
+2026-06-27 01:21:09.208581 [ERROR] [54] [config:server:basics2] missing <mime> in <httpServerConfig>
+2026-06-27 01:21:09.208597 [ERROR] [54] [config:server:basics2] failed to load mime configure
+2026-06-27 01:21:09.208631 [ERROR] [54] Fatal error in configuration, exit!
+2026-06-27 01:22:09.960974 [NOTICE] [testAndFixDirs] "/usr/local/lsws//conf/" own or permission need to be changed.
+2026-06-27 01:22:10.057056 [WARN] [PlainConf] [httpServerConfig:] Not support [serverroot /usr/local/lsws] in file /usr/local/lsws/conf/httpd_config.conf:2
+2026-06-27 01:22:10.057094 [WARN] [PlainConf] [tuning:] Not support [gzipstatic 1] in file /usr/local/lsws/conf/httpd_config.conf:22
+2026-06-27 01:22:10.057104 [NOTICE] Loading LiteSpeed/1.9.0 Open (lsquic 4.6.2, modgzip 1.1, cache 1.66, mod_security 1.4 (with libmodsecurity v3.0.14)) BUILD (built: Thu May  7 15:34:11 UTC 2026) ...
+2026-06-27 01:22:10.057130 [NOTICE] Using [BoringSSL]
+2026-06-27 01:22:10.059951 [NOTICE] [ADMIN] server socket: uds://usr/local/lsws/admin/tmp/admin.sock.7363, fd 7.
+2026-06-27 01:22:10.060273 [NOTICE] [35] chroot is disabled.
+2026-06-27 01:22:10.060548 [ERROR] [35] [config:server:basics2] missing <mime> in <httpServerConfig>
+2026-06-27 01:22:10.060570 [ERROR] [35] [config:server:basics2] failed to load mime configure
+2026-06-27 01:22:10.060645 [ERROR] [35] Fatal error in configuration, exit!
+2026-06-27 01:22:13.161130 [WARN] [PlainConf] [httpServerConfig:] Not support [serverroot /usr/local/lsws] in file /usr/local/lsws/conf/httpd_config.conf:2
+2026-06-27 01:22:13.161237 [WARN] [PlainConf] [tuning:] Not support [gzipstatic 1] in file /usr/local/lsws/conf/httpd_config.conf:22
+2026-06-27 01:22:13.161269 [NOTICE] Loading LiteSpeed/1.9.0 Open (lsquic 4.6.2, modgzip 1.1, cache 1.66, mod_security 1.4 (with libmodsecurity v3.0.14)) BUILD (built: Thu May  7 15:34:11 UTC 2026) ...
+2026-06-27 01:22:13.161304 [NOTICE] Using [BoringSSL]
+2026-06-27 01:22:13.164590 [NOTICE] [ADMIN] server socket: uds://usr/local/lsws/admin/tmp/admin.sock.7944, fd 7.
+2026-06-27 01:22:13.165052 [NOTICE] [54] chroot is disabled.
+2026-06-27 01:22:13.166021 [ERROR] [54] [config:server:basics2] missing <mime> in <httpServerConfig>
+2026-06-27 01:22:13.166053 [ERROR] [54] [config:server:basics2] failed to load mime configure
+2026-06-27 01:22:13.166098 [ERROR] [54] Fatal error in configuration, exit!
+2026-06-27 01:23:14.050115 [NOTICE] [testAndFixDirs] "/usr/local/lsws//conf/" own or permission need to be changed.
+2026-06-27 01:23:14.093891 [WARN] [PlainConf] [httpServerConfig:] Not support [serverroot /usr/local/lsws] in file /usr/local/lsws/conf/httpd_config.conf:2
+2026-06-27 01:23:14.093929 [WARN] [PlainConf] [tuning:] Not support [gzipstatic 1] in file /usr/local/lsws/conf/httpd_config.conf:22
+2026-06-27 01:23:14.093939 [NOTICE] Loading LiteSpeed/1.9.0 Open (lsquic 4.6.2, modgzip 1.1, cache 1.66, mod_security 1.4 (with libmodsecurity v3.0.14)) BUILD (built: Thu May  7 15:34:11 UTC 2026) ...
+2026-06-27 01:23:14.093961 [NOTICE] Using [BoringSSL]
+2026-06-27 01:23:14.095911 [NOTICE] [ADMIN] server socket: uds://usr/local/lsws/admin/tmp/admin.sock.7219, fd 7.
+2026-06-27 01:23:14.096179 [NOTICE] [34] chroot is disabled.
+2026-06-27 01:23:14.096476 [ERROR] [34] [config:server:basics2] missing <mime> in <httpServerConfig>
+2026-06-27 01:23:14.096500 [ERROR] [34] [config:server:basics2] failed to load mime configure
+2026-06-27 01:23:14.096586 [ERROR] [34] Fatal error in configuration, exit!
+2026-06-27 01:23:17.205407 [WARN] [PlainConf] [httpServerConfig:] Not support [serverroot /usr/local/lsws] in file /usr/local/lsws/conf/httpd_config.conf:2
+2026-06-27 01:23:17.205509 [WARN] [PlainConf] [tuning:] Not support [gzipstatic 1] in file /usr/local/lsws/conf/httpd_config.conf:22
+2026-06-27 01:23:17.205543 [NOTICE] Loading LiteSpeed/1.9.0 Open (lsquic 4.6.2, modgzip 1.1, cache 1.66, mod_security 1.4 (with libmodsecurity v3.0.14)) BUILD (built: Thu May  7 15:34:11 UTC 2026) ...
+2026-06-27 01:23:17.205572 [NOTICE] Using [BoringSSL]
+2026-06-27 01:23:17.208719 [NOTICE] [ADMIN] server socket: uds://usr/local/lsws/admin/tmp/admin.sock.7392, fd 7.
+2026-06-27 01:23:17.209050 [NOTICE] [53] chroot is disabled.
+2026-06-27 01:23:17.209563 [ERROR] [53] [config:server:basics2] missing <mime> in <httpServerConfig>
+2026-06-27 01:23:17.209588 [ERROR] [53] [config:server:basics2] failed to load mime configure
+2026-06-27 01:23:17.209624 [ERROR] [53] Fatal error in configuration, exit!
+2026-06-27 01:43:10.479406 [ERROR] [config:server:basics] Invalid User Name(nobody) or Group Name(nobody)!
+2026-06-27 01:43:28.298632 [ERROR] [config:server:basics] Invalid User Name(nobody) or Group Name(nobody)!
+2026-06-27 01:43:29.683090 [ERROR] [config:server:basics] Invalid User Name(nobody) or Group Name(nobody)!
+2026-06-27 01:43:47.144043 [ERROR] [config:server:basics] Invalid User Name(nobody) or Group Name(nobody)!
+2026-06-27 01:43:48.080389 [ERROR] [config:server:basics] Invalid User Name(nobody) or Group Name(nobody)!
+2026-06-27 01:44:05.746633 [ERROR] [config:server:basics] Invalid User Name(nobody) or Group Name(nobody)!
+2026-06-27 01:44:07.175817 [ERROR] [config:server:basics] Invalid User Name(nobody) or Group Name(nobody)!
+2026-06-27 01:44:24.625693 [ERROR] [config:server:basics] Invalid User Name(nobody) or Group Name(nobody)!
+2026-06-27 01:44:25.594691 [ERROR] [config:server:basics] Invalid User Name(nobody) or Group Name(nobody)!
+2026-06-27 01:44:43.046777 [ERROR] [config:server:basics] Invalid User Name(nobody) or Group Name(nobody)!
+2026-06-27 01:44:44.182897 [ERROR] [config:server:basics] Invalid User Name(nobody) or Group Name(nobody)!
+2026-06-27 01:45:02.073548 [ERROR] [config:server:basics] Invalid User Name(nobody) or Group Name(nobody)!
+2026-06-27 01:45:08.094555 [ERROR] [config:server:basics] Invalid User Name(nobody) or Group Name(nobody)!
+2026-06-27 01:45:25.635719 [ERROR] [config:server:basics] Invalid User Name(nobody) or Group Name(nobody)!
+2026-06-27 01:45:26.886096 [ERROR] [config:server:basics] Invalid User Name(nobody) or Group Name(nobody)!
+2026-06-27 01:45:44.454287 [ERROR] [config:server:basics] Invalid User Name(nobody) or Group Name(nobody)!
+2026-06-27 01:45:45.457281 [ERROR] [config:server:basics] Invalid User Name(nobody) or Group Name(nobody)!
+2026-06-27 01:46:03.089914 [ERROR] [config:server:basics] Invalid User Name(nobody) or Group Name(nobody)!
+2026-06-27 01:46:05.208239 [ERROR] [config:server:basics] Invalid User Name(nobody) or Group Name(nobody)!
+2026-06-27 01:46:22.683795 [ERROR] [config:server:basics] Invalid User Name(nobody) or Group Name(nobody)!
+2026-06-27 01:46:23.604679 [ERROR] [config:server:basics] Invalid User Name(nobody) or Group Name(nobody)!
+2026-06-27 01:46:41.024409 [ERROR] [config:server:basics] Invalid User Name(nobody) or Group Name(nobody)!
+2026-06-27 01:46:41.994456 [ERROR] [config:server:basics] Invalid User Name(nobody) or Group Name(nobody)!
+2026-06-27 01:46:59.461351 [ERROR] [config:server:basics] Invalid User Name(nobody) or Group Name(nobody)!
+2026-06-27 01:47:01.609367 [ERROR] [config:server:basics] Invalid User Name(nobody) or Group Name(nobody)!
+2026-06-27 01:47:19.200201 [ERROR] [config:server:basics] Invalid User Name(nobody) or Group Name(nobody)!
+2026-06-27 01:47:20.326949 [ERROR] [config:server:basics] Invalid User Name(nobody) or Group Name(nobody)!
+2026-06-27 01:47:37.885462 [ERROR] [config:server:basics] Invalid User Name(nobody) or Group Name(nobody)!
+2026-06-27 01:47:39.005627 [ERROR] [config:server:basics] Invalid User Name(nobody) or Group Name(nobody)!
+2026-06-27 01:47:56.451596 [ERROR] [config:server:basics] Invalid User Name(nobody) or Group Name(nobody)!
+2026-06-27 01:47:57.590020 [ERROR] [config:server:basics] Invalid User Name(nobody) or Group Name(nobody)!
+2026-06-27 01:48:15.501130 [ERROR] [config:server:basics] Invalid User Name(nobody) or Group Name(nobody)!
+2026-06-27 01:48:16.736567 [INFO] [config:server:basics] httpdWorkers: 4, Num of Processors: 4
+2026-06-27 01:48:16.736765 [INFO] [config:server:basics] enableLVE: 0
+2026-06-27 01:48:16.736783 [INFO] [config:server:basics] bubbleWrap: 0, cmd: '(null)'
+2026-06-27 01:48:16.738213 [NOTICE] [testAndFixDirs] "/usr/local/lsws//cachedata/" exist and change own to 997:1001.
+2026-06-27 01:48:16.741961 [NOTICE] [testAndFixDirs] "/usr/local/lsws//tmp/" exist and change own to 997:1001.
+2026-06-27 01:48:16.744362 [NOTICE] [testAndFixDirs] "/usr/local/lsws//tmp/ocspcache/" exist and change own to 997:1001.
+2026-06-27 01:48:16.825104 [INFO] [PlainConf] [httpServerConfig:] start parsing file /usr/local/lsws/conf/httpd_config.conf
+2026-06-27 01:48:16.825152 [WARN] [PlainConf] [tuning:] Not support [gzipprocessor 1] in file /usr/local/lsws/conf/httpd_config.conf:33
+2026-06-27 01:48:16.825159 [INFO] [PlainConf] [httpServerConfig:] Failed to RCS checkin conf file /usr/local/lsws/conf/httpd_config.conf0, ret 32512, error(Function not implemented). Org command is ci -l -q -t-"/usr/local/lsws/conf/httpd_config.conf0" -mUpdate "/usr/local/lsws/conf/httpd_config.conf0" >/dev/null 2>&1.
+2026-06-27 01:48:16.825165 [INFO] [PlainConf] [httpServerConfig:] Finished parsing file /usr/local/lsws/conf/httpd_config.conf
+2026-06-27 01:48:16.825174 [NOTICE] Loading LiteSpeed/1.9.0 Open (lsquic 4.6.2, modgzip 1.1, cache 1.66, mod_security 1.4 (with libmodsecurity v3.0.14)) BUILD (built: Thu May  7 15:34:11 UTC 2026) ...
+2026-06-27 01:48:16.825454 [NOTICE] Using [BoringSSL]
+2026-06-27 01:48:16.834638 [NOTICE] [ADMIN] server socket: uds://usr/local/lsws/admin/tmp/admin.sock.7945, fd 7.
+2026-06-27 01:48:16.835445 [NOTICE] [36] chroot is disabled.
+2026-06-27 01:48:16.835465 [INFO] [36] old priority: 0, new priority: 0
+2026-06-27 01:48:16.836198 [INFO] [36] [config:server:basics2] For better obscurity, server version number is hidden in the response header.
+2026-06-27 01:48:16.844275 [INFO] [36] [PlainConf] Failed to RCS checkin conf file /usr/local/lsws/conf/mime.properties0, ret 32512, error(Function not implemented). Org command is ci -l -q -t-"/usr/local/lsws/conf/mime.properties0" -mUpdate "/usr/local/lsws/conf/mime.properties0" >/dev/null 2>&1.
+2026-06-27 01:48:16.844344 [INFO] [36] setuid is allowed in Ext Apps
+2026-06-27 01:48:16.844694 [INFO] [36] Download QUIC.cloud whitelist IP to tmp/download-quic-cloud-ips ...
+2026-06-27 01:48:17.561493 [INFO] [36] Add QUIC.cloud IPs from admin/conf/quic-cloud-ips to trusted ACL ...
+2026-06-27 01:48:17.561645 [INFO] [36] Add CloudFlare Subnets to trusted ACL ...
+2026-06-27 01:48:17.562897 [INFO] [36] [PlainConf] [adminConfig:] start parsing file /usr/local/lsws/admin/conf/admin_config.conf
+2026-06-27 01:48:17.586646 [INFO] [36] [PlainConf] [adminConfig:] Failed to RCS checkin conf file /usr/local/lsws/admin/conf/admin_config.conf0, ret 32512, error(Function not implemented). Org command is ci -l -q -t-"/usr/local/lsws/admin/conf/admin_config.conf0" -mUpdate "/usr/local/lsws/admin/conf/admin_config.conf0" >/dev/null 2>&1.
+2026-06-27 01:48:17.586696 [INFO] [36] [PlainConf] [adminConfig:] Finished parsing file /usr/local/lsws/admin/conf/admin_config.conf
+2026-06-27 01:48:17.593799 [INFO] [36] QuicEngine::init(), pid: 36, log level [warn].
+2026-06-27 01:48:17.603100 [INFO] [36] [Module: modcompress 1.1] has been initialized successfully
+2026-06-27 01:48:17.603348 [INFO] [36] [Module: moddecompress 1.1] has been initialized successfully
+2026-06-27 01:48:17.603496 [INFO] [36] [Module: cache 1.66] has been initialized successfully
+2026-06-27 01:48:17.607887 [NOTICE] [36] Created new Listener [adminListener].
+2026-06-27 01:48:17.608003 [NOTICE] [36] [*:7080] enabled QUIC UDP
+2026-06-27 01:48:17.608270 [INFO] [36] [*:80] Enable SO_REUSEPORT .
+2026-06-27 01:48:17.608281 [NOTICE] [36] [*:80] Add SO_REUSEPORT socket, #1 to #4
+2026-06-27 01:48:17.608403 [NOTICE] [36] Created new Listener [DefaultHTTP].
+2026-06-27 01:48:17.608426 [NOTICE] [36] The maximum number of file descriptor limit is set to 50000.
+2026-06-27 01:48:17.625800 [ERROR] [36] [config:accesslog] missing <accessLog>
+2026-06-27 01:48:17.625917 [INFO] [36] [PlainConf] [virtualHostConfig:] start parsing file /usr/local/lsws/conf/vhosts/payload/vhconf.conf
+2026-06-27 01:48:17.636183 [INFO] [36] [PlainConf] [virtualHostConfig:] Failed to RCS checkin conf file /usr/local/lsws/conf/vhosts/payload/vhconf.conf0, ret 32512, error(Function not implemented). Org command is ci -l -q -t-"/usr/local/lsws/conf/vhosts/payload/vhconf.conf0" -mUpdate "/usr/local/lsws/conf/vhosts/payload/vhconf.conf0" >/dev/null 2>&1.
+2026-06-27 01:48:17.636250 [INFO] [36] [PlainConf] [virtualHostConfig:] Finished parsing file /usr/local/lsws/conf/vhosts/payload/vhconf.conf
+2026-06-27 01:48:17.637862 [WARN] [36] [config:server:vhosts:vhost:payload] Uid of /usr/local/lsws/admin/html/ is 0, smaller than minimum requirement 100, use server uid!
+2026-06-27 01:48:17.637895 [WARN] [36] [config:server:vhosts:vhost:payload] Gid of /usr/local/lsws/admin/html/ is 1001, smaller than minimum requirement 100, use server gid!
+2026-06-27 01:48:17.646375 [INFO] [36] [config:server:vhosts:vhost:payload] config context /.
+2026-06-27 01:48:17.646454 [INFO] [36] [config:server:vhosts:vhost:payload] config context /.well-known/acme-challenge/.
+2026-06-27 01:48:17.646700 [NOTICE] [36] [ZConfManager] No VHosts added, do not send!
+2026-06-27 01:48:17.647512 [NOTICE] [36] Instance is ready for service. m_fdCmd 26, m_fdAdmin 7.
+2026-06-27 01:48:17.648494 [NOTICE] [36] [AutoRestarter] new child process with pid=49 is forked!
+2026-06-27 01:48:17.648934 [NOTICE] [36] [AutoRestarter] new child process with pid=50 is forked!
+2026-06-27 01:48:17.649305 [NOTICE] [36] [AutoRestarter] new child process with pid=51 is forked!
+2026-06-27 01:48:17.649663 [INFO] [49] Close SO_REUSEPORT #2 fd: 22.
+2026-06-27 01:48:17.649718 [INFO] [49] Close SO_REUSEPORT #3 fd: 23.
+2026-06-27 01:48:17.649762 [INFO] [49] Close SO_REUSEPORT #4 fd: 24.
+2026-06-27 01:48:17.649774 [NOTICE] [49] [*:80] Worker #1 activates SO_REUSEPORT #1 socket, fd: 21
+2026-06-27 01:48:17.649812 [INFO] [50] Close SO_REUSEPORT #1 fd: 21.
+2026-06-27 01:48:17.649843 [INFO] [50] Close SO_REUSEPORT #3 fd: 23.
+2026-06-27 01:48:17.649847 [INFO] [50] Close SO_REUSEPORT #4 fd: 24.
+2026-06-27 01:48:17.649859 [NOTICE] [50] [*:80] Worker #2 activates SO_REUSEPORT #2 socket, fd: 22
+2026-06-27 01:48:17.649896 [NOTICE] [50] Stop listener *:7080, fd 19.
+2026-06-27 01:48:17.649914 [INFO] [49] [UDP:0.0.0.0:7080] initPacketsIn: allocated 100 packets
+2026-06-27 01:48:17.649876 [NOTICE] [36] [AutoRestarter] new child process with pid=52 is forked!
+2026-06-27 01:48:17.650513 [NOTICE] [50] Successfully change current user to lsadm
+2026-06-27 01:48:17.650552 [NOTICE] [50] Core dump is enabled.
+2026-06-27 01:48:17.650585 [NOTICE] [50] Setup swapping space...
+2026-06-27 01:48:17.650768 [INFO] [52] Close SO_REUSEPORT #1 fd: 21.
+2026-06-27 01:48:17.650796 [INFO] [52] Close SO_REUSEPORT #2 fd: 22.
+2026-06-27 01:48:17.650800 [INFO] [52] Close SO_REUSEPORT #3 fd: 23.
+2026-06-27 01:48:17.650808 [NOTICE] [52] [*:80] Worker #4 activates SO_REUSEPORT #4 socket, fd: 24
+2026-06-27 01:48:17.650829 [NOTICE] [52] Stop listener *:7080, fd 19.
+2026-06-27 01:48:17.650821 [INFO] [51] Close SO_REUSEPORT #1 fd: 21.
+2026-06-27 01:48:17.650873 [INFO] [51] Close SO_REUSEPORT #2 fd: 22.
+2026-06-27 01:48:17.650877 [INFO] [51] Close SO_REUSEPORT #4 fd: 24.
+2026-06-27 01:48:17.650890 [NOTICE] [51] [*:80] Worker #3 activates SO_REUSEPORT #3 socket, fd: 23
+2026-06-27 01:48:17.650932 [NOTICE] [51] Stop listener *:7080, fd 19.
+2026-06-27 01:48:17.650938 [NOTICE] [49] Successfully change current user to lsadm
+2026-06-27 01:48:17.650964 [NOTICE] [49] Core dump is enabled.
+2026-06-27 01:48:17.650982 [NOTICE] [50] LiteSpeed/1.9.0 Open starts successfully!
+2026-06-27 01:48:17.651016 [NOTICE] [49] Setup swapping space...
+2026-06-27 01:48:17.651152 [NOTICE] [49] LiteSpeed/1.9.0 Open starts successfully!
+2026-06-27 01:48:17.651231 [NOTICE] [52] Successfully change current user to lsadm
+2026-06-27 01:48:17.651246 [NOTICE] [52] Core dump is enabled.
+2026-06-27 01:48:17.651295 [NOTICE] [52] Setup swapping space...
+2026-06-27 01:48:17.651423 [NOTICE] [51] Successfully change current user to lsadm
+2026-06-27 01:48:17.651445 [NOTICE] [51] Core dump is enabled.
+2026-06-27 01:48:17.651457 [NOTICE] [52] LiteSpeed/1.9.0 Open starts successfully!
+2026-06-27 01:48:17.651473 [NOTICE] [51] Setup swapping space...
+2026-06-27 01:48:17.651769 [NOTICE] [51] LiteSpeed/1.9.0 Open starts successfully!
+2026-06-27 01:48:18.001680 [NOTICE] [36] [PID: 36]: forked cgid: 53
+2026-06-27 01:49:20.971485 [INFO] [config:server:basics] httpdWorkers: 4, Num of Processors: 4
+2026-06-27 01:49:20.973451 [INFO] [config:server:basics] enableLVE: 0
+2026-06-27 01:49:20.973499 [INFO] [config:server:basics] bubbleWrap: 0, cmd: '(null)'
+2026-06-27 01:49:20.984756 [NOTICE] [testAndFixDirs] "/usr/local/lsws//cachedata/" exist and change own to 997:1001.
+2026-06-27 01:49:21.009378 [NOTICE] [testAndFixDirs] "/usr/local/lsws//tmp/" exist and change own to 997:1001.
+2026-06-27 01:49:21.024313 [NOTICE] [testAndFixDirs] "/usr/local/lsws//tmp/ocspcache/" exist and change own to 997:1001.
+2026-06-27 01:49:21.122215 [INFO] [PlainConf] [httpServerConfig:] start parsing file /usr/local/lsws/conf/httpd_config.conf
+2026-06-27 01:49:21.122248 [WARN] [PlainConf] [tuning:] Not support [gzipprocessor 1] in file /usr/local/lsws/conf/httpd_config.conf:33
+2026-06-27 01:49:21.122253 [INFO] [PlainConf] [httpServerConfig:] Failed to RCS checkin conf file /usr/local/lsws/conf/httpd_config.conf0, ret 32512, error(Function not implemented). Org command is ci -l -q -t-"/usr/local/lsws/conf/httpd_config.conf0" -mUpdate "/usr/local/lsws/conf/httpd_config.conf0" >/dev/null 2>&1.
+2026-06-27 01:49:21.122258 [INFO] [PlainConf] [httpServerConfig:] Finished parsing file /usr/local/lsws/conf/httpd_config.conf
+2026-06-27 01:49:21.122267 [NOTICE] Loading LiteSpeed/1.9.0 Open (lsquic 4.6.2, modgzip 1.1, cache 1.66, mod_security 1.4 (with libmodsecurity v3.0.14)) BUILD (built: Thu May  7 15:34:11 UTC 2026) ...
+2026-06-27 01:49:21.122289 [NOTICE] Using [BoringSSL]
+2026-06-27 01:49:21.131880 [NOTICE] [ADMIN] server socket: uds://usr/local/lsws/admin/tmp/admin.sock.7636, fd 7.
+2026-06-27 01:49:21.132230 [NOTICE] [35] chroot is disabled.
+2026-06-27 01:49:21.132247 [INFO] [35] old priority: 0, new priority: 0
+2026-06-27 01:49:21.132505 [INFO] [35] [config:server:basics2] For better obscurity, server version number is hidden in the response header.
+2026-06-27 01:49:21.143344 [INFO] [35] [PlainConf] Failed to RCS checkin conf file /usr/local/lsws/conf/mime.properties0, ret 32512, error(Function not implemented). Org command is ci -l -q -t-"/usr/local/lsws/conf/mime.properties0" -mUpdate "/usr/local/lsws/conf/mime.properties0" >/dev/null 2>&1.
+2026-06-27 01:49:21.144071 [INFO] [35] setuid is allowed in Ext Apps
+2026-06-27 01:49:21.144173 [INFO] [35] Download QUIC.cloud whitelist IP to tmp/download-quic-cloud-ips ...
+2026-06-27 01:49:21.759416 [INFO] [35] Add QUIC.cloud IPs from admin/conf/quic-cloud-ips to trusted ACL ...
+2026-06-27 01:49:21.759500 [INFO] [35] Add CloudFlare Subnets to trusted ACL ...
+2026-06-27 01:49:21.759566 [INFO] [35] [PlainConf] [adminConfig:] start parsing file /usr/local/lsws/admin/conf/admin_config.conf
+2026-06-27 01:49:21.769036 [INFO] [35] [PlainConf] [adminConfig:] Failed to RCS checkin conf file /usr/local/lsws/admin/conf/admin_config.conf0, ret 32512, error(Function not implemented). Org command is ci -l -q -t-"/usr/local/lsws/admin/conf/admin_config.conf0" -mUpdate "/usr/local/lsws/admin/conf/admin_config.conf0" >/dev/null 2>&1.
+2026-06-27 01:49:21.769099 [INFO] [35] [PlainConf] [adminConfig:] Finished parsing file /usr/local/lsws/admin/conf/admin_config.conf
+2026-06-27 01:49:21.770041 [INFO] [35] QuicEngine::init(), pid: 35, log level [warn].
+2026-06-27 01:49:21.776666 [INFO] [35] [Module: modcompress 1.1] has been initialized successfully
+2026-06-27 01:49:21.777389 [INFO] [35] [Module: moddecompress 1.1] has been initialized successfully
+2026-06-27 01:49:21.777539 [INFO] [35] [Module: cache 1.66] has been initialized successfully
+2026-06-27 01:49:21.778445 [NOTICE] [35] Created new Listener [adminListener].
+2026-06-27 01:49:21.778489 [NOTICE] [35] [*:7080] enabled QUIC UDP
+2026-06-27 01:49:21.778529 [INFO] [35] [*:80] Enable SO_REUSEPORT .
+2026-06-27 01:49:21.778533 [NOTICE] [35] [*:80] Add SO_REUSEPORT socket, #1 to #4
+2026-06-27 01:49:21.778670 [NOTICE] [35] Created new Listener [DefaultHTTP].
+2026-06-27 01:49:21.778685 [NOTICE] [35] The maximum number of file descriptor limit is set to 50000.
+2026-06-27 01:49:21.784366 [ERROR] [35] [config:accesslog] missing <accessLog>
+2026-06-27 01:49:21.784434 [INFO] [35] [PlainConf] [virtualHostConfig:] start parsing file /usr/local/lsws/conf/vhosts/payload/vhconf.conf
+2026-06-27 01:49:21.785015 [INFO] [35] [PlainConf] [virtualHostConfig:] Finished parsing file /usr/local/lsws/conf/vhosts/payload/vhconf.conf
+2026-06-27 01:49:21.786930 [WARN] [35] [config:server:vhosts:vhost:payload] Uid of /usr/local/lsws/admin/html/ is 0, smaller than minimum requirement 100, use server uid!
+2026-06-27 01:49:21.786957 [WARN] [35] [config:server:vhosts:vhost:payload] Gid of /usr/local/lsws/admin/html/ is 1001, smaller than minimum requirement 100, use server gid!
+2026-06-27 01:49:21.789632 [INFO] [35] [config:server:vhosts:vhost:payload] config context /.
+2026-06-27 01:49:21.789675 [INFO] [35] [config:server:vhosts:vhost:payload] config context /.well-known/acme-challenge/.
+2026-06-27 01:49:21.789788 [NOTICE] [35] [ZConfManager] No VHosts added, do not send!
+2026-06-27 01:49:21.790065 [NOTICE] [35] Instance is ready for service. m_fdCmd 26, m_fdAdmin 7.
+2026-06-27 01:49:21.790605 [NOTICE] [35] [AutoRestarter] new child process with pid=45 is forked!
+2026-06-27 01:49:21.791482 [INFO] [45] Close SO_REUSEPORT #2 fd: 22.
+2026-06-27 01:49:21.791532 [INFO] [45] Close SO_REUSEPORT #3 fd: 23.
+2026-06-27 01:49:21.791537 [INFO] [45] Close SO_REUSEPORT #4 fd: 24.
+2026-06-27 01:49:21.791563 [NOTICE] [45] [*:80] Worker #1 activates SO_REUSEPORT #1 socket, fd: 21
+2026-06-27 01:49:21.791850 [INFO] [45] [UDP:0.0.0.0:7080] initPacketsIn: allocated 100 packets
+2026-06-27 01:49:21.792325 [NOTICE] [45] Successfully change current user to lsadm
+2026-06-27 01:49:21.792344 [NOTICE] [45] Core dump is enabled.
+2026-06-27 01:49:21.792387 [NOTICE] [45] Setup swapping space...
+2026-06-27 01:49:21.792753 [NOTICE] [45] LiteSpeed/1.9.0 Open starts successfully!
+2026-06-27 01:49:21.793199 [NOTICE] [35] [AutoRestarter] new child process with pid=46 is forked!
+2026-06-27 01:49:21.793608 [NOTICE] [35] [AutoRestarter] new child process with pid=47 is forked!
+2026-06-27 01:49:21.793973 [NOTICE] [35] [AutoRestarter] new child process with pid=48 is forked!
+2026-06-27 01:49:21.794010 [INFO] [46] Close SO_REUSEPORT #1 fd: 21.
+2026-06-27 01:49:21.794049 [INFO] [46] Close SO_REUSEPORT #3 fd: 23.
+2026-06-27 01:49:21.794053 [INFO] [46] Close SO_REUSEPORT #4 fd: 24.
+2026-06-27 01:49:21.794063 [NOTICE] [46] [*:80] Worker #2 activates SO_REUSEPORT #2 socket, fd: 22
+2026-06-27 01:49:21.794089 [NOTICE] [46] Stop listener *:7080, fd 19.
+2026-06-27 01:49:21.794434 [NOTICE] [46] Successfully change current user to lsadm
+2026-06-27 01:49:21.794450 [NOTICE] [46] Core dump is enabled.
+2026-06-27 01:49:21.794477 [NOTICE] [46] Setup swapping space...
+2026-06-27 01:49:21.794782 [INFO] [47] Close SO_REUSEPORT #1 fd: 21.
+2026-06-27 01:49:21.794821 [INFO] [47] Close SO_REUSEPORT #2 fd: 22.
+2026-06-27 01:49:21.794825 [INFO] [47] Close SO_REUSEPORT #4 fd: 24.
+2026-06-27 01:49:21.794834 [NOTICE] [47] [*:80] Worker #3 activates SO_REUSEPORT #3 socket, fd: 23
+2026-06-27 01:49:21.794854 [NOTICE] [47] Stop listener *:7080, fd 19.
+2026-06-27 01:49:21.795162 [NOTICE] [46] LiteSpeed/1.9.0 Open starts successfully!
+2026-06-27 01:49:21.795190 [NOTICE] [47] Successfully change current user to lsadm
+2026-06-27 01:49:21.795204 [NOTICE] [47] Core dump is enabled.
+2026-06-27 01:49:21.795247 [NOTICE] [47] Setup swapping space...
+2026-06-27 01:49:21.795795 [NOTICE] [47] LiteSpeed/1.9.0 Open starts successfully!
+2026-06-27 01:49:21.796136 [INFO] [48] Close SO_REUSEPORT #1 fd: 21.
+2026-06-27 01:49:21.796189 [INFO] [48] Close SO_REUSEPORT #2 fd: 22.
+2026-06-27 01:49:21.796194 [INFO] [48] Close SO_REUSEPORT #3 fd: 23.
+2026-06-27 01:49:21.796204 [NOTICE] [48] [*:80] Worker #4 activates SO_REUSEPORT #4 socket, fd: 24
+2026-06-27 01:49:21.796227 [NOTICE] [48] Stop listener *:7080, fd 19.
+2026-06-27 01:49:21.796773 [NOTICE] [48] Successfully change current user to lsadm
+2026-06-27 01:49:21.796799 [NOTICE] [48] Core dump is enabled.
+2026-06-27 01:49:21.796830 [NOTICE] [48] Setup swapping space...
+2026-06-27 01:49:21.797215 [NOTICE] [48] LiteSpeed/1.9.0 Open starts successfully!
+2026-06-27 01:49:22.000881 [NOTICE] [35] [PID: 35]: forked cgid: 49
+2026-06-27 01:51:25.945889 [NOTICE] [45] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 01:51:25.945965 [INFO] [45] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 01:51:25.945981 [NOTICE] [45] [LocalWorker::workerExec] Config[AdminPHP]: suExec uid -1 gid -1 cmd /usr/local/lsws/admin/fcgi-bin/admin_php -c ../conf/php.ini, final uid 997 gid 1001, flags: 0.
+2026-06-27 01:51:25.945986 [ERROR] [45] [LocalWorker::workerExec] Config[AdminPHP]: cgidSuEXEC failed.
+2026-06-27 01:51:25.946088 [NOTICE] [45] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 01:51:25.946095 [INFO] [45] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 01:51:25.946106 [NOTICE] [45] [LocalWorker::workerExec] Config[AdminPHP]: suExec uid -1 gid -1 cmd /usr/local/lsws/admin/fcgi-bin/admin_php -c ../conf/php.ini, final uid 997 gid 1001, flags: 0.
+2026-06-27 01:51:25.946111 [ERROR] [45] [LocalWorker::workerExec] Config[AdminPHP]: cgidSuEXEC failed.
+2026-06-27 01:51:25.946142 [NOTICE] [45] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 01:51:25.946147 [INFO] [45] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 01:51:25.946153 [NOTICE] [45] [LocalWorker::workerExec] Config[AdminPHP]: suExec uid -1 gid -1 cmd /usr/local/lsws/admin/fcgi-bin/admin_php -c ../conf/php.ini, final uid 997 gid 1001, flags: 0.
+2026-06-27 01:51:25.946157 [ERROR] [45] [LocalWorker::workerExec] Config[AdminPHP]: cgidSuEXEC failed.
+2026-06-27 01:51:25.946515 [NOTICE] [45] [211.72.50.85:59871:H2-3#_AdminVHost] oops! 503 Service Unavailable
+2026-06-27 01:51:25.946614 [INFO] [45] [211.72.50.85:59871:H2-3] Content len: 0, request line: 'GET / HTTP/1.1'
+2026-06-27 02:26:48.124850 [INFO] [config:server:basics] httpdWorkers: 4, Num of Processors: 4
+2026-06-27 02:26:48.125751 [INFO] [config:server:basics] enableLVE: 0
+2026-06-27 02:26:48.125767 [INFO] [config:server:basics] bubbleWrap: 0, cmd: '(null)'
+2026-06-27 02:26:48.126539 [NOTICE] [testAndFixDirs] "/usr/local/lsws//cachedata/" exist and change own to 997:1001.
+2026-06-27 02:26:48.128488 [NOTICE] [testAndFixDirs] "/usr/local/lsws//tmp/" exist and change own to 997:1001.
+2026-06-27 02:26:48.131769 [NOTICE] [testAndFixDirs] "/usr/local/lsws//tmp/ocspcache/" exist and change own to 997:1001.
+2026-06-27 02:26:48.211572 [INFO] [PlainConf] [httpServerConfig:] start parsing file /usr/local/lsws/conf/httpd_config.conf
+2026-06-27 02:26:48.211606 [WARN] [PlainConf] [tuning:] Not support [gzipprocessor 1] in file /usr/local/lsws/conf/httpd_config.conf:33
+2026-06-27 02:26:48.211611 [INFO] [PlainConf] [httpServerConfig:] Failed to RCS checkin conf file /usr/local/lsws/conf/httpd_config.conf0, ret 32512, error(Function not implemented). Org command is ci -l -q -t-"/usr/local/lsws/conf/httpd_config.conf0" -mUpdate "/usr/local/lsws/conf/httpd_config.conf0" >/dev/null 2>&1.
+2026-06-27 02:26:48.211616 [INFO] [PlainConf] [httpServerConfig:] Finished parsing file /usr/local/lsws/conf/httpd_config.conf
+2026-06-27 02:26:48.211624 [NOTICE] Loading LiteSpeed/1.9.0 Open (lsquic 4.6.2, modgzip 1.1, cache 1.66, mod_security 1.4 (with libmodsecurity v3.0.14)) BUILD (built: Thu May  7 15:34:11 UTC 2026) ...
+2026-06-27 02:26:48.211689 [NOTICE] Using [BoringSSL]
+2026-06-27 02:26:48.222120 [NOTICE] [ADMIN] server socket: uds://usr/local/lsws/admin/tmp/admin.sock.7737, fd 7.
+2026-06-27 02:26:48.222862 [NOTICE] [35] chroot is disabled.
+2026-06-27 02:26:48.222883 [INFO] [35] old priority: 0, new priority: 0
+2026-06-27 02:26:48.223363 [INFO] [35] [config:server:basics2] For better obscurity, server version number is hidden in the response header.
+2026-06-27 02:26:48.233191 [INFO] [35] [PlainConf] Failed to RCS checkin conf file /usr/local/lsws/conf/mime.properties0, ret 32512, error(Function not implemented). Org command is ci -l -q -t-"/usr/local/lsws/conf/mime.properties0" -mUpdate "/usr/local/lsws/conf/mime.properties0" >/dev/null 2>&1.
+2026-06-27 02:26:48.233254 [INFO] [35] setuid is allowed in Ext Apps
+2026-06-27 02:26:48.233406 [INFO] [35] Download QUIC.cloud whitelist IP to tmp/download-quic-cloud-ips ...
+2026-06-27 02:26:49.400567 [INFO] [35] Add QUIC.cloud IPs from admin/conf/quic-cloud-ips to trusted ACL ...
+2026-06-27 02:26:49.400664 [INFO] [35] Add CloudFlare Subnets to trusted ACL ...
+2026-06-27 02:26:49.400787 [INFO] [35] [PlainConf] [adminConfig:] start parsing file /usr/local/lsws/admin/conf/admin_config.conf
+2026-06-27 02:26:49.410132 [INFO] [35] [PlainConf] [adminConfig:] Failed to RCS checkin conf file /usr/local/lsws/admin/conf/admin_config.conf0, ret 32512, error(Function not implemented). Org command is ci -l -q -t-"/usr/local/lsws/admin/conf/admin_config.conf0" -mUpdate "/usr/local/lsws/admin/conf/admin_config.conf0" >/dev/null 2>&1.
+2026-06-27 02:26:49.410178 [INFO] [35] [PlainConf] [adminConfig:] Finished parsing file /usr/local/lsws/admin/conf/admin_config.conf
+2026-06-27 02:26:49.411181 [INFO] [35] QuicEngine::init(), pid: 35, log level [warn].
+2026-06-27 02:26:49.416259 [INFO] [35] [Module: modcompress 1.1] has been initialized successfully
+2026-06-27 02:26:49.417549 [INFO] [35] [Module: moddecompress 1.1] has been initialized successfully
+2026-06-27 02:26:49.417688 [INFO] [35] [Module: cache 1.66] has been initialized successfully
+2026-06-27 02:26:49.418665 [NOTICE] [35] Created new Listener [adminListener].
+2026-06-27 02:26:49.418751 [NOTICE] [35] [*:7080] enabled QUIC UDP
+2026-06-27 02:26:49.418817 [INFO] [35] [*:80] Enable SO_REUSEPORT .
+2026-06-27 02:26:49.418824 [NOTICE] [35] [*:80] Add SO_REUSEPORT socket, #1 to #4
+2026-06-27 02:26:49.419303 [NOTICE] [35] Created new Listener [DefaultHTTP].
+2026-06-27 02:26:49.419323 [NOTICE] [35] The maximum number of file descriptor limit is set to 50000.
+2026-06-27 02:26:49.424157 [ERROR] [35] [config:accesslog] missing <accessLog>
+2026-06-27 02:26:49.424233 [INFO] [35] [PlainConf] [virtualHostConfig:] start parsing file /usr/local/lsws/conf/vhosts/payload/vhconf.conf
+2026-06-27 02:26:49.424466 [ERROR] [35] [PlainConf] [extprocessor:payload-proxy] Not support [keepalive 0] in file /usr/local/lsws/conf/vhosts/payload/vhconf.conf:9
+2026-06-27 02:26:49.432398 [INFO] [35] [PlainConf] [virtualHostConfig:] Failed to RCS checkin conf file /usr/local/lsws/conf/vhosts/payload/vhconf.conf0, ret 32512, error(Function not implemented). Org command is ci -l -q -t-"/usr/local/lsws/conf/vhosts/payload/vhconf.conf0" -mUpdate "/usr/local/lsws/conf/vhosts/payload/vhconf.conf0" >/dev/null 2>&1.
+2026-06-27 02:26:49.432477 [INFO] [35] [PlainConf] [virtualHostConfig:] Finished parsing file /usr/local/lsws/conf/vhosts/payload/vhconf.conf
+2026-06-27 02:26:49.438460 [INFO] [35] [config:server:vhosts:vhost:payload] config context /.
+2026-06-27 02:26:49.438542 [INFO] [35] [config:server:vhosts:vhost:payload] config context /.well-known/acme-challenge/.
+2026-06-27 02:26:49.438654 [NOTICE] [35] [ZConfManager] No VHosts added, do not send!
+2026-06-27 02:26:49.439047 [NOTICE] [35] Instance is ready for service. m_fdCmd 26, m_fdAdmin 7.
+2026-06-27 02:26:49.439855 [NOTICE] [35] [AutoRestarter] new child process with pid=48 is forked!
+2026-06-27 02:26:49.440557 [NOTICE] [35] [AutoRestarter] new child process with pid=49 is forked!
+2026-06-27 02:26:49.441024 [NOTICE] [35] [AutoRestarter] new child process with pid=50 is forked!
+2026-06-27 02:26:49.441691 [INFO] [48] Close SO_REUSEPORT #2 fd: 22.
+2026-06-27 02:26:49.441782 [INFO] [48] Close SO_REUSEPORT #3 fd: 23.
+2026-06-27 02:26:49.441787 [INFO] [48] Close SO_REUSEPORT #4 fd: 24.
+2026-06-27 02:26:49.441798 [NOTICE] [48] [*:80] Worker #1 activates SO_REUSEPORT #1 socket, fd: 21
+2026-06-27 02:26:49.441896 [NOTICE] [35] [AutoRestarter] new child process with pid=51 is forked!
+2026-06-27 02:26:49.442047 [INFO] [48] [UDP:0.0.0.0:7080] initPacketsIn: allocated 100 packets
+2026-06-27 02:26:49.442748 [NOTICE] [48] Successfully change current user to lsadm
+2026-06-27 02:26:49.442775 [NOTICE] [48] Core dump is enabled.
+2026-06-27 02:26:49.442844 [NOTICE] [48] Setup swapping space...
+2026-06-27 02:26:49.443066 [NOTICE] [48] LiteSpeed/1.9.0 Open starts successfully!
+2026-06-27 02:26:49.443093 [INFO] [49] Close SO_REUSEPORT #1 fd: 21.
+2026-06-27 02:26:49.443131 [INFO] [49] Close SO_REUSEPORT #3 fd: 23.
+2026-06-27 02:26:49.443135 [INFO] [49] Close SO_REUSEPORT #4 fd: 24.
+2026-06-27 02:26:49.443147 [NOTICE] [49] [*:80] Worker #2 activates SO_REUSEPORT #2 socket, fd: 22
+2026-06-27 02:26:49.443191 [NOTICE] [49] Stop listener *:7080, fd 19.
+2026-06-27 02:26:49.443872 [NOTICE] [49] Successfully change current user to lsadm
+2026-06-27 02:26:49.443905 [NOTICE] [49] Core dump is enabled.
+2026-06-27 02:26:49.443956 [NOTICE] [49] Setup swapping space...
+2026-06-27 02:26:49.444198 [NOTICE] [49] LiteSpeed/1.9.0 Open starts successfully!
+2026-06-27 02:26:49.444284 [INFO] [51] Close SO_REUSEPORT #1 fd: 21.
+2026-06-27 02:26:49.444318 [INFO] [51] Close SO_REUSEPORT #2 fd: 22.
+2026-06-27 02:26:49.444321 [INFO] [51] Close SO_REUSEPORT #3 fd: 23.
+2026-06-27 02:26:49.444334 [NOTICE] [51] [*:80] Worker #4 activates SO_REUSEPORT #4 socket, fd: 24
+2026-06-27 02:26:49.444372 [NOTICE] [51] Stop listener *:7080, fd 19.
+2026-06-27 02:26:49.444989 [NOTICE] [51] Successfully change current user to lsadm
+2026-06-27 02:26:49.445046 [NOTICE] [51] Core dump is enabled.
+2026-06-27 02:26:49.445093 [NOTICE] [51] Setup swapping space...
+2026-06-27 02:26:49.445389 [NOTICE] [51] LiteSpeed/1.9.0 Open starts successfully!
+2026-06-27 02:26:49.445798 [INFO] [50] Close SO_REUSEPORT #1 fd: 21.
+2026-06-27 02:26:49.445847 [INFO] [50] Close SO_REUSEPORT #2 fd: 22.
+2026-06-27 02:26:49.445852 [INFO] [50] Close SO_REUSEPORT #4 fd: 24.
+2026-06-27 02:26:49.445866 [NOTICE] [50] [*:80] Worker #3 activates SO_REUSEPORT #3 socket, fd: 23
+2026-06-27 02:26:49.445905 [NOTICE] [50] Stop listener *:7080, fd 19.
+2026-06-27 02:26:49.446920 [NOTICE] [50] Successfully change current user to lsadm
+2026-06-27 02:26:49.446957 [NOTICE] [50] Core dump is enabled.
+2026-06-27 02:26:49.447010 [NOTICE] [50] Setup swapping space...
+2026-06-27 02:26:49.447307 [NOTICE] [50] LiteSpeed/1.9.0 Open starts successfully!
+2026-06-27 02:26:50.001685 [NOTICE] [35] [PID: 35]: forked cgid: 52
+2026-06-27 02:27:13.425393 [NOTICE] [48] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 02:27:13.425450 [INFO] [48] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 02:27:13.425475 [NOTICE] [48] [LocalWorker::workerExec] Config[AdminPHP]: suExec uid -1 gid -1 cmd /usr/local/lsws/admin/fcgi-bin/admin_php -c ../conf/php.ini, final uid 997 gid 1001, flags: 0.
+2026-06-27 02:27:13.425480 [ERROR] [48] [LocalWorker::workerExec] Config[AdminPHP]: cgidSuEXEC failed.
+2026-06-27 02:27:13.425528 [NOTICE] [48] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 02:27:13.425535 [INFO] [48] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 02:27:13.425541 [NOTICE] [48] [LocalWorker::workerExec] Config[AdminPHP]: suExec uid -1 gid -1 cmd /usr/local/lsws/admin/fcgi-bin/admin_php -c ../conf/php.ini, final uid 997 gid 1001, flags: 0.
+2026-06-27 02:27:13.425546 [ERROR] [48] [LocalWorker::workerExec] Config[AdminPHP]: cgidSuEXEC failed.
+2026-06-27 02:27:13.425574 [NOTICE] [48] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 02:27:13.425596 [INFO] [48] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 02:27:13.425600 [NOTICE] [48] [LocalWorker::workerExec] Config[AdminPHP]: suExec uid -1 gid -1 cmd /usr/local/lsws/admin/fcgi-bin/admin_php -c ../conf/php.ini, final uid 997 gid 1001, flags: 0.
+2026-06-27 02:27:13.425603 [ERROR] [48] [LocalWorker::workerExec] Config[AdminPHP]: cgidSuEXEC failed.
+2026-06-27 02:27:13.425687 [NOTICE] [48] [211.72.50.85:54013:H2-3#_AdminVHost] oops! 503 Service Unavailable
+2026-06-27 02:27:13.425754 [INFO] [48] [211.72.50.85:54013:H2-3] Content len: 0, request line: 'GET / HTTP/1.1'
+2026-06-27 02:40:26.517848 [INFO] [config:server:basics] httpdWorkers: 4, Num of Processors: 4
+2026-06-27 02:40:26.517983 [INFO] [config:server:basics] enableLVE: 0
+2026-06-27 02:40:26.517997 [INFO] [config:server:basics] bubbleWrap: 0, cmd: '(null)'
+2026-06-27 02:40:26.519210 [NOTICE] [testAndFixDirs] "/usr/local/lsws//cachedata/" exist and change own to 997:1001.
+2026-06-27 02:40:26.554261 [NOTICE] [testAndFixDirs] "/usr/local/lsws//tmp/" exist and change own to 997:1001.
+2026-06-27 02:40:26.559819 [NOTICE] [testAndFixDirs] "/usr/local/lsws//tmp/ocspcache/" exist and change own to 997:1001.
+2026-06-27 02:40:26.780053 [INFO] [PlainConf] [httpServerConfig:] start parsing file /usr/local/lsws/conf/httpd_config.conf
+2026-06-27 02:40:26.780124 [WARN] [PlainConf] [tuning:] Not support [gzipprocessor 1] in file /usr/local/lsws/conf/httpd_config.conf:36
+2026-06-27 02:40:26.780133 [INFO] [PlainConf] [httpServerConfig:] Failed to RCS checkin conf file /usr/local/lsws/conf/httpd_config.conf0, ret 32512, error(Function not implemented). Org command is ci -l -q -t-"/usr/local/lsws/conf/httpd_config.conf0" -mUpdate "/usr/local/lsws/conf/httpd_config.conf0" >/dev/null 2>&1.
+2026-06-27 02:40:26.780138 [INFO] [PlainConf] [httpServerConfig:] Finished parsing file /usr/local/lsws/conf/httpd_config.conf
+2026-06-27 02:40:26.780149 [NOTICE] Loading LiteSpeed/1.9.0 Open (lsquic 4.6.2, modgzip 1.1, cache 1.66, mod_security 1.4 (with libmodsecurity v3.0.14)) BUILD (built: Thu May  7 15:34:11 UTC 2026) ...
+2026-06-27 02:40:26.780230 [NOTICE] Using [BoringSSL]
+2026-06-27 02:40:26.893179 [NOTICE] [ADMIN] server socket: uds://usr/local/lsws/admin/tmp/admin.sock.7556, fd 7.
+2026-06-27 02:40:26.893672 [NOTICE] [35] chroot is disabled.
+2026-06-27 02:40:26.893695 [INFO] [35] old priority: 0, new priority: 0
+2026-06-27 02:40:26.896943 [INFO] [35] [config:server:basics2] For better obscurity, server version number is hidden in the response header.
+2026-06-27 02:40:26.908511 [INFO] [35] [PlainConf] Failed to RCS checkin conf file /usr/local/lsws/conf/mime.properties0, ret 32512, error(Function not implemented). Org command is ci -l -q -t-"/usr/local/lsws/conf/mime.properties0" -mUpdate "/usr/local/lsws/conf/mime.properties0" >/dev/null 2>&1.
+2026-06-27 02:40:26.908582 [INFO] [35] setuid is allowed in Ext Apps
+2026-06-27 02:40:26.908813 [INFO] [35] Download QUIC.cloud whitelist IP to tmp/download-quic-cloud-ips ...
+2026-06-27 02:40:27.613045 [INFO] [35] Add QUIC.cloud IPs from admin/conf/quic-cloud-ips to trusted ACL ...
+2026-06-27 02:40:27.613135 [INFO] [35] Add CloudFlare Subnets to trusted ACL ...
+2026-06-27 02:40:27.613324 [INFO] [35] [PlainConf] [adminConfig:] start parsing file /usr/local/lsws/admin/conf/admin_config.conf
+2026-06-27 02:40:27.622698 [INFO] [35] [PlainConf] [adminConfig:] Failed to RCS checkin conf file /usr/local/lsws/admin/conf/admin_config.conf0, ret 32512, error(Function not implemented). Org command is ci -l -q -t-"/usr/local/lsws/admin/conf/admin_config.conf0" -mUpdate "/usr/local/lsws/admin/conf/admin_config.conf0" >/dev/null 2>&1.
+2026-06-27 02:40:27.622780 [INFO] [35] [PlainConf] [adminConfig:] Finished parsing file /usr/local/lsws/admin/conf/admin_config.conf
+2026-06-27 02:40:27.624700 [INFO] [35] QuicEngine::init(), pid: 35, log level [warn].
+2026-06-27 02:40:27.631515 [INFO] [35] [Module: modcompress 1.1] has been initialized successfully
+2026-06-27 02:40:27.634112 [INFO] [35] [Module: moddecompress 1.1] has been initialized successfully
+2026-06-27 02:40:27.634310 [INFO] [35] [Module: cache 1.66] has been initialized successfully
+2026-06-27 02:40:27.635323 [NOTICE] [35] Created new Listener [adminListener].
+2026-06-27 02:40:27.635401 [NOTICE] [35] [*:7080] enabled QUIC UDP
+2026-06-27 02:40:27.635469 [INFO] [35] [*:80] Enable SO_REUSEPORT .
+2026-06-27 02:40:27.635475 [NOTICE] [35] [*:80] Add SO_REUSEPORT socket, #1 to #4
+2026-06-27 02:40:27.635622 [NOTICE] [35] Created new Listener [DefaultHTTP].
+2026-06-27 02:40:27.636513 [INFO] [35] [*:443] Enable SO_REUSEPORT .
+2026-06-27 02:40:27.636532 [NOTICE] [35] [*:443] Add SO_REUSEPORT socket, #1 to #4
+2026-06-27 02:40:27.637110 [NOTICE] [35] Created new Listener [DefaultHTTPS].
+2026-06-27 02:40:27.637127 [INFO] [35] [*:443] Enable SO_REUSEPORT .
+2026-06-27 02:40:27.637381 [NOTICE] [35] [UDP *:443] SO_REUSEPORT #1 socket started, fd: 29
+2026-06-27 02:40:27.637412 [NOTICE] [35] [UDP *:443] SO_REUSEPORT #2 socket started, fd: 30
+2026-06-27 02:40:27.637433 [NOTICE] [35] [UDP *:443] SO_REUSEPORT #3 socket started, fd: 31
+2026-06-27 02:40:27.637457 [NOTICE] [35] [UDP *:443] SO_REUSEPORT #4 socket started, fd: 32
+2026-06-27 02:40:27.637460 [NOTICE] [35] [*:443] enabled QUIC UDP
+2026-06-27 02:40:27.637484 [NOTICE] [35] The maximum number of file descriptor limit is set to 50000.
+2026-06-27 02:40:27.644296 [ERROR] [35] [config:accesslog] missing <accessLog>
+2026-06-27 02:40:27.644370 [INFO] [35] [PlainConf] [virtualHostConfig:] start parsing file /usr/local/lsws/conf/vhosts/payload/vhconf.conf
+2026-06-27 02:40:27.644576 [ERROR] [35] [PlainConf] [extprocessor:payload-proxy] Not support [keepalive 0] in file /usr/local/lsws/conf/vhosts/payload/vhconf.conf:9
+2026-06-27 02:40:27.644713 [INFO] [35] [PlainConf] [virtualHostConfig:] Finished parsing file /usr/local/lsws/conf/vhosts/payload/vhconf.conf
+2026-06-27 02:40:27.647480 [INFO] [35] [config:server:vhosts:vhost:payload] config context /.
+2026-06-27 02:40:27.647517 [INFO] [35] [config:server:vhosts:vhost:payload] config context /.well-known/acme-challenge/.
+2026-06-27 02:40:27.647591 [NOTICE] [35] [ZConfManager] No VHosts added, do not send!
+2026-06-27 02:40:27.648084 [NOTICE] [35] Instance is ready for service. m_fdCmd 34, m_fdAdmin 7.
+2026-06-27 02:40:27.648649 [NOTICE] [35] [AutoRestarter] new child process with pid=44 is forked!
+2026-06-27 02:40:27.649093 [NOTICE] [35] [AutoRestarter] new child process with pid=45 is forked!
+2026-06-27 02:40:27.650115 [NOTICE] [35] [AutoRestarter] new child process with pid=46 is forked!
+2026-06-27 02:40:27.650480 [NOTICE] [35] [AutoRestarter] new child process with pid=47 is forked!
+2026-06-27 02:40:27.650671 [INFO] [44] Close SO_REUSEPORT #2 fd: 22.
+2026-06-27 02:40:27.650781 [INFO] [44] Close SO_REUSEPORT #3 fd: 23.
+2026-06-27 02:40:27.650786 [INFO] [44] Close SO_REUSEPORT #4 fd: 24.
+2026-06-27 02:40:27.650801 [NOTICE] [44] [*:80] Worker #1 activates SO_REUSEPORT #1 socket, fd: 21
+2026-06-27 02:40:27.650875 [INFO] [44] Close SO_REUSEPORT #2 fd: 26.
+2026-06-27 02:40:27.650882 [INFO] [44] Close SO_REUSEPORT #3 fd: 27.
+2026-06-27 02:40:27.650886 [INFO] [44] Close SO_REUSEPORT #4 fd: 28.
+2026-06-27 02:40:27.650891 [NOTICE] [44] [*:443] Worker #1 activates SO_REUSEPORT #1 socket, fd: 25
+2026-06-27 02:40:27.650900 [INFO] [44] Close SO_REUSEPORT #2 fd: 30.
+2026-06-27 02:40:27.650904 [INFO] [44] Close SO_REUSEPORT #3 fd: 31.
+2026-06-27 02:40:27.650908 [INFO] [44] Close SO_REUSEPORT #4 fd: 32.
+2026-06-27 02:40:27.650912 [NOTICE] [44] [UDP *:443] Worker #1 activates SO_REUSEPORT #1 socket, fd: 29
+2026-06-27 02:40:27.651054 [INFO] [44] [UDP:0.0.0.0:443] initPacketsIn: allocated 100 packets
+2026-06-27 02:40:27.651069 [INFO] [44] [UDP:0.0.0.0:7080] initPacketsIn: allocated 100 packets
+2026-06-27 02:40:27.651359 [INFO] [47] Close SO_REUSEPORT #1 fd: 21.
+2026-06-27 02:40:27.651400 [INFO] [47] Close SO_REUSEPORT #2 fd: 22.
+2026-06-27 02:40:27.651405 [INFO] [47] Close SO_REUSEPORT #3 fd: 23.
+2026-06-27 02:40:27.651388 [INFO] [46] Close SO_REUSEPORT #1 fd: 21.
+2026-06-27 02:40:27.651429 [INFO] [46] Close SO_REUSEPORT #2 fd: 22.
+2026-06-27 02:40:27.651433 [INFO] [46] Close SO_REUSEPORT #4 fd: 24.
+2026-06-27 02:40:27.651434 [NOTICE] [47] [*:80] Worker #4 activates SO_REUSEPORT #4 socket, fd: 24
+2026-06-27 02:40:27.651442 [NOTICE] [46] [*:80] Worker #3 activates SO_REUSEPORT #3 socket, fd: 23
+2026-06-27 02:40:27.651487 [INFO] [47] Close SO_REUSEPORT #1 fd: 25.
+2026-06-27 02:40:27.651492 [INFO] [47] Close SO_REUSEPORT #2 fd: 26.
+2026-06-27 02:40:27.651496 [INFO] [47] Close SO_REUSEPORT #3 fd: 27.
+2026-06-27 02:40:27.651497 [INFO] [46] Close SO_REUSEPORT #1 fd: 25.
+2026-06-27 02:40:27.651500 [NOTICE] [47] [*:443] Worker #4 activates SO_REUSEPORT #4 socket, fd: 28
+2026-06-27 02:40:27.651502 [INFO] [46] Close SO_REUSEPORT #2 fd: 26.
+2026-06-27 02:40:27.651506 [INFO] [46] Close SO_REUSEPORT #4 fd: 28.
+2026-06-27 02:40:27.651510 [INFO] [47] Close SO_REUSEPORT #1 fd: 29.
+2026-06-27 02:40:27.651510 [NOTICE] [46] [*:443] Worker #3 activates SO_REUSEPORT #3 socket, fd: 27
+2026-06-27 02:40:27.651513 [INFO] [47] Close SO_REUSEPORT #2 fd: 30.
+2026-06-27 02:40:27.651517 [INFO] [47] Close SO_REUSEPORT #3 fd: 31.
+2026-06-27 02:40:27.651521 [NOTICE] [47] [UDP *:443] Worker #4 activates SO_REUSEPORT #4 socket, fd: 32
+2026-06-27 02:40:27.651521 [INFO] [46] Close SO_REUSEPORT #1 fd: 29.
+2026-06-27 02:40:27.651527 [INFO] [46] Close SO_REUSEPORT #2 fd: 30.
+2026-06-27 02:40:27.651530 [INFO] [46] Close SO_REUSEPORT #4 fd: 32.
+2026-06-27 02:40:27.651534 [NOTICE] [46] [UDP *:443] Worker #3 activates SO_REUSEPORT #3 socket, fd: 31
+2026-06-27 02:40:27.651675 [INFO] [46] [UDP:0.0.0.0:443] initPacketsIn: allocated 100 packets
+2026-06-27 02:40:27.651691 [NOTICE] [46] Stop listener *:7080, fd 19.
+2026-06-27 02:40:27.651754 [INFO] [47] [UDP:0.0.0.0:443] initPacketsIn: allocated 100 packets
+2026-06-27 02:40:27.651768 [NOTICE] [47] Stop listener *:7080, fd 19.
+2026-06-27 02:40:27.652045 [NOTICE] [44] Successfully change current user to lsadm
+2026-06-27 02:40:27.652073 [NOTICE] [44] Core dump is enabled.
+2026-06-27 02:40:27.652132 [NOTICE] [44] Setup swapping space...
+2026-06-27 02:40:27.652323 [NOTICE] [47] Successfully change current user to lsadm
+2026-06-27 02:40:27.652361 [NOTICE] [47] Core dump is enabled.
+2026-06-27 02:40:27.652410 [NOTICE] [47] Setup swapping space...
+2026-06-27 02:40:27.652442 [INFO] [45] Close SO_REUSEPORT #1 fd: 21.
+2026-06-27 02:40:27.652478 [INFO] [45] Close SO_REUSEPORT #3 fd: 23.
+2026-06-27 02:40:27.652481 [INFO] [45] Close SO_REUSEPORT #4 fd: 24.
+2026-06-27 02:40:27.652490 [NOTICE] [45] [*:80] Worker #2 activates SO_REUSEPORT #2 socket, fd: 22
+2026-06-27 02:40:27.652552 [INFO] [45] Close SO_REUSEPORT #1 fd: 25.
+2026-06-27 02:40:27.652561 [INFO] [45] Close SO_REUSEPORT #3 fd: 27.
+2026-06-27 02:40:27.652565 [INFO] [45] Close SO_REUSEPORT #4 fd: 28.
+2026-06-27 02:40:27.652569 [NOTICE] [45] [*:443] Worker #2 activates SO_REUSEPORT #2 socket, fd: 26
+2026-06-27 02:40:27.652578 [INFO] [45] Close SO_REUSEPORT #1 fd: 29.
+2026-06-27 02:40:27.652581 [INFO] [45] Close SO_REUSEPORT #3 fd: 31.
+2026-06-27 02:40:27.652585 [INFO] [45] Close SO_REUSEPORT #4 fd: 32.
+2026-06-27 02:40:27.652588 [NOTICE] [45] [UDP *:443] Worker #2 activates SO_REUSEPORT #2 socket, fd: 30
+2026-06-27 02:40:27.652702 [NOTICE] [47] LiteSpeed/1.9.0 Open starts successfully!
+2026-06-27 02:40:27.652707 [INFO] [45] [UDP:0.0.0.0:443] initPacketsIn: allocated 100 packets
+2026-06-27 02:40:27.652705 [NOTICE] [44] LiteSpeed/1.9.0 Open starts successfully!
+2026-06-27 02:40:27.652718 [NOTICE] [45] Stop listener *:7080, fd 19.
+2026-06-27 02:40:27.653164 [NOTICE] [45] Successfully change current user to lsadm
+2026-06-27 02:40:27.653187 [NOTICE] [45] Core dump is enabled.
+2026-06-27 02:40:27.653234 [NOTICE] [45] Setup swapping space...
+2026-06-27 02:40:27.653511 [NOTICE] [45] LiteSpeed/1.9.0 Open starts successfully!
+2026-06-27 02:40:27.653636 [NOTICE] [46] Successfully change current user to lsadm
+2026-06-27 02:40:27.653649 [NOTICE] [46] Core dump is enabled.
+2026-06-27 02:40:27.653687 [NOTICE] [46] Setup swapping space...
+2026-06-27 02:40:27.653917 [NOTICE] [46] LiteSpeed/1.9.0 Open starts successfully!
+2026-06-27 02:40:27.733798 [NOTICE] [47] [204.76.203.219:59518#payload] oops! 503 Service Unavailable
+2026-06-27 02:40:27.733839 [INFO] [47] [204.76.203.219:59518] Content len: 0, request line: 'GET /SDK/webLanguage HTTP/1.1'
+2026-06-27 02:40:28.002902 [NOTICE] [35] [PID: 35]: forked cgid: 51
+2026-06-27 02:41:21.969475 [NOTICE] [44] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 02:41:21.969526 [INFO] [44] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 02:41:21.969547 [NOTICE] [44] [LocalWorker::workerExec] Config[AdminPHP]: suExec uid -1 gid -1 cmd /usr/local/lsws/admin/fcgi-bin/admin_php -c ../conf/php.ini, final uid 997 gid 1001, flags: 0.
+2026-06-27 02:41:21.969553 [ERROR] [44] [LocalWorker::workerExec] Config[AdminPHP]: cgidSuEXEC failed.
+2026-06-27 02:41:21.969595 [NOTICE] [44] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 02:41:21.969601 [INFO] [44] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 02:41:21.969606 [NOTICE] [44] [LocalWorker::workerExec] Config[AdminPHP]: suExec uid -1 gid -1 cmd /usr/local/lsws/admin/fcgi-bin/admin_php -c ../conf/php.ini, final uid 997 gid 1001, flags: 0.
+2026-06-27 02:41:21.969611 [ERROR] [44] [LocalWorker::workerExec] Config[AdminPHP]: cgidSuEXEC failed.
+2026-06-27 02:41:21.969635 [NOTICE] [44] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 02:41:21.969641 [INFO] [44] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 02:41:21.969646 [NOTICE] [44] [LocalWorker::workerExec] Config[AdminPHP]: suExec uid -1 gid -1 cmd /usr/local/lsws/admin/fcgi-bin/admin_php -c ../conf/php.ini, final uid 997 gid 1001, flags: 0.
+2026-06-27 02:41:21.969651 [ERROR] [44] [LocalWorker::workerExec] Config[AdminPHP]: cgidSuEXEC failed.
+2026-06-27 02:41:21.969881 [NOTICE] [44] [211.72.50.85:63915:H2-3#_AdminVHost] oops! 503 Service Unavailable
+2026-06-27 02:41:21.969944 [INFO] [44] [211.72.50.85:63915:H2-3] Content len: 0, request line: 'GET / HTTP/1.1'
+2026-06-27 02:43:28.966392 [NOTICE] [44] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 02:43:28.966450 [INFO] [44] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 02:43:28.966462 [NOTICE] [44] [LocalWorker::workerExec] Config[AdminPHP]: suExec uid -1 gid -1 cmd /usr/local/lsws/admin/fcgi-bin/admin_php -c ../conf/php.ini, final uid 997 gid 1001, flags: 0.
+2026-06-27 02:43:28.966466 [ERROR] [44] [LocalWorker::workerExec] Config[AdminPHP]: cgidSuEXEC failed.
+2026-06-27 02:43:28.966504 [NOTICE] [44] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 02:43:28.966509 [INFO] [44] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 02:43:28.966515 [NOTICE] [44] [LocalWorker::workerExec] Config[AdminPHP]: suExec uid -1 gid -1 cmd /usr/local/lsws/admin/fcgi-bin/admin_php -c ../conf/php.ini, final uid 997 gid 1001, flags: 0.
+2026-06-27 02:43:28.966520 [ERROR] [44] [LocalWorker::workerExec] Config[AdminPHP]: cgidSuEXEC failed.
+2026-06-27 02:43:28.966543 [NOTICE] [44] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 02:43:28.966549 [INFO] [44] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 02:43:28.966554 [NOTICE] [44] [LocalWorker::workerExec] Config[AdminPHP]: suExec uid -1 gid -1 cmd /usr/local/lsws/admin/fcgi-bin/admin_php -c ../conf/php.ini, final uid 997 gid 1001, flags: 0.
+2026-06-27 02:43:28.966559 [ERROR] [44] [LocalWorker::workerExec] Config[AdminPHP]: cgidSuEXEC failed.
+2026-06-27 02:43:28.966589 [NOTICE] [44] [211.72.50.85:63918:H2-3#_AdminVHost] oops! 503 Service Unavailable
+2026-06-27 02:43:28.966633 [INFO] [44] [211.72.50.85:63918:H2-3] Content len: 0, request line: 'GET / HTTP/1.1'
+2026-06-27 02:45:20.599801 [INFO] [config:server:basics] httpdWorkers: 4, Num of Processors: 4
+2026-06-27 02:45:20.599859 [INFO] [config:server:basics] enableLVE: 0
+2026-06-27 02:45:20.599867 [INFO] [config:server:basics] bubbleWrap: 0, cmd: '(null)'
+2026-06-27 02:45:20.632592 [INFO] [PlainConf] [httpServerConfig:] start parsing file /usr/local/lsws/conf/httpd_config.conf
+2026-06-27 02:45:20.632632 [WARN] [PlainConf] [tuning:] Not support [gzipprocessor 1] in file /usr/local/lsws/conf/httpd_config.conf:36
+2026-06-27 02:45:20.632638 [INFO] [PlainConf] [httpServerConfig:] Finished parsing file /usr/local/lsws/conf/httpd_config.conf
+2026-06-27 02:45:20.632647 [NOTICE] Loading LiteSpeed/1.9.0 Open (lsquic 4.6.2, modgzip 1.1, cache 1.66, mod_security 1.4 (with libmodsecurity v3.0.14)) BUILD (built: Thu May  7 15:34:11 UTC 2026) ...
+2026-06-27 02:45:20.632683 [NOTICE] Using [BoringSSL]
+2026-06-27 02:45:20.635327 [NOTICE] [ADMIN] server socket: uds://usr/local/lsws/admin/tmp/admin.sock.7058, fd 7.
+2026-06-27 02:45:20.635656 [NOTICE] [32] chroot is disabled.
+2026-06-27 02:45:20.635671 [INFO] [32] old priority: 0, new priority: 0
+2026-06-27 02:45:20.635991 [INFO] [32] [config:server:basics2] For better obscurity, server version number is hidden in the response header.
+2026-06-27 02:45:20.637258 [INFO] [32] setuid is allowed in Ext Apps
+2026-06-27 02:45:20.637451 [INFO] [32] Add QUIC.cloud IPs from admin/conf/quic-cloud-ips to trusted ACL ...
+2026-06-27 02:45:20.639264 [INFO] [32] Add CloudFlare Subnets to trusted ACL ...
+2026-06-27 02:45:20.639649 [INFO] [32] [PlainConf] [adminConfig:] start parsing file /usr/local/lsws/admin/conf/admin_config.conf
+2026-06-27 02:45:20.641133 [INFO] [32] [PlainConf] [adminConfig:] Finished parsing file /usr/local/lsws/admin/conf/admin_config.conf
+2026-06-27 02:45:20.642268 [INFO] [32] QuicEngine::init(), pid: 32, log level [warn].
+2026-06-27 02:45:20.643132 [INFO] [32] [Module: modcompress 1.1] has been initialized successfully
+2026-06-27 02:45:20.643838 [INFO] [32] [Module: moddecompress 1.1] has been initialized successfully
+2026-06-27 02:45:20.643980 [INFO] [32] [Module: cache 1.66] has been initialized successfully
+2026-06-27 02:45:20.644879 [NOTICE] [32] Created new Listener [adminListener].
+2026-06-27 02:45:20.644928 [NOTICE] [32] [*:7080] enabled QUIC UDP
+2026-06-27 02:45:20.644963 [INFO] [32] [*:80] Enable SO_REUSEPORT .
+2026-06-27 02:45:20.644968 [NOTICE] [32] [*:80] Add SO_REUSEPORT socket, #1 to #4
+2026-06-27 02:45:20.645278 [NOTICE] [32] Created new Listener [DefaultHTTP].
+2026-06-27 02:45:20.645802 [INFO] [32] [*:443] Enable SO_REUSEPORT .
+2026-06-27 02:45:20.645815 [NOTICE] [32] [*:443] Add SO_REUSEPORT socket, #1 to #4
+2026-06-27 02:45:20.646084 [NOTICE] [32] Created new Listener [DefaultHTTPS].
+2026-06-27 02:45:20.646099 [INFO] [32] [*:443] Enable SO_REUSEPORT .
+2026-06-27 02:45:20.646292 [NOTICE] [32] [UDP *:443] SO_REUSEPORT #1 socket started, fd: 28
+2026-06-27 02:45:20.646330 [NOTICE] [32] [UDP *:443] SO_REUSEPORT #2 socket started, fd: 29
+2026-06-27 02:45:20.646362 [NOTICE] [32] [UDP *:443] SO_REUSEPORT #3 socket started, fd: 30
+2026-06-27 02:45:20.646386 [NOTICE] [32] [UDP *:443] SO_REUSEPORT #4 socket started, fd: 31
+2026-06-27 02:45:20.646392 [NOTICE] [32] [*:443] enabled QUIC UDP
+2026-06-27 02:45:20.646423 [NOTICE] [32] The maximum number of file descriptor limit is set to 50000.
+2026-06-27 02:45:20.647279 [ERROR] [32] [config:accesslog] missing <accessLog>
+2026-06-27 02:45:20.647324 [INFO] [32] [PlainConf] [virtualHostConfig:] start parsing file /usr/local/lsws/conf/vhosts/payload/vhconf.conf
+2026-06-27 02:45:20.647485 [ERROR] [32] [PlainConf] [extprocessor:payload-proxy] Not support [keepalive 0] in file /usr/local/lsws/conf/vhosts/payload/vhconf.conf:9
+2026-06-27 02:45:20.647605 [INFO] [32] [PlainConf] [virtualHostConfig:] Finished parsing file /usr/local/lsws/conf/vhosts/payload/vhconf.conf
+2026-06-27 02:45:20.658628 [INFO] [32] [config:server:vhosts:vhost:payload] config context /.
+2026-06-27 02:45:20.658701 [INFO] [32] [config:server:vhosts:vhost:payload] config context /.well-known/acme-challenge/.
+2026-06-27 02:45:20.658917 [NOTICE] [32] [ZConfManager] No VHosts added, do not send!
+2026-06-27 02:45:20.659192 [NOTICE] [32] Instance is ready for service. m_fdCmd 33, m_fdAdmin 7.
+2026-06-27 02:45:20.659654 [NOTICE] [32] [AutoRestarter] new child process with pid=36 is forked!
+2026-06-27 02:45:20.660278 [NOTICE] [32] [AutoRestarter] new child process with pid=37 is forked!
+2026-06-27 02:45:20.660505 [INFO] [36] Close SO_REUSEPORT #2 fd: 21.
+2026-06-27 02:45:20.660538 [INFO] [36] Close SO_REUSEPORT #3 fd: 22.
+2026-06-27 02:45:20.660542 [INFO] [36] Close SO_REUSEPORT #4 fd: 23.
+2026-06-27 02:45:20.660553 [NOTICE] [36] [*:80] Worker #1 activates SO_REUSEPORT #1 socket, fd: 20
+2026-06-27 02:45:20.660596 [INFO] [36] Close SO_REUSEPORT #2 fd: 25.
+2026-06-27 02:45:20.660602 [INFO] [36] Close SO_REUSEPORT #3 fd: 26.
+2026-06-27 02:45:20.660605 [INFO] [36] Close SO_REUSEPORT #4 fd: 27.
+2026-06-27 02:45:20.660609 [NOTICE] [36] [*:443] Worker #1 activates SO_REUSEPORT #1 socket, fd: 24
+2026-06-27 02:45:20.660628 [INFO] [36] Close SO_REUSEPORT #2 fd: 29.
+2026-06-27 02:45:20.660666 [NOTICE] [32] [AutoRestarter] new child process with pid=38 is forked!
+2026-06-27 02:45:20.661000 [INFO] [36] Close SO_REUSEPORT #3 fd: 30.
+2026-06-27 02:45:20.661008 [INFO] [36] Close SO_REUSEPORT #4 fd: 31.
+2026-06-27 02:45:20.661013 [NOTICE] [36] [UDP *:443] Worker #1 activates SO_REUSEPORT #1 socket, fd: 28
+2026-06-27 02:45:20.661103 [INFO] [36] [UDP:0.0.0.0:443] initPacketsIn: allocated 100 packets
+2026-06-27 02:45:20.661100 [NOTICE] [32] [AutoRestarter] new child process with pid=39 is forked!
+2026-06-27 02:45:20.661138 [INFO] [36] [UDP:0.0.0.0:7080] initPacketsIn: allocated 100 packets
+2026-06-27 02:45:20.661209 [INFO] [38] Close SO_REUSEPORT #1 fd: 20.
+2026-06-27 02:45:20.661273 [INFO] [38] Close SO_REUSEPORT #2 fd: 21.
+2026-06-27 02:45:20.661277 [INFO] [38] Close SO_REUSEPORT #4 fd: 23.
+2026-06-27 02:45:20.661286 [NOTICE] [38] [*:80] Worker #3 activates SO_REUSEPORT #3 socket, fd: 22
+2026-06-27 02:45:20.661319 [INFO] [38] Close SO_REUSEPORT #1 fd: 24.
+2026-06-27 02:45:20.661328 [INFO] [38] Close SO_REUSEPORT #2 fd: 25.
+2026-06-27 02:45:20.661331 [INFO] [38] Close SO_REUSEPORT #4 fd: 27.
+2026-06-27 02:45:20.661335 [NOTICE] [38] [*:443] Worker #3 activates SO_REUSEPORT #3 socket, fd: 26
+2026-06-27 02:45:20.661361 [INFO] [38] Close SO_REUSEPORT #1 fd: 28.
+2026-06-27 02:45:20.661367 [INFO] [38] Close SO_REUSEPORT #2 fd: 29.
+2026-06-27 02:45:20.661370 [INFO] [38] Close SO_REUSEPORT #4 fd: 31.
+2026-06-27 02:45:20.661374 [NOTICE] [38] [UDP *:443] Worker #3 activates SO_REUSEPORT #3 socket, fd: 30
+2026-06-27 02:45:20.661466 [INFO] [38] [UDP:0.0.0.0:443] initPacketsIn: allocated 100 packets
+2026-06-27 02:45:20.661479 [NOTICE] [38] Stop listener *:7080, fd 18.
+2026-06-27 02:45:20.661805 [NOTICE] [36] Successfully change current user to lsadm
+2026-06-27 02:45:20.661826 [NOTICE] [36] Core dump is enabled.
+2026-06-27 02:45:20.661869 [NOTICE] [36] Setup swapping space...
+2026-06-27 02:45:20.661899 [INFO] [39] Close SO_REUSEPORT #1 fd: 20.
+2026-06-27 02:45:20.661924 [INFO] [39] Close SO_REUSEPORT #2 fd: 21.
+2026-06-27 02:45:20.661928 [INFO] [39] Close SO_REUSEPORT #3 fd: 22.
+2026-06-27 02:45:20.661936 [NOTICE] [39] [*:80] Worker #4 activates SO_REUSEPORT #4 socket, fd: 23
+2026-06-27 02:45:20.661967 [INFO] [39] Close SO_REUSEPORT #1 fd: 24.
+2026-06-27 02:45:20.661972 [INFO] [39] Close SO_REUSEPORT #2 fd: 25.
+2026-06-27 02:45:20.661975 [INFO] [39] Close SO_REUSEPORT #3 fd: 26.
+2026-06-27 02:45:20.661979 [NOTICE] [39] [*:443] Worker #4 activates SO_REUSEPORT #4 socket, fd: 27
+2026-06-27 02:45:20.661982 [NOTICE] [38] Successfully change current user to lsadm
+2026-06-27 02:45:20.661991 [NOTICE] [38] Core dump is enabled.
+2026-06-27 02:45:20.661993 [NOTICE] [36] LiteSpeed/1.9.0 Open starts successfully!
+2026-06-27 02:45:20.662021 [NOTICE] [38] Setup swapping space...
+2026-06-27 02:45:20.662128 [INFO] [39] Close SO_REUSEPORT #1 fd: 28.
+2026-06-27 02:45:20.662155 [INFO] [39] Close SO_REUSEPORT #2 fd: 29.
+2026-06-27 02:45:20.662159 [INFO] [39] Close SO_REUSEPORT #3 fd: 30.
+2026-06-27 02:45:20.662162 [NOTICE] [39] [UDP *:443] Worker #4 activates SO_REUSEPORT #4 socket, fd: 31
+2026-06-27 02:45:20.662303 [INFO] [39] [UDP:0.0.0.0:443] initPacketsIn: allocated 100 packets
+2026-06-27 02:45:20.662319 [NOTICE] [39] Stop listener *:7080, fd 18.
+2026-06-27 02:45:20.662777 [NOTICE] [39] Successfully change current user to lsadm
+2026-06-27 02:45:20.662788 [NOTICE] [39] Core dump is enabled.
+2026-06-27 02:45:20.662824 [NOTICE] [39] Setup swapping space...
+2026-06-27 02:45:20.662917 [NOTICE] [39] LiteSpeed/1.9.0 Open starts successfully!
+2026-06-27 02:45:20.663084 [NOTICE] [38] LiteSpeed/1.9.0 Open starts successfully!
+2026-06-27 02:45:20.663542 [INFO] [37] Close SO_REUSEPORT #1 fd: 20.
+2026-06-27 02:45:20.663618 [INFO] [37] Close SO_REUSEPORT #3 fd: 22.
+2026-06-27 02:45:20.663623 [INFO] [37] Close SO_REUSEPORT #4 fd: 23.
+2026-06-27 02:45:20.663638 [NOTICE] [37] [*:80] Worker #2 activates SO_REUSEPORT #2 socket, fd: 21
+2026-06-27 02:45:20.663704 [INFO] [37] Close SO_REUSEPORT #1 fd: 24.
+2026-06-27 02:45:20.663713 [INFO] [37] Close SO_REUSEPORT #3 fd: 26.
+2026-06-27 02:45:20.663717 [INFO] [37] Close SO_REUSEPORT #4 fd: 27.
+2026-06-27 02:45:20.663748 [NOTICE] [37] [*:443] Worker #2 activates SO_REUSEPORT #2 socket, fd: 25
+2026-06-27 02:45:20.663799 [INFO] [37] Close SO_REUSEPORT #1 fd: 28.
+2026-06-27 02:45:20.663804 [INFO] [37] Close SO_REUSEPORT #3 fd: 30.
+2026-06-27 02:45:20.663809 [INFO] [37] Close SO_REUSEPORT #4 fd: 31.
+2026-06-27 02:45:20.663860 [NOTICE] [37] [UDP *:443] Worker #2 activates SO_REUSEPORT #2 socket, fd: 29
+2026-06-27 02:45:20.664251 [INFO] [37] [UDP:0.0.0.0:443] initPacketsIn: allocated 100 packets
+2026-06-27 02:45:20.664273 [NOTICE] [37] Stop listener *:7080, fd 18.
+2026-06-27 02:45:20.665040 [NOTICE] [37] Successfully change current user to lsadm
+2026-06-27 02:45:20.665063 [NOTICE] [37] Core dump is enabled.
+2026-06-27 02:45:20.665112 [NOTICE] [37] Setup swapping space...
+2026-06-27 02:45:20.665251 [NOTICE] [37] LiteSpeed/1.9.0 Open starts successfully!
+2026-06-27 02:45:21.002052 [NOTICE] [32] [PID: 32]: forked cgid: 40
+2026-06-27 02:45:23.750781 [NOTICE] [36] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 02:45:23.750838 [INFO] [36] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 02:45:23.750850 [NOTICE] [36] [LocalWorker::workerExec] Config[AdminPHP]: suExec uid -1 gid -1 cmd /usr/local/lsws/admin/fcgi-bin/admin_php -c ../conf/php.ini, final uid 997 gid 1001, flags: 0.
+2026-06-27 02:45:23.750853 [ERROR] [36] [LocalWorker::workerExec] Config[AdminPHP]: cgidSuEXEC failed.
+2026-06-27 02:45:23.750897 [NOTICE] [36] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 02:45:23.750901 [INFO] [36] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 02:45:23.750905 [NOTICE] [36] [LocalWorker::workerExec] Config[AdminPHP]: suExec uid -1 gid -1 cmd /usr/local/lsws/admin/fcgi-bin/admin_php -c ../conf/php.ini, final uid 997 gid 1001, flags: 0.
+2026-06-27 02:45:23.750908 [ERROR] [36] [LocalWorker::workerExec] Config[AdminPHP]: cgidSuEXEC failed.
+2026-06-27 02:45:23.750931 [NOTICE] [36] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 02:45:23.750934 [INFO] [36] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 02:45:23.750938 [NOTICE] [36] [LocalWorker::workerExec] Config[AdminPHP]: suExec uid -1 gid -1 cmd /usr/local/lsws/admin/fcgi-bin/admin_php -c ../conf/php.ini, final uid 997 gid 1001, flags: 0.
+2026-06-27 02:45:23.750941 [ERROR] [36] [LocalWorker::workerExec] Config[AdminPHP]: cgidSuEXEC failed.
+2026-06-27 02:45:23.751609 [NOTICE] [36] [211.72.50.85:63928:H2-3#_AdminVHost] oops! 503 Service Unavailable
+2026-06-27 02:45:23.751679 [INFO] [36] [211.72.50.85:63928:H2-3] Content len: 0, request line: 'GET / HTTP/1.1'
+2026-06-27 02:45:26.198284 [NOTICE] [36] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 02:45:26.198329 [INFO] [36] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 02:45:26.198339 [NOTICE] [36] [LocalWorker::workerExec] Config[AdminPHP]: suExec uid -1 gid -1 cmd /usr/local/lsws/admin/fcgi-bin/admin_php -c ../conf/php.ini, final uid 997 gid 1001, flags: 0.
+2026-06-27 02:45:26.198343 [ERROR] [36] [LocalWorker::workerExec] Config[AdminPHP]: cgidSuEXEC failed.
+2026-06-27 02:45:26.198393 [NOTICE] [36] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 02:45:26.198398 [INFO] [36] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 02:45:26.198403 [NOTICE] [36] [LocalWorker::workerExec] Config[AdminPHP]: suExec uid -1 gid -1 cmd /usr/local/lsws/admin/fcgi-bin/admin_php -c ../conf/php.ini, final uid 997 gid 1001, flags: 0.
+2026-06-27 02:45:26.198406 [ERROR] [36] [LocalWorker::workerExec] Config[AdminPHP]: cgidSuEXEC failed.
+2026-06-27 02:45:26.198433 [NOTICE] [36] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 02:45:26.198436 [INFO] [36] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 02:45:26.198441 [NOTICE] [36] [LocalWorker::workerExec] Config[AdminPHP]: suExec uid -1 gid -1 cmd /usr/local/lsws/admin/fcgi-bin/admin_php -c ../conf/php.ini, final uid 997 gid 1001, flags: 0.
+2026-06-27 02:45:26.198443 [ERROR] [36] [LocalWorker::workerExec] Config[AdminPHP]: cgidSuEXEC failed.
+2026-06-27 02:45:26.198484 [NOTICE] [36] [211.72.50.85:63928:H2-5#_AdminVHost] oops! 503 Service Unavailable
+2026-06-27 02:45:26.198512 [INFO] [36] [211.72.50.85:63928:H2-5] Content len: 0, request line: 'GET / HTTP/1.1'
+2026-06-27 02:45:27.232611 [NOTICE] [36] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 02:45:27.232659 [INFO] [36] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 02:45:27.232670 [NOTICE] [36] [LocalWorker::workerExec] Config[AdminPHP]: suExec uid -1 gid -1 cmd /usr/local/lsws/admin/fcgi-bin/admin_php -c ../conf/php.ini, final uid 997 gid 1001, flags: 0.
+2026-06-27 02:45:27.232673 [ERROR] [36] [LocalWorker::workerExec] Config[AdminPHP]: cgidSuEXEC failed.
+2026-06-27 02:45:27.232788 [NOTICE] [36] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 02:45:27.232794 [INFO] [36] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 02:45:27.232799 [NOTICE] [36] [LocalWorker::workerExec] Config[AdminPHP]: suExec uid -1 gid -1 cmd /usr/local/lsws/admin/fcgi-bin/admin_php -c ../conf/php.ini, final uid 997 gid 1001, flags: 0.
+2026-06-27 02:45:27.232802 [ERROR] [36] [LocalWorker::workerExec] Config[AdminPHP]: cgidSuEXEC failed.
+2026-06-27 02:45:27.232832 [NOTICE] [36] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 02:45:27.232836 [INFO] [36] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 02:45:27.232841 [NOTICE] [36] [LocalWorker::workerExec] Config[AdminPHP]: suExec uid -1 gid -1 cmd /usr/local/lsws/admin/fcgi-bin/admin_php -c ../conf/php.ini, final uid 997 gid 1001, flags: 0.
+2026-06-27 02:45:27.232844 [ERROR] [36] [LocalWorker::workerExec] Config[AdminPHP]: cgidSuEXEC failed.
+2026-06-27 02:45:27.232884 [NOTICE] [36] [211.72.50.85:63928:H2-7#_AdminVHost] oops! 503 Service Unavailable
+2026-06-27 02:45:27.232910 [INFO] [36] [211.72.50.85:63928:H2-7] Content len: 0, request line: 'GET / HTTP/1.1'
+2026-06-27 02:45:29.275134 [NOTICE] [36] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 02:45:29.275180 [INFO] [36] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 02:45:29.275220 [NOTICE] [36] [LocalWorker::workerExec] Config[AdminPHP]: suExec uid -1 gid -1 cmd /usr/local/lsws/admin/fcgi-bin/admin_php -c ../conf/php.ini, final uid 997 gid 1001, flags: 0.
+2026-06-27 02:45:29.275226 [ERROR] [36] [LocalWorker::workerExec] Config[AdminPHP]: cgidSuEXEC failed.
+2026-06-27 02:45:29.275302 [NOTICE] [36] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 02:45:29.275305 [INFO] [36] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 02:45:29.275309 [NOTICE] [36] [LocalWorker::workerExec] Config[AdminPHP]: suExec uid -1 gid -1 cmd /usr/local/lsws/admin/fcgi-bin/admin_php -c ../conf/php.ini, final uid 997 gid 1001, flags: 0.
+2026-06-27 02:45:29.275311 [ERROR] [36] [LocalWorker::workerExec] Config[AdminPHP]: cgidSuEXEC failed.
+2026-06-27 02:45:29.275329 [NOTICE] [36] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 02:45:29.275332 [INFO] [36] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 02:45:29.275335 [NOTICE] [36] [LocalWorker::workerExec] Config[AdminPHP]: suExec uid -1 gid -1 cmd /usr/local/lsws/admin/fcgi-bin/admin_php -c ../conf/php.ini, final uid 997 gid 1001, flags: 0.
+2026-06-27 02:45:29.275337 [ERROR] [36] [LocalWorker::workerExec] Config[AdminPHP]: cgidSuEXEC failed.
+2026-06-27 02:45:29.275372 [NOTICE] [36] [211.72.50.85:63928:H2-9#_AdminVHost] oops! 503 Service Unavailable
+2026-06-27 02:45:29.275392 [INFO] [36] [211.72.50.85:63928:H2-9] Content len: 0, request line: 'GET / HTTP/1.1'
+2026-06-27 02:45:42.729985 [NOTICE] [36] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 02:45:42.730027 [INFO] [36] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 02:45:42.730037 [NOTICE] [36] [LocalWorker::workerExec] Config[AdminPHP]: suExec uid -1 gid -1 cmd /usr/local/lsws/admin/fcgi-bin/admin_php -c ../conf/php.ini, final uid 997 gid 1001, flags: 0.
+2026-06-27 02:45:42.730041 [ERROR] [36] [LocalWorker::workerExec] Config[AdminPHP]: cgidSuEXEC failed.
+2026-06-27 02:45:42.730079 [NOTICE] [36] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 02:45:42.730083 [INFO] [36] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 02:45:42.730087 [NOTICE] [36] [LocalWorker::workerExec] Config[AdminPHP]: suExec uid -1 gid -1 cmd /usr/local/lsws/admin/fcgi-bin/admin_php -c ../conf/php.ini, final uid 997 gid 1001, flags: 0.
+2026-06-27 02:45:42.730090 [ERROR] [36] [LocalWorker::workerExec] Config[AdminPHP]: cgidSuEXEC failed.
+2026-06-27 02:45:42.730116 [NOTICE] [36] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 02:45:42.730120 [INFO] [36] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 02:45:42.730124 [NOTICE] [36] [LocalWorker::workerExec] Config[AdminPHP]: suExec uid -1 gid -1 cmd /usr/local/lsws/admin/fcgi-bin/admin_php -c ../conf/php.ini, final uid 997 gid 1001, flags: 0.
+2026-06-27 02:45:42.730127 [ERROR] [36] [LocalWorker::workerExec] Config[AdminPHP]: cgidSuEXEC failed.
+2026-06-27 02:45:42.730169 [NOTICE] [36] [211.72.50.85:63928:H2-11#_AdminVHost] oops! 503 Service Unavailable
+2026-06-27 02:45:42.730191 [INFO] [36] [211.72.50.85:63928:H2-11] Content len: 0, request line: 'GET / HTTP/1.1'
+2026-06-27 03:03:30.316935 [INFO] [config:server:basics] httpdWorkers: 4, Num of Processors: 4
+2026-06-27 03:03:30.317137 [INFO] [config:server:basics] enableLVE: 0
+2026-06-27 03:03:30.317147 [INFO] [config:server:basics] bubbleWrap: 0, cmd: '(null)'
+2026-06-27 03:03:30.318128 [NOTICE] [testAndFixDirs] "/usr/local/lsws//cachedata/" exist and change own to 997:1001.
+2026-06-27 03:03:30.339386 [NOTICE] [testAndFixDirs] "/usr/local/lsws//tmp/" exist and change own to 997:1001.
+2026-06-27 03:03:30.376015 [NOTICE] [testAndFixDirs] "/usr/local/lsws//tmp/ocspcache/" exist and change own to 997:1001.
+2026-06-27 03:03:31.061207 [INFO] [PlainConf] [httpServerConfig:] start parsing file /usr/local/lsws/conf/httpd_config.conf
+2026-06-27 03:03:31.061248 [WARN] [PlainConf] [tuning:] Not support [gzipprocessor 1] in file /usr/local/lsws/conf/httpd_config.conf:36
+2026-06-27 03:03:31.061253 [INFO] [PlainConf] [httpServerConfig:] Failed to RCS checkin conf file /usr/local/lsws/conf/httpd_config.conf0, ret 32512, error(Function not implemented). Org command is ci -l -q -t-"/usr/local/lsws/conf/httpd_config.conf0" -mUpdate "/usr/local/lsws/conf/httpd_config.conf0" >/dev/null 2>&1.
+2026-06-27 03:03:31.061256 [INFO] [PlainConf] [httpServerConfig:] Finished parsing file /usr/local/lsws/conf/httpd_config.conf
+2026-06-27 03:03:31.061263 [NOTICE] Loading LiteSpeed/1.9.0 Open (lsquic 4.6.2, modgzip 1.1, cache 1.66, mod_security 1.4 (with libmodsecurity v3.0.14)) BUILD (built: Thu May  7 15:34:11 UTC 2026) ...
+2026-06-27 03:03:31.061288 [NOTICE] Using [BoringSSL]
+2026-06-27 03:03:31.197597 [NOTICE] [ADMIN] server socket: uds://usr/local/lsws/admin/tmp/admin.sock.7538, fd 7.
+2026-06-27 03:03:31.199893 [NOTICE] [34] chroot is disabled.
+2026-06-27 03:03:31.199926 [INFO] [34] old priority: 0, new priority: 0
+2026-06-27 03:03:31.200291 [INFO] [34] [config:server:basics2] For better obscurity, server version number is hidden in the response header.
+2026-06-27 03:03:31.224229 [INFO] [34] [PlainConf] Failed to RCS checkin conf file /usr/local/lsws/conf/mime.properties0, ret 32512, error(Function not implemented). Org command is ci -l -q -t-"/usr/local/lsws/conf/mime.properties0" -mUpdate "/usr/local/lsws/conf/mime.properties0" >/dev/null 2>&1.
+2026-06-27 03:03:31.224312 [INFO] [34] setuid is allowed in Ext Apps
+2026-06-27 03:03:31.224447 [INFO] [34] Download QUIC.cloud whitelist IP to tmp/download-quic-cloud-ips ...
+2026-06-27 03:03:31.872472 [INFO] [34] Add QUIC.cloud IPs from admin/conf/quic-cloud-ips to trusted ACL ...
+2026-06-27 03:03:31.872592 [INFO] [34] Add CloudFlare Subnets to trusted ACL ...
+2026-06-27 03:03:31.872687 [INFO] [34] [PlainConf] [adminConfig:] start parsing file /usr/local/lsws/admin/conf/admin_config.conf
+2026-06-27 03:03:31.906846 [INFO] [34] [PlainConf] [adminConfig:] Failed to RCS checkin conf file /usr/local/lsws/admin/conf/admin_config.conf0, ret 32512, error(Function not implemented). Org command is ci -l -q -t-"/usr/local/lsws/admin/conf/admin_config.conf0" -mUpdate "/usr/local/lsws/admin/conf/admin_config.conf0" >/dev/null 2>&1.
+2026-06-27 03:03:31.906901 [INFO] [34] [PlainConf] [adminConfig:] Finished parsing file /usr/local/lsws/admin/conf/admin_config.conf
+2026-06-27 03:03:31.908011 [INFO] [34] QuicEngine::init(), pid: 34, log level [warn].
+2026-06-27 03:03:31.917542 [INFO] [34] [Module: modcompress 1.1] has been initialized successfully
+2026-06-27 03:03:31.917800 [INFO] [34] [Module: moddecompress 1.1] has been initialized successfully
+2026-06-27 03:03:31.917921 [INFO] [34] [Module: cache 1.66] has been initialized successfully
+2026-06-27 03:03:31.919063 [NOTICE] [34] Created new Listener [adminListener].
+2026-06-27 03:03:31.919134 [NOTICE] [34] [*:7080] enabled QUIC UDP
+2026-06-27 03:03:31.919196 [INFO] [34] [*:80] Enable SO_REUSEPORT .
+2026-06-27 03:03:31.919202 [NOTICE] [34] [*:80] Add SO_REUSEPORT socket, #1 to #4
+2026-06-27 03:03:31.919333 [NOTICE] [34] Created new Listener [DefaultHTTP].
+2026-06-27 03:03:31.920025 [INFO] [34] [*:443] Enable SO_REUSEPORT .
+2026-06-27 03:03:31.920044 [NOTICE] [34] [*:443] Add SO_REUSEPORT socket, #1 to #4
+2026-06-27 03:03:31.920476 [NOTICE] [34] Created new Listener [DefaultHTTPS].
+2026-06-27 03:03:31.920489 [INFO] [34] [*:443] Enable SO_REUSEPORT .
+2026-06-27 03:03:31.920807 [NOTICE] [34] [UDP *:443] SO_REUSEPORT #1 socket started, fd: 29
+2026-06-27 03:03:31.920841 [NOTICE] [34] [UDP *:443] SO_REUSEPORT #2 socket started, fd: 30
+2026-06-27 03:03:31.920863 [NOTICE] [34] [UDP *:443] SO_REUSEPORT #3 socket started, fd: 31
+2026-06-27 03:03:31.920903 [NOTICE] [34] [UDP *:443] SO_REUSEPORT #4 socket started, fd: 32
+2026-06-27 03:03:31.920907 [NOTICE] [34] [*:443] enabled QUIC UDP
+2026-06-27 03:03:31.920928 [NOTICE] [34] The maximum number of file descriptor limit is set to 50000.
+2026-06-27 03:03:31.927674 [ERROR] [34] [config:accesslog] missing <accessLog>
+2026-06-27 03:03:31.927770 [INFO] [34] [PlainConf] [virtualHostConfig:] start parsing file /usr/local/lsws/conf/vhosts/payload/vhconf.conf
+2026-06-27 03:03:31.927951 [ERROR] [34] [PlainConf] [extprocessor:payload-proxy] Not support [keepalive 0] in file /usr/local/lsws/conf/vhosts/payload/vhconf.conf:9
+2026-06-27 03:03:31.928076 [INFO] [34] [PlainConf] [virtualHostConfig:] Finished parsing file /usr/local/lsws/conf/vhosts/payload/vhconf.conf
+2026-06-27 03:03:31.935997 [INFO] [34] [config:server:vhosts:vhost:payload] config context /.
+2026-06-27 03:03:31.936074 [INFO] [34] [config:server:vhosts:vhost:payload] config context /.well-known/acme-challenge/.
+2026-06-27 03:03:31.936450 [NOTICE] [34] [ZConfManager] No VHosts added, do not send!
+2026-06-27 03:03:31.936922 [NOTICE] [34] Instance is ready for service. m_fdCmd 34, m_fdAdmin 7.
+2026-06-27 03:03:31.938784 [NOTICE] [34] [AutoRestarter] new child process with pid=43 is forked!
+2026-06-27 03:03:31.939425 [NOTICE] [34] [AutoRestarter] new child process with pid=44 is forked!
+2026-06-27 03:03:31.939625 [INFO] [43] Close SO_REUSEPORT #2 fd: 22.
+2026-06-27 03:03:31.939664 [INFO] [43] Close SO_REUSEPORT #3 fd: 23.
+2026-06-27 03:03:31.939669 [INFO] [43] Close SO_REUSEPORT #4 fd: 24.
+2026-06-27 03:03:31.939683 [NOTICE] [43] [*:80] Worker #1 activates SO_REUSEPORT #1 socket, fd: 21
+2026-06-27 03:03:31.939790 [INFO] [43] Close SO_REUSEPORT #2 fd: 26.
+2026-06-27 03:03:31.939815 [INFO] [43] Close SO_REUSEPORT #3 fd: 27.
+2026-06-27 03:03:31.939819 [INFO] [43] Close SO_REUSEPORT #4 fd: 28.
+2026-06-27 03:03:31.939824 [NOTICE] [43] [*:443] Worker #1 activates SO_REUSEPORT #1 socket, fd: 25
+2026-06-27 03:03:31.939835 [INFO] [43] Close SO_REUSEPORT #2 fd: 30.
+2026-06-27 03:03:31.939838 [INFO] [43] Close SO_REUSEPORT #3 fd: 31.
+2026-06-27 03:03:31.939842 [INFO] [43] Close SO_REUSEPORT #4 fd: 32.
+2026-06-27 03:03:31.939846 [NOTICE] [43] [UDP *:443] Worker #1 activates SO_REUSEPORT #1 socket, fd: 29
+2026-06-27 03:03:31.939943 [INFO] [43] [UDP:0.0.0.0:443] initPacketsIn: allocated 100 packets
+2026-06-27 03:03:31.939959 [INFO] [43] [UDP:0.0.0.0:7080] initPacketsIn: allocated 100 packets
+2026-06-27 03:03:31.940493 [NOTICE] [34] [AutoRestarter] new child process with pid=45 is forked!
+2026-06-27 03:03:31.940828 [NOTICE] [43] Successfully change current user to lsadm
+2026-06-27 03:03:31.940864 [NOTICE] [43] Core dump is enabled.
+2026-06-27 03:03:31.940924 [NOTICE] [43] Setup swapping space...
+2026-06-27 03:03:31.941303 [NOTICE] [43] LiteSpeed/1.9.0 Open starts successfully!
+2026-06-27 03:03:31.941856 [INFO] [44] Close SO_REUSEPORT #1 fd: 21.
+2026-06-27 03:03:31.941902 [INFO] [44] Close SO_REUSEPORT #3 fd: 23.
+2026-06-27 03:03:31.941907 [INFO] [44] Close SO_REUSEPORT #4 fd: 24.
+2026-06-27 03:03:31.941919 [NOTICE] [44] [*:80] Worker #2 activates SO_REUSEPORT #2 socket, fd: 22
+2026-06-27 03:03:31.941963 [INFO] [44] Close SO_REUSEPORT #1 fd: 25.
+2026-06-27 03:03:31.941968 [INFO] [44] Close SO_REUSEPORT #3 fd: 27.
+2026-06-27 03:03:31.941972 [INFO] [44] Close SO_REUSEPORT #4 fd: 28.
+2026-06-27 03:03:31.941976 [NOTICE] [44] [*:443] Worker #2 activates SO_REUSEPORT #2 socket, fd: 26
+2026-06-27 03:03:31.941986 [INFO] [44] Close SO_REUSEPORT #1 fd: 29.
+2026-06-27 03:03:31.941989 [INFO] [44] Close SO_REUSEPORT #3 fd: 31.
+2026-06-27 03:03:31.941993 [INFO] [44] Close SO_REUSEPORT #4 fd: 32.
+2026-06-27 03:03:31.941997 [NOTICE] [44] [UDP *:443] Worker #2 activates SO_REUSEPORT #2 socket, fd: 30
+2026-06-27 03:03:31.942021 [INFO] [46] Close SO_REUSEPORT #1 fd: 21.
+2026-06-27 03:03:31.942068 [INFO] [46] Close SO_REUSEPORT #2 fd: 22.
+2026-06-27 03:03:31.942071 [INFO] [46] Close SO_REUSEPORT #3 fd: 23.
+2026-06-27 03:03:31.942079 [NOTICE] [46] [*:80] Worker #4 activates SO_REUSEPORT #4 socket, fd: 24
+2026-06-27 03:03:31.942087 [INFO] [44] [UDP:0.0.0.0:443] initPacketsIn: allocated 100 packets
+2026-06-27 03:03:31.942135 [NOTICE] [44] Stop listener *:7080, fd 19.
+2026-06-27 03:03:31.942153 [INFO] [46] Close SO_REUSEPORT #1 fd: 25.
+2026-06-27 03:03:31.942159 [INFO] [46] Close SO_REUSEPORT #2 fd: 26.
+2026-06-27 03:03:31.942162 [INFO] [46] Close SO_REUSEPORT #3 fd: 27.
+2026-06-27 03:03:31.942166 [NOTICE] [46] [*:443] Worker #4 activates SO_REUSEPORT #4 socket, fd: 28
+2026-06-27 03:03:31.942174 [INFO] [46] Close SO_REUSEPORT #1 fd: 29.
+2026-06-27 03:03:31.942177 [INFO] [46] Close SO_REUSEPORT #2 fd: 30.
+2026-06-27 03:03:31.942180 [INFO] [46] Close SO_REUSEPORT #3 fd: 31.
+2026-06-27 03:03:31.942184 [NOTICE] [46] [UDP *:443] Worker #4 activates SO_REUSEPORT #4 socket, fd: 32
+2026-06-27 03:03:31.942277 [INFO] [46] [UDP:0.0.0.0:443] initPacketsIn: allocated 100 packets
+2026-06-27 03:03:31.942289 [NOTICE] [46] Stop listener *:7080, fd 19.
+2026-06-27 03:03:31.942707 [NOTICE] [44] Successfully change current user to lsadm
+2026-06-27 03:03:31.942770 [NOTICE] [44] Core dump is enabled.
+2026-06-27 03:03:31.942815 [NOTICE] [44] Setup swapping space...
+2026-06-27 03:03:31.942834 [NOTICE] [46] Successfully change current user to lsadm
+2026-06-27 03:03:31.942849 [NOTICE] [46] Core dump is enabled.
+2026-06-27 03:03:31.942894 [NOTICE] [46] Setup swapping space...
+2026-06-27 03:03:31.943999 [NOTICE] [34] [AutoRestarter] new child process with pid=46 is forked!
+2026-06-27 03:03:31.944809 [INFO] [45] Close SO_REUSEPORT #1 fd: 21.
+2026-06-27 03:03:31.945042 [INFO] [45] Close SO_REUSEPORT #2 fd: 22.
+2026-06-27 03:03:31.945047 [INFO] [45] Close SO_REUSEPORT #4 fd: 24.
+2026-06-27 03:03:31.945061 [NOTICE] [45] [*:80] Worker #3 activates SO_REUSEPORT #3 socket, fd: 23
+2026-06-27 03:03:31.945109 [INFO] [45] Close SO_REUSEPORT #1 fd: 25.
+2026-06-27 03:03:31.945130 [INFO] [45] Close SO_REUSEPORT #2 fd: 26.
+2026-06-27 03:03:31.945134 [INFO] [45] Close SO_REUSEPORT #4 fd: 28.
+2026-06-27 03:03:31.945139 [NOTICE] [45] [*:443] Worker #3 activates SO_REUSEPORT #3 socket, fd: 27
+2026-06-27 03:03:31.945148 [INFO] [45] Close SO_REUSEPORT #1 fd: 29.
+2026-06-27 03:03:31.945152 [INFO] [45] Close SO_REUSEPORT #2 fd: 30.
+2026-06-27 03:03:31.945155 [INFO] [45] Close SO_REUSEPORT #4 fd: 32.
+2026-06-27 03:03:31.945159 [NOTICE] [45] [UDP *:443] Worker #3 activates SO_REUSEPORT #3 socket, fd: 31
+2026-06-27 03:03:31.945249 [INFO] [45] [UDP:0.0.0.0:443] initPacketsIn: allocated 100 packets
+2026-06-27 03:03:31.945261 [NOTICE] [45] Stop listener *:7080, fd 19.
+2026-06-27 03:03:31.946049 [NOTICE] [45] Successfully change current user to lsadm
+2026-06-27 03:03:31.946077 [NOTICE] [45] Core dump is enabled.
+2026-06-27 03:03:31.946132 [NOTICE] [45] Setup swapping space...
+2026-06-27 03:03:31.946823 [NOTICE] [44] LiteSpeed/1.9.0 Open starts successfully!
+2026-06-27 03:03:31.947319 [NOTICE] [46] LiteSpeed/1.9.0 Open starts successfully!
+2026-06-27 03:03:31.947585 [NOTICE] [45] LiteSpeed/1.9.0 Open starts successfully!
+2026-06-27 03:03:32.001019 [NOTICE] [34] [PID: 34]: forked cgid: 47
+2026-06-27 03:04:11.348124 [NOTICE] [43] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 03:04:11.348191 [INFO] [43] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 03:04:11.348232 [NOTICE] [43] [LocalWorker::workerExec] Config[AdminPHP]: suExec uid -1 gid -1 cmd /usr/local/lsws/admin/fcgi-bin/admin_php -c ../conf/php.ini, final uid 997 gid 1001, flags: 0.
+2026-06-27 03:04:11.348238 [ERROR] [43] [LocalWorker::workerExec] Config[AdminPHP]: cgidSuEXEC failed.
+2026-06-27 03:04:11.348294 [NOTICE] [43] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 03:04:11.348304 [INFO] [43] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 03:04:11.348311 [NOTICE] [43] [LocalWorker::workerExec] Config[AdminPHP]: suExec uid -1 gid -1 cmd /usr/local/lsws/admin/fcgi-bin/admin_php -c ../conf/php.ini, final uid 997 gid 1001, flags: 0.
+2026-06-27 03:04:11.348332 [ERROR] [43] [LocalWorker::workerExec] Config[AdminPHP]: cgidSuEXEC failed.
+2026-06-27 03:04:11.348359 [NOTICE] [43] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 03:04:11.348362 [INFO] [43] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 03:04:11.348367 [NOTICE] [43] [LocalWorker::workerExec] Config[AdminPHP]: suExec uid -1 gid -1 cmd /usr/local/lsws/admin/fcgi-bin/admin_php -c ../conf/php.ini, final uid 997 gid 1001, flags: 0.
+2026-06-27 03:04:11.348369 [ERROR] [43] [LocalWorker::workerExec] Config[AdminPHP]: cgidSuEXEC failed.
+2026-06-27 03:04:11.348488 [NOTICE] [43] [211.72.50.85:61977:H2-3#_AdminVHost] oops! 503 Service Unavailable
+2026-06-27 03:04:11.348555 [INFO] [43] [211.72.50.85:61977:H2-3] Content len: 0, request line: 'GET / HTTP/1.1'
+2026-06-27 03:12:56.775205 [INFO] [config:server:basics] httpdWorkers: 4, Num of Processors: 4
+2026-06-27 03:12:56.775426 [INFO] [config:server:basics] enableLVE: 0
+2026-06-27 03:12:56.775440 [INFO] [config:server:basics] bubbleWrap: 0, cmd: '(null)'
+2026-06-27 03:12:56.776304 [NOTICE] [testAndFixDirs] "/usr/local/lsws//cachedata/" exist and change own to 997:1001.
+2026-06-27 03:12:56.784855 [NOTICE] [testAndFixDirs] "/usr/local/lsws//tmp/" exist and change own to 997:1001.
+2026-06-27 03:12:56.789239 [NOTICE] [testAndFixDirs] "/usr/local/lsws//tmp/ocspcache/" exist and change own to 997:1001.
+2026-06-27 03:12:56.867876 [INFO] [PlainConf] [httpServerConfig:] start parsing file /usr/local/lsws/conf/httpd_config.conf
+2026-06-27 03:12:56.867915 [WARN] [PlainConf] [tuning:] Not support [gzipprocessor 1] in file /usr/local/lsws/conf/httpd_config.conf:36
+2026-06-27 03:12:56.867922 [INFO] [PlainConf] [httpServerConfig:] Failed to RCS checkin conf file /usr/local/lsws/conf/httpd_config.conf0, ret 32512, error(Function not implemented). Org command is ci -l -q -t-"/usr/local/lsws/conf/httpd_config.conf0" -mUpdate "/usr/local/lsws/conf/httpd_config.conf0" >/dev/null 2>&1.
+2026-06-27 03:12:56.867927 [INFO] [PlainConf] [httpServerConfig:] Finished parsing file /usr/local/lsws/conf/httpd_config.conf
+2026-06-27 03:12:56.867935 [NOTICE] Loading LiteSpeed/1.9.0 Open (lsquic 4.6.2, modgzip 1.1, cache 1.66, mod_security 1.4 (with libmodsecurity v3.0.14)) BUILD (built: Thu May  7 15:34:11 UTC 2026) ...
+2026-06-27 03:12:56.867974 [NOTICE] Using [BoringSSL]
+2026-06-27 03:12:56.875883 [NOTICE] [ADMIN] server socket: uds://usr/local/lsws/admin/tmp/admin.sock.7130, fd 7.
+2026-06-27 03:12:56.876347 [NOTICE] [35] chroot is disabled.
+2026-06-27 03:12:56.876370 [INFO] [35] old priority: 0, new priority: 0
+2026-06-27 03:12:56.876962 [INFO] [35] [config:server:basics2] For better obscurity, server version number is hidden in the response header.
+2026-06-27 03:12:56.885650 [INFO] [35] [PlainConf] Failed to RCS checkin conf file /usr/local/lsws/conf/mime.properties0, ret 32512, error(Function not implemented). Org command is ci -l -q -t-"/usr/local/lsws/conf/mime.properties0" -mUpdate "/usr/local/lsws/conf/mime.properties0" >/dev/null 2>&1.
+2026-06-27 03:12:56.885714 [INFO] [35] setuid is allowed in Ext Apps
+2026-06-27 03:12:56.885932 [INFO] [35] Download QUIC.cloud whitelist IP to tmp/download-quic-cloud-ips ...
+2026-06-27 03:12:57.562618 [INFO] [35] Add QUIC.cloud IPs from admin/conf/quic-cloud-ips to trusted ACL ...
+2026-06-27 03:12:57.562713 [INFO] [35] Add CloudFlare Subnets to trusted ACL ...
+2026-06-27 03:12:57.562817 [INFO] [35] [PlainConf] [adminConfig:] start parsing file /usr/local/lsws/admin/conf/admin_config.conf
+2026-06-27 03:12:57.571081 [INFO] [35] [PlainConf] [adminConfig:] Failed to RCS checkin conf file /usr/local/lsws/admin/conf/admin_config.conf0, ret 32512, error(Function not implemented). Org command is ci -l -q -t-"/usr/local/lsws/admin/conf/admin_config.conf0" -mUpdate "/usr/local/lsws/admin/conf/admin_config.conf0" >/dev/null 2>&1.
+2026-06-27 03:12:57.571154 [INFO] [35] [PlainConf] [adminConfig:] Finished parsing file /usr/local/lsws/admin/conf/admin_config.conf
+2026-06-27 03:12:57.572397 [INFO] [35] QuicEngine::init(), pid: 35, log level [warn].
+2026-06-27 03:12:57.577210 [INFO] [35] [Module: modcompress 1.1] has been initialized successfully
+2026-06-27 03:12:57.577449 [INFO] [35] [Module: moddecompress 1.1] has been initialized successfully
+2026-06-27 03:12:57.577580 [INFO] [35] [Module: cache 1.66] has been initialized successfully
+2026-06-27 03:12:57.578773 [NOTICE] [35] Created new Listener [adminListener].
+2026-06-27 03:12:57.578832 [NOTICE] [35] [*:7080] enabled QUIC UDP
+2026-06-27 03:12:57.578917 [INFO] [35] [*:80] Enable SO_REUSEPORT .
+2026-06-27 03:12:57.578925 [NOTICE] [35] [*:80] Add SO_REUSEPORT socket, #1 to #4
+2026-06-27 03:12:57.579066 [NOTICE] [35] Created new Listener [DefaultHTTP].
+2026-06-27 03:12:57.580125 [INFO] [35] [*:443] Enable SO_REUSEPORT .
+2026-06-27 03:12:57.580153 [NOTICE] [35] [*:443] Add SO_REUSEPORT socket, #1 to #4
+2026-06-27 03:12:57.580291 [NOTICE] [35] Created new Listener [DefaultHTTPS].
+2026-06-27 03:12:57.580300 [INFO] [35] [*:443] Enable SO_REUSEPORT .
+2026-06-27 03:12:57.580342 [NOTICE] [35] [UDP *:443] SO_REUSEPORT #1 socket started, fd: 29
+2026-06-27 03:12:57.580364 [NOTICE] [35] [UDP *:443] SO_REUSEPORT #2 socket started, fd: 30
+2026-06-27 03:12:57.580385 [NOTICE] [35] [UDP *:443] SO_REUSEPORT #3 socket started, fd: 31
+2026-06-27 03:12:57.580406 [NOTICE] [35] [UDP *:443] SO_REUSEPORT #4 socket started, fd: 32
+2026-06-27 03:12:57.580409 [NOTICE] [35] [*:443] enabled QUIC UDP
+2026-06-27 03:12:57.580428 [NOTICE] [35] The maximum number of file descriptor limit is set to 50000.
+2026-06-27 03:12:57.584869 [ERROR] [35] [config:accesslog] missing <accessLog>
+2026-06-27 03:12:57.584926 [INFO] [35] [PlainConf] [virtualHostConfig:] start parsing file /usr/local/lsws/conf/vhosts/payload/vhconf.conf
+2026-06-27 03:12:57.585133 [ERROR] [35] [PlainConf] [extprocessor:payload-proxy] Not support [keepalive 0] in file /usr/local/lsws/conf/vhosts/payload/vhconf.conf:9
+2026-06-27 03:12:57.585271 [INFO] [35] [PlainConf] [virtualHostConfig:] Finished parsing file /usr/local/lsws/conf/vhosts/payload/vhconf.conf
+2026-06-27 03:12:57.589647 [INFO] [35] [config:server:vhosts:vhost:payload] config context /.
+2026-06-27 03:12:57.589709 [INFO] [35] [config:server:vhosts:vhost:payload] config context /.well-known/acme-challenge/.
+2026-06-27 03:12:57.589852 [NOTICE] [35] [ZConfManager] No VHosts added, do not send!
+2026-06-27 03:12:57.590439 [NOTICE] [35] Instance is ready for service. m_fdCmd 34, m_fdAdmin 7.
+2026-06-27 03:12:57.591024 [NOTICE] [35] [AutoRestarter] new child process with pid=45 is forked!
+2026-06-27 03:12:57.591482 [NOTICE] [35] [AutoRestarter] new child process with pid=46 is forked!
+2026-06-27 03:12:57.591872 [NOTICE] [35] [AutoRestarter] new child process with pid=47 is forked!
+2026-06-27 03:12:57.592057 [INFO] [45] Close SO_REUSEPORT #2 fd: 22.
+2026-06-27 03:12:57.592086 [INFO] [45] Close SO_REUSEPORT #3 fd: 23.
+2026-06-27 03:12:57.592089 [INFO] [45] Close SO_REUSEPORT #4 fd: 24.
+2026-06-27 03:12:57.592110 [NOTICE] [45] [*:80] Worker #1 activates SO_REUSEPORT #1 socket, fd: 21
+2026-06-27 03:12:57.592167 [INFO] [45] Close SO_REUSEPORT #2 fd: 26.
+2026-06-27 03:12:57.592173 [INFO] [45] Close SO_REUSEPORT #3 fd: 27.
+2026-06-27 03:12:57.592176 [INFO] [45] Close SO_REUSEPORT #4 fd: 28.
+2026-06-27 03:12:57.592180 [NOTICE] [45] [*:443] Worker #1 activates SO_REUSEPORT #1 socket, fd: 25
+2026-06-27 03:12:57.592189 [INFO] [45] Close SO_REUSEPORT #2 fd: 30.
+2026-06-27 03:12:57.592192 [INFO] [45] Close SO_REUSEPORT #3 fd: 31.
+2026-06-27 03:12:57.592195 [INFO] [45] Close SO_REUSEPORT #4 fd: 32.
+2026-06-27 03:12:57.592199 [NOTICE] [45] [UDP *:443] Worker #1 activates SO_REUSEPORT #1 socket, fd: 29
+2026-06-27 03:12:57.592402 [NOTICE] [35] [AutoRestarter] new child process with pid=48 is forked!
+2026-06-27 03:12:57.592518 [INFO] [45] [UDP:0.0.0.0:443] initPacketsIn: allocated 100 packets
+2026-06-27 03:12:57.592539 [INFO] [45] [UDP:0.0.0.0:7080] initPacketsIn: allocated 100 packets
+2026-06-27 03:12:57.593297 [INFO] [46] Close SO_REUSEPORT #1 fd: 21.
+2026-06-27 03:12:57.593341 [INFO] [46] Close SO_REUSEPORT #3 fd: 23.
+2026-06-27 03:12:57.593344 [INFO] [46] Close SO_REUSEPORT #4 fd: 24.
+2026-06-27 03:12:57.593352 [NOTICE] [46] [*:80] Worker #2 activates SO_REUSEPORT #2 socket, fd: 22
+2026-06-27 03:12:57.593391 [INFO] [46] Close SO_REUSEPORT #1 fd: 25.
+2026-06-27 03:12:57.593396 [INFO] [46] Close SO_REUSEPORT #3 fd: 27.
+2026-06-27 03:12:57.593398 [INFO] [46] Close SO_REUSEPORT #4 fd: 28.
+2026-06-27 03:12:57.593401 [NOTICE] [46] [*:443] Worker #2 activates SO_REUSEPORT #2 socket, fd: 26
+2026-06-27 03:12:57.593408 [INFO] [46] Close SO_REUSEPORT #1 fd: 29.
+2026-06-27 03:12:57.593411 [INFO] [46] Close SO_REUSEPORT #3 fd: 31.
+2026-06-27 03:12:57.593413 [INFO] [46] Close SO_REUSEPORT #4 fd: 32.
+2026-06-27 03:12:57.593416 [NOTICE] [46] [UDP *:443] Worker #2 activates SO_REUSEPORT #2 socket, fd: 30
+2026-06-27 03:12:57.593558 [INFO] [46] [UDP:0.0.0.0:443] initPacketsIn: allocated 100 packets
+2026-06-27 03:12:57.593568 [NOTICE] [46] Stop listener *:7080, fd 19.
+2026-06-27 03:12:57.594590 [INFO] [47] Close SO_REUSEPORT #1 fd: 21.
+2026-06-27 03:12:57.594620 [INFO] [47] Close SO_REUSEPORT #2 fd: 22.
+2026-06-27 03:12:57.594624 [INFO] [47] Close SO_REUSEPORT #4 fd: 24.
+2026-06-27 03:12:57.594632 [NOTICE] [47] [*:80] Worker #3 activates SO_REUSEPORT #3 socket, fd: 23
+2026-06-27 03:12:57.594700 [INFO] [47] Close SO_REUSEPORT #1 fd: 25.
+2026-06-27 03:12:57.594709 [INFO] [47] Close SO_REUSEPORT #2 fd: 26.
+2026-06-27 03:12:57.594714 [INFO] [47] Close SO_REUSEPORT #4 fd: 28.
+2026-06-27 03:12:57.594718 [NOTICE] [47] [*:443] Worker #3 activates SO_REUSEPORT #3 socket, fd: 27
+2026-06-27 03:12:57.594762 [INFO] [47] Close SO_REUSEPORT #1 fd: 29.
+2026-06-27 03:12:57.594775 [INFO] [47] Close SO_REUSEPORT #2 fd: 30.
+2026-06-27 03:12:57.594779 [INFO] [47] Close SO_REUSEPORT #4 fd: 32.
+2026-06-27 03:12:57.594782 [NOTICE] [47] [UDP *:443] Worker #3 activates SO_REUSEPORT #3 socket, fd: 31
+2026-06-27 03:12:57.594941 [INFO] [47] [UDP:0.0.0.0:443] initPacketsIn: allocated 100 packets
+2026-06-27 03:12:57.594954 [NOTICE] [47] Stop listener *:7080, fd 19.
+2026-06-27 03:12:57.597487 [INFO] [48] Close SO_REUSEPORT #1 fd: 21.
+2026-06-27 03:12:57.597547 [INFO] [48] Close SO_REUSEPORT #2 fd: 22.
+2026-06-27 03:12:57.597551 [INFO] [48] Close SO_REUSEPORT #3 fd: 23.
+2026-06-27 03:12:57.597563 [NOTICE] [48] [*:80] Worker #4 activates SO_REUSEPORT #4 socket, fd: 24
+2026-06-27 03:12:57.597634 [INFO] [48] Close SO_REUSEPORT #1 fd: 25.
+2026-06-27 03:12:57.597644 [INFO] [48] Close SO_REUSEPORT #2 fd: 26.
+2026-06-27 03:12:57.597647 [INFO] [48] Close SO_REUSEPORT #3 fd: 27.
+2026-06-27 03:12:57.597651 [NOTICE] [48] [*:443] Worker #4 activates SO_REUSEPORT #4 socket, fd: 28
+2026-06-27 03:12:57.597661 [INFO] [48] Close SO_REUSEPORT #1 fd: 29.
+2026-06-27 03:12:57.597664 [INFO] [48] Close SO_REUSEPORT #2 fd: 30.
+2026-06-27 03:12:57.597668 [INFO] [48] Close SO_REUSEPORT #3 fd: 31.
+2026-06-27 03:12:57.597671 [NOTICE] [48] [UDP *:443] Worker #4 activates SO_REUSEPORT #4 socket, fd: 32
+2026-06-27 03:12:57.597864 [INFO] [48] [UDP:0.0.0.0:443] initPacketsIn: allocated 100 packets
+2026-06-27 03:12:57.597881 [NOTICE] [48] Stop listener *:7080, fd 19.
+2026-06-27 03:12:57.598740 [NOTICE] [45] Successfully change current user to lsadm
+2026-06-27 03:12:57.598782 [NOTICE] [45] Core dump is enabled.
+2026-06-27 03:12:57.598847 [NOTICE] [45] Setup swapping space...
+2026-06-27 03:12:57.598971 [NOTICE] [46] Successfully change current user to lsadm
+2026-06-27 03:12:57.598988 [NOTICE] [46] Core dump is enabled.
+2026-06-27 03:12:57.599028 [NOTICE] [46] Setup swapping space...
+2026-06-27 03:12:57.599568 [NOTICE] [46] LiteSpeed/1.9.0 Open starts successfully!
+2026-06-27 03:12:57.599597 [NOTICE] [45] LiteSpeed/1.9.0 Open starts successfully!
+2026-06-27 03:12:57.600027 [NOTICE] [47] Successfully change current user to lsadm
+2026-06-27 03:12:57.600050 [NOTICE] [47] Core dump is enabled.
+2026-06-27 03:12:57.600093 [NOTICE] [47] Setup swapping space...
+2026-06-27 03:12:57.600295 [NOTICE] [47] LiteSpeed/1.9.0 Open starts successfully!
+2026-06-27 03:12:57.600430 [NOTICE] [48] Successfully change current user to lsadm
+2026-06-27 03:12:57.600451 [NOTICE] [48] Core dump is enabled.
+2026-06-27 03:12:57.600498 [NOTICE] [48] Setup swapping space...
+2026-06-27 03:12:57.600808 [NOTICE] [48] LiteSpeed/1.9.0 Open starts successfully!
+2026-06-27 03:12:58.000861 [NOTICE] [35] [PID: 35]: forked cgid: 49
+2026-06-27 03:16:00.022771 [NOTICE] [45] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 03:16:00.022869 [INFO] [45] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 03:16:00.022906 [NOTICE] [45] [LocalWorker::workerExec] Config[AdminPHP]: suExec uid -1 gid -1 cmd /usr/local/lsws/admin/fcgi-bin/admin_php -c ../conf/php.ini, final uid 997 gid 1001, flags: 0.
+2026-06-27 03:16:00.022912 [ERROR] [45] [LocalWorker::workerExec] Config[AdminPHP]: cgidSuEXEC failed.
+2026-06-27 03:16:00.022961 [NOTICE] [45] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 03:16:00.022966 [INFO] [45] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 03:16:00.022971 [NOTICE] [45] [LocalWorker::workerExec] Config[AdminPHP]: suExec uid -1 gid -1 cmd /usr/local/lsws/admin/fcgi-bin/admin_php -c ../conf/php.ini, final uid 997 gid 1001, flags: 0.
+2026-06-27 03:16:00.022975 [ERROR] [45] [LocalWorker::workerExec] Config[AdminPHP]: cgidSuEXEC failed.
+2026-06-27 03:16:00.023024 [NOTICE] [45] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 03:16:00.023184 [INFO] [45] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 03:16:00.023192 [NOTICE] [45] [LocalWorker::workerExec] Config[AdminPHP]: suExec uid -1 gid -1 cmd /usr/local/lsws/admin/fcgi-bin/admin_php -c ../conf/php.ini, final uid 997 gid 1001, flags: 0.
+2026-06-27 03:16:00.023196 [ERROR] [45] [LocalWorker::workerExec] Config[AdminPHP]: cgidSuEXEC failed.
+2026-06-27 03:16:00.023952 [NOTICE] [45] [211.72.50.85:59284:H2-3#_AdminVHost] oops! 503 Service Unavailable
+2026-06-27 03:16:00.024157 [INFO] [45] [211.72.50.85:59284:H2-3] Content len: 0, request line: 'GET / HTTP/1.1'
+2026-06-27 03:18:09.122661 [NOTICE] [48] [64.62.156.174:60463#payload] oops! 503 Service Unavailable
+2026-06-27 03:18:09.127341 [INFO] [48] [64.62.156.174:60463] Content len: 0, request line: 'GET /favicon.ico HTTP/1.1'
+2026-06-27 03:23:56.886478 [INFO] [config:server:basics] httpdWorkers: 4, Num of Processors: 4
+2026-06-27 03:23:56.886577 [INFO] [config:server:basics] enableLVE: 0
+2026-06-27 03:23:56.886586 [INFO] [config:server:basics] bubbleWrap: 0, cmd: '(null)'
+2026-06-27 03:23:56.887305 [NOTICE] [testAndFixDirs] "/usr/local/lsws//cachedata/" exist and change own to 997:1001.
+2026-06-27 03:23:56.889073 [NOTICE] [testAndFixDirs] "/usr/local/lsws//tmp/" exist and change own to 997:1001.
+2026-06-27 03:23:56.891310 [NOTICE] [testAndFixDirs] "/usr/local/lsws//tmp/ocspcache/" exist and change own to 997:1001.
+2026-06-27 03:23:57.020191 [INFO] [PlainConf] [httpServerConfig:] start parsing file /usr/local/lsws/conf/httpd_config.conf
+2026-06-27 03:23:57.020251 [WARN] [PlainConf] [tuning:] Not support [gzipprocessor 1] in file /usr/local/lsws/conf/httpd_config.conf:36
+2026-06-27 03:23:57.020258 [INFO] [PlainConf] [httpServerConfig:] Failed to RCS checkin conf file /usr/local/lsws/conf/httpd_config.conf0, ret 32512, error(Function not implemented). Org command is ci -l -q -t-"/usr/local/lsws/conf/httpd_config.conf0" -mUpdate "/usr/local/lsws/conf/httpd_config.conf0" >/dev/null 2>&1.
+2026-06-27 03:23:57.020264 [INFO] [PlainConf] [httpServerConfig:] Finished parsing file /usr/local/lsws/conf/httpd_config.conf
+2026-06-27 03:23:57.020272 [NOTICE] Loading LiteSpeed/1.9.0 Open (lsquic 4.6.2, modgzip 1.1, cache 1.66, mod_security 1.4 (with libmodsecurity v3.0.14)) BUILD (built: Thu May  7 15:34:11 UTC 2026) ...
+2026-06-27 03:23:57.020318 [NOTICE] Using [BoringSSL]
+2026-06-27 03:23:57.037147 [NOTICE] [ADMIN] server socket: uds://usr/local/lsws/admin/tmp/admin.sock.7016, fd 7.
+2026-06-27 03:23:57.037685 [NOTICE] [35] chroot is disabled.
+2026-06-27 03:23:57.037698 [INFO] [35] old priority: 0, new priority: 0
+2026-06-27 03:23:57.038078 [INFO] [35] [config:server:basics2] For better obscurity, server version number is hidden in the response header.
+2026-06-27 03:23:57.050602 [INFO] [35] [PlainConf] Failed to RCS checkin conf file /usr/local/lsws/conf/mime.properties0, ret 32512, error(Function not implemented). Org command is ci -l -q -t-"/usr/local/lsws/conf/mime.properties0" -mUpdate "/usr/local/lsws/conf/mime.properties0" >/dev/null 2>&1.
+2026-06-27 03:23:57.050848 [INFO] [35] setuid is allowed in Ext Apps
+2026-06-27 03:23:57.051024 [INFO] [35] Download QUIC.cloud whitelist IP to tmp/download-quic-cloud-ips ...
+2026-06-27 03:23:57.733025 [INFO] [35] Add QUIC.cloud IPs from admin/conf/quic-cloud-ips to trusted ACL ...
+2026-06-27 03:23:57.733144 [INFO] [35] Add CloudFlare Subnets to trusted ACL ...
+2026-06-27 03:23:57.733270 [INFO] [35] [PlainConf] [adminConfig:] start parsing file /usr/local/lsws/admin/conf/admin_config.conf
+2026-06-27 03:23:57.744129 [INFO] [35] [PlainConf] [adminConfig:] Failed to RCS checkin conf file /usr/local/lsws/admin/conf/admin_config.conf0, ret 32512, error(Function not implemented). Org command is ci -l -q -t-"/usr/local/lsws/admin/conf/admin_config.conf0" -mUpdate "/usr/local/lsws/admin/conf/admin_config.conf0" >/dev/null 2>&1.
+2026-06-27 03:23:57.744175 [INFO] [35] [PlainConf] [adminConfig:] Finished parsing file /usr/local/lsws/admin/conf/admin_config.conf
+2026-06-27 03:23:57.745323 [INFO] [35] QuicEngine::init(), pid: 35, log level [warn].
+2026-06-27 03:23:57.755300 [INFO] [35] [Module: modcompress 1.1] has been initialized successfully
+2026-06-27 03:23:57.755499 [INFO] [35] [Module: moddecompress 1.1] has been initialized successfully
+2026-06-27 03:23:57.755774 [INFO] [35] [Module: cache 1.66] has been initialized successfully
+2026-06-27 03:23:57.756964 [NOTICE] [35] Created new Listener [adminListener].
+2026-06-27 03:23:57.757036 [NOTICE] [35] [*:7080] enabled QUIC UDP
+2026-06-27 03:23:57.757108 [INFO] [35] [*:80] Enable SO_REUSEPORT .
+2026-06-27 03:23:57.757114 [NOTICE] [35] [*:80] Add SO_REUSEPORT socket, #1 to #4
+2026-06-27 03:23:57.757275 [NOTICE] [35] Created new Listener [DefaultHTTP].
+2026-06-27 03:23:57.759783 [INFO] [35] [*:443] Enable SO_REUSEPORT .
+2026-06-27 03:23:57.759821 [NOTICE] [35] [*:443] Add SO_REUSEPORT socket, #1 to #4
+2026-06-27 03:23:57.761481 [NOTICE] [35] Created new Listener [DefaultHTTPS].
+2026-06-27 03:23:57.761522 [INFO] [35] [*:443] Enable SO_REUSEPORT .
+2026-06-27 03:23:57.762022 [NOTICE] [35] [UDP *:443] SO_REUSEPORT #1 socket started, fd: 29
+2026-06-27 03:23:57.762115 [NOTICE] [35] [UDP *:443] SO_REUSEPORT #2 socket started, fd: 30
+2026-06-27 03:23:57.762156 [NOTICE] [35] [UDP *:443] SO_REUSEPORT #3 socket started, fd: 31
+2026-06-27 03:23:57.762181 [NOTICE] [35] [UDP *:443] SO_REUSEPORT #4 socket started, fd: 32
+2026-06-27 03:23:57.762184 [NOTICE] [35] [*:443] enabled QUIC UDP
+2026-06-27 03:23:57.762215 [NOTICE] [35] The maximum number of file descriptor limit is set to 50000.
+2026-06-27 03:23:57.767463 [ERROR] [35] [config:accesslog] missing <accessLog>
+2026-06-27 03:23:57.767522 [INFO] [35] [PlainConf] [virtualHostConfig:] start parsing file /usr/local/lsws/conf/vhosts/payload/vhconf.conf
+2026-06-27 03:23:57.769328 [ERROR] [35] [PlainConf] [extprocessor:payload-proxy] Not support [keepalive 0] in file /usr/local/lsws/conf/vhosts/payload/vhconf.conf:9
+2026-06-27 03:23:57.769552 [INFO] [35] [PlainConf] [virtualHostConfig:] Finished parsing file /usr/local/lsws/conf/vhosts/payload/vhconf.conf
+2026-06-27 03:23:57.774080 [INFO] [35] [config:server:vhosts:vhost:payload] config context /.
+2026-06-27 03:23:57.774147 [INFO] [35] [config:server:vhosts:vhost:payload] config context /.well-known/acme-challenge/.
+2026-06-27 03:23:57.774258 [NOTICE] [35] [ZConfManager] No VHosts added, do not send!
+2026-06-27 03:23:57.774643 [NOTICE] [35] Instance is ready for service. m_fdCmd 34, m_fdAdmin 7.
+2026-06-27 03:23:57.775352 [NOTICE] [35] [AutoRestarter] new child process with pid=45 is forked!
+2026-06-27 03:23:57.775884 [NOTICE] [35] [AutoRestarter] new child process with pid=46 is forked!
+2026-06-27 03:23:57.777898 [INFO] [45] Close SO_REUSEPORT #2 fd: 22.
+2026-06-27 03:23:57.777944 [INFO] [45] Close SO_REUSEPORT #3 fd: 23.
+2026-06-27 03:23:57.777948 [INFO] [45] Close SO_REUSEPORT #4 fd: 24.
+2026-06-27 03:23:57.777961 [NOTICE] [45] [*:80] Worker #1 activates SO_REUSEPORT #1 socket, fd: 21
+2026-06-27 03:23:57.778063 [INFO] [45] Close SO_REUSEPORT #2 fd: 26.
+2026-06-27 03:23:57.778072 [INFO] [45] Close SO_REUSEPORT #3 fd: 27.
+2026-06-27 03:23:57.778076 [INFO] [45] Close SO_REUSEPORT #4 fd: 28.
+2026-06-27 03:23:57.778082 [NOTICE] [45] [*:443] Worker #1 activates SO_REUSEPORT #1 socket, fd: 25
+2026-06-27 03:23:57.778093 [INFO] [45] Close SO_REUSEPORT #2 fd: 30.
+2026-06-27 03:23:57.778098 [INFO] [45] Close SO_REUSEPORT #3 fd: 31.
+2026-06-27 03:23:57.778101 [INFO] [45] Close SO_REUSEPORT #4 fd: 32.
+2026-06-27 03:23:57.778452 [INFO] [46] Close SO_REUSEPORT #1 fd: 21.
+2026-06-27 03:23:57.778478 [INFO] [46] Close SO_REUSEPORT #3 fd: 23.
+2026-06-27 03:23:57.778481 [INFO] [46] Close SO_REUSEPORT #4 fd: 24.
+2026-06-27 03:23:57.778490 [NOTICE] [46] [*:80] Worker #2 activates SO_REUSEPORT #2 socket, fd: 22
+2026-06-27 03:23:57.778548 [INFO] [46] Close SO_REUSEPORT #1 fd: 25.
+2026-06-27 03:23:57.778554 [INFO] [46] Close SO_REUSEPORT #3 fd: 27.
+2026-06-27 03:23:57.778561 [INFO] [46] Close SO_REUSEPORT #4 fd: 28.
+2026-06-27 03:23:57.778565 [NOTICE] [46] [*:443] Worker #2 activates SO_REUSEPORT #2 socket, fd: 26
+2026-06-27 03:23:57.778575 [INFO] [46] Close SO_REUSEPORT #1 fd: 29.
+2026-06-27 03:23:57.778579 [INFO] [46] Close SO_REUSEPORT #3 fd: 31.
+2026-06-27 03:23:57.778582 [INFO] [46] Close SO_REUSEPORT #4 fd: 32.
+2026-06-27 03:23:57.778586 [NOTICE] [46] [UDP *:443] Worker #2 activates SO_REUSEPORT #2 socket, fd: 30
+2026-06-27 03:23:57.778868 [INFO] [46] [UDP:0.0.0.0:443] initPacketsIn: allocated 100 packets
+2026-06-27 03:23:57.778888 [NOTICE] [46] Stop listener *:7080, fd 19.
+2026-06-27 03:23:57.778106 [NOTICE] [45] [UDP *:443] Worker #1 activates SO_REUSEPORT #1 socket, fd: 29
+2026-06-27 03:23:57.776662 [NOTICE] [35] [AutoRestarter] new child process with pid=47 is forked!
+2026-06-27 03:23:57.779906 [INFO] [45] [UDP:0.0.0.0:443] initPacketsIn: allocated 100 packets
+2026-06-27 03:23:57.779928 [INFO] [45] [UDP:0.0.0.0:7080] initPacketsIn: allocated 100 packets
+2026-06-27 03:23:57.780230 [WARN] [45] SHM file [/dev/shm/ols/adns_cache.shm] size: 16384, does not match x_stat.m_iFileSize: 8192, correct it
+2026-06-27 03:23:57.780479 [NOTICE] [35] [AutoRestarter] new child process with pid=48 is forked!
+2026-06-27 03:23:57.782280 [INFO] [47] Close SO_REUSEPORT #1 fd: 21.
+2026-06-27 03:23:57.782328 [INFO] [47] Close SO_REUSEPORT #2 fd: 22.
+2026-06-27 03:23:57.782318 [NOTICE] [46] Successfully change current user to lsadm
+2026-06-27 03:23:57.782335 [INFO] [47] Close SO_REUSEPORT #4 fd: 24.
+2026-06-27 03:23:57.782359 [NOTICE] [47] [*:80] Worker #3 activates SO_REUSEPORT #3 socket, fd: 23
+2026-06-27 03:23:57.782366 [NOTICE] [46] Core dump is enabled.
+2026-06-27 03:23:57.782428 [NOTICE] [46] Setup swapping space...
+2026-06-27 03:23:57.782438 [INFO] [47] Close SO_REUSEPORT #1 fd: 25.
+2026-06-27 03:23:57.782444 [INFO] [47] Close SO_REUSEPORT #2 fd: 26.
+2026-06-27 03:23:57.782448 [INFO] [47] Close SO_REUSEPORT #4 fd: 28.
+2026-06-27 03:23:57.782452 [NOTICE] [47] [*:443] Worker #3 activates SO_REUSEPORT #3 socket, fd: 27
+2026-06-27 03:23:57.782463 [INFO] [47] Close SO_REUSEPORT #1 fd: 29.
+2026-06-27 03:23:57.782468 [INFO] [47] Close SO_REUSEPORT #2 fd: 30.
+2026-06-27 03:23:57.782471 [INFO] [47] Close SO_REUSEPORT #4 fd: 32.
+2026-06-27 03:23:57.782479 [NOTICE] [47] [UDP *:443] Worker #3 activates SO_REUSEPORT #3 socket, fd: 31
+2026-06-27 03:23:57.782630 [INFO] [48] Close SO_REUSEPORT #1 fd: 21.
+2026-06-27 03:23:57.782658 [INFO] [48] Close SO_REUSEPORT #2 fd: 22.
+2026-06-27 03:23:57.782662 [INFO] [48] Close SO_REUSEPORT #3 fd: 23.
+2026-06-27 03:23:57.782715 [NOTICE] [48] [*:80] Worker #4 activates SO_REUSEPORT #4 socket, fd: 24
+2026-06-27 03:23:57.782813 [INFO] [48] Close SO_REUSEPORT #1 fd: 25.
+2026-06-27 03:23:57.782834 [INFO] [48] Close SO_REUSEPORT #2 fd: 26.
+2026-06-27 03:23:57.782837 [INFO] [48] Close SO_REUSEPORT #3 fd: 27.
+2026-06-27 03:23:57.782841 [NOTICE] [48] [*:443] Worker #4 activates SO_REUSEPORT #4 socket, fd: 28
+2026-06-27 03:23:57.782849 [INFO] [48] Close SO_REUSEPORT #1 fd: 29.
+2026-06-27 03:23:57.782852 [INFO] [48] Close SO_REUSEPORT #2 fd: 30.
+2026-06-27 03:23:57.782855 [INFO] [48] Close SO_REUSEPORT #3 fd: 31.
+2026-06-27 03:23:57.782859 [NOTICE] [48] [UDP *:443] Worker #4 activates SO_REUSEPORT #4 socket, fd: 32
+2026-06-27 03:23:57.782990 [NOTICE] [46] LiteSpeed/1.9.0 Open starts successfully!
+2026-06-27 03:23:57.783028 [NOTICE] [45] Successfully change current user to lsadm
+2026-06-27 03:23:57.783052 [NOTICE] [45] Core dump is enabled.
+2026-06-27 03:23:57.783107 [INFO] [48] [UDP:0.0.0.0:443] initPacketsIn: allocated 100 packets
+2026-06-27 03:23:57.783127 [NOTICE] [48] Stop listener *:7080, fd 19.
+2026-06-27 03:23:57.783131 [NOTICE] [45] Setup swapping space...
+2026-06-27 03:23:57.783265 [NOTICE] [45] LiteSpeed/1.9.0 Open starts successfully!
+2026-06-27 03:23:57.783335 [INFO] [47] [UDP:0.0.0.0:443] initPacketsIn: allocated 100 packets
+2026-06-27 03:23:57.783553 [NOTICE] [47] Stop listener *:7080, fd 19.
+2026-06-27 03:23:57.783784 [NOTICE] [48] Successfully change current user to lsadm
+2026-06-27 03:23:57.783807 [NOTICE] [48] Core dump is enabled.
+2026-06-27 03:23:57.783883 [NOTICE] [48] Setup swapping space...
+2026-06-27 03:23:57.784196 [NOTICE] [47] Successfully change current user to lsadm
+2026-06-27 03:23:57.784209 [NOTICE] [47] Core dump is enabled.
+2026-06-27 03:23:57.784214 [NOTICE] [48] LiteSpeed/1.9.0 Open starts successfully!
+2026-06-27 03:23:57.784353 [NOTICE] [47] Setup swapping space...
+2026-06-27 03:23:57.784779 [NOTICE] [47] LiteSpeed/1.9.0 Open starts successfully!
+2026-06-27 03:23:58.004063 [NOTICE] [35] [PID: 35]: forked cgid: 49
+2026-06-27 03:24:47.187853 [NOTICE] [45] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 03:24:47.187914 [INFO] [45] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 03:24:47.187936 [NOTICE] [45] [LocalWorker::workerExec] Config[AdminPHP]: suExec uid -1 gid -1 cmd /usr/local/lsws/admin/fcgi-bin/admin_php -c ../conf/php.ini, final uid 997 gid 1001, flags: 0.
+2026-06-27 03:24:47.187940 [ERROR] [45] [LocalWorker::workerExec] Config[AdminPHP]: cgidSuEXEC failed.
+2026-06-27 03:24:47.187995 [NOTICE] [45] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 03:24:47.188000 [INFO] [45] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 03:24:47.188004 [NOTICE] [45] [LocalWorker::workerExec] Config[AdminPHP]: suExec uid -1 gid -1 cmd /usr/local/lsws/admin/fcgi-bin/admin_php -c ../conf/php.ini, final uid 997 gid 1001, flags: 0.
+2026-06-27 03:24:47.188008 [ERROR] [45] [LocalWorker::workerExec] Config[AdminPHP]: cgidSuEXEC failed.
+2026-06-27 03:24:47.188029 [NOTICE] [45] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 03:24:47.188033 [INFO] [45] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 03:24:47.188038 [NOTICE] [45] [LocalWorker::workerExec] Config[AdminPHP]: suExec uid -1 gid -1 cmd /usr/local/lsws/admin/fcgi-bin/admin_php -c ../conf/php.ini, final uid 997 gid 1001, flags: 0.
+2026-06-27 03:24:47.188042 [ERROR] [45] [LocalWorker::workerExec] Config[AdminPHP]: cgidSuEXEC failed.
+2026-06-27 03:24:47.188130 [NOTICE] [45] [211.72.50.85:57331:H2-3#_AdminVHost] oops! 503 Service Unavailable
+2026-06-27 03:24:47.188198 [INFO] [45] [211.72.50.85:57331:H2-3] Content len: 0, request line: 'GET / HTTP/1.1'
+2026-06-27 03:25:48.432369 [NOTICE] [45] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 03:25:48.432443 [INFO] [45] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 03:25:48.432453 [NOTICE] [45] [LocalWorker::workerExec] Config[AdminPHP]: suExec uid -1 gid -1 cmd /usr/local/lsws/admin/fcgi-bin/admin_php -c ../conf/php.ini, final uid 997 gid 1001, flags: 0.
+2026-06-27 03:25:48.432456 [ERROR] [45] [LocalWorker::workerExec] Config[AdminPHP]: cgidSuEXEC failed.
+2026-06-27 03:25:48.432497 [NOTICE] [45] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 03:25:48.432501 [INFO] [45] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 03:25:48.432505 [NOTICE] [45] [LocalWorker::workerExec] Config[AdminPHP]: suExec uid -1 gid -1 cmd /usr/local/lsws/admin/fcgi-bin/admin_php -c ../conf/php.ini, final uid 997 gid 1001, flags: 0.
+2026-06-27 03:25:48.432508 [ERROR] [45] [LocalWorker::workerExec] Config[AdminPHP]: cgidSuEXEC failed.
+2026-06-27 03:25:48.432532 [NOTICE] [45] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 03:25:48.432536 [INFO] [45] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 03:25:48.432540 [NOTICE] [45] [LocalWorker::workerExec] Config[AdminPHP]: suExec uid -1 gid -1 cmd /usr/local/lsws/admin/fcgi-bin/admin_php -c ../conf/php.ini, final uid 997 gid 1001, flags: 0.
+2026-06-27 03:25:48.432542 [ERROR] [45] [LocalWorker::workerExec] Config[AdminPHP]: cgidSuEXEC failed.
+2026-06-27 03:25:48.432648 [NOTICE] [45] [211.72.50.85:57337:H2-3#_AdminVHost] oops! 503 Service Unavailable
+2026-06-27 03:25:48.432680 [INFO] [45] [211.72.50.85:57337:H2-3] Content len: 0, request line: 'GET / HTTP/1.1'
+2026-06-27 03:26:21.864230 [NOTICE] [45] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 03:26:21.864314 [INFO] [45] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 03:26:21.864325 [NOTICE] [45] [LocalWorker::workerExec] Config[AdminPHP]: suExec uid -1 gid -1 cmd /usr/local/lsws/admin/fcgi-bin/admin_php -c ../conf/php.ini, final uid 997 gid 1001, flags: 0.
+2026-06-27 03:26:21.864330 [ERROR] [45] [LocalWorker::workerExec] Config[AdminPHP]: cgidSuEXEC failed.
+2026-06-27 03:26:21.864369 [NOTICE] [45] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 03:26:21.864374 [INFO] [45] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 03:26:21.864380 [NOTICE] [45] [LocalWorker::workerExec] Config[AdminPHP]: suExec uid -1 gid -1 cmd /usr/local/lsws/admin/fcgi-bin/admin_php -c ../conf/php.ini, final uid 997 gid 1001, flags: 0.
+2026-06-27 03:26:21.864385 [ERROR] [45] [LocalWorker::workerExec] Config[AdminPHP]: cgidSuEXEC failed.
+2026-06-27 03:26:21.864412 [NOTICE] [45] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 03:26:21.864476 [INFO] [45] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 03:26:21.864639 [NOTICE] [45] [LocalWorker::workerExec] Config[AdminPHP]: suExec uid -1 gid -1 cmd /usr/local/lsws/admin/fcgi-bin/admin_php -c ../conf/php.ini, final uid 997 gid 1001, flags: 0.
+2026-06-27 03:26:21.864654 [ERROR] [45] [LocalWorker::workerExec] Config[AdminPHP]: cgidSuEXEC failed.
+2026-06-27 03:26:21.864702 [NOTICE] [45] [211.72.50.85:57337:H2-5#_AdminVHost] oops! 503 Service Unavailable
+2026-06-27 03:26:21.864839 [INFO] [45] [211.72.50.85:57337:H2-5] Content len: 0, request line: 'GET / HTTP/1.1'
+2026-06-27 03:26:23.437166 [NOTICE] [45] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 03:26:23.437216 [INFO] [45] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 03:26:23.437228 [NOTICE] [45] [LocalWorker::workerExec] Config[AdminPHP]: suExec uid -1 gid -1 cmd /usr/local/lsws/admin/fcgi-bin/admin_php -c ../conf/php.ini, final uid 997 gid 1001, flags: 0.
+2026-06-27 03:26:23.437860 [ERROR] [45] [LocalWorker::workerExec] Config[AdminPHP]: cgidSuEXEC failed.
+2026-06-27 03:26:23.437987 [NOTICE] [45] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 03:26:23.437995 [INFO] [45] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 03:26:23.438001 [NOTICE] [45] [LocalWorker::workerExec] Config[AdminPHP]: suExec uid -1 gid -1 cmd /usr/local/lsws/admin/fcgi-bin/admin_php -c ../conf/php.ini, final uid 997 gid 1001, flags: 0.
+2026-06-27 03:26:23.438004 [ERROR] [45] [LocalWorker::workerExec] Config[AdminPHP]: cgidSuEXEC failed.
+2026-06-27 03:26:23.438196 [NOTICE] [45] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 03:26:23.438204 [INFO] [45] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 03:26:23.438209 [NOTICE] [45] [LocalWorker::workerExec] Config[AdminPHP]: suExec uid -1 gid -1 cmd /usr/local/lsws/admin/fcgi-bin/admin_php -c ../conf/php.ini, final uid 997 gid 1001, flags: 0.
+2026-06-27 03:26:23.438212 [ERROR] [45] [LocalWorker::workerExec] Config[AdminPHP]: cgidSuEXEC failed.
+2026-06-27 03:26:23.438396 [NOTICE] [45] [211.72.50.85:57337:H2-7#_AdminVHost] oops! 503 Service Unavailable
+2026-06-27 03:26:23.438432 [INFO] [45] [211.72.50.85:57337:H2-7] Content len: 0, request line: 'GET / HTTP/1.1'
+2026-06-27 03:28:38.170895 [INFO] [config:server:basics] httpdWorkers: 4, Num of Processors: 4
+2026-06-27 03:28:38.170948 [INFO] [config:server:basics] enableLVE: 0
+2026-06-27 03:28:38.170956 [INFO] [config:server:basics] bubbleWrap: 0, cmd: '(null)'
+2026-06-27 03:28:38.200899 [INFO] [PlainConf] [httpServerConfig:] start parsing file /usr/local/lsws/conf/httpd_config.conf
+2026-06-27 03:28:38.200941 [WARN] [PlainConf] [tuning:] Not support [gzipprocessor 1] in file /usr/local/lsws/conf/httpd_config.conf:36
+2026-06-27 03:28:38.200948 [INFO] [PlainConf] [httpServerConfig:] Finished parsing file /usr/local/lsws/conf/httpd_config.conf
+2026-06-27 03:28:38.200957 [NOTICE] Loading LiteSpeed/1.9.0 Open (lsquic 4.6.2, modgzip 1.1, cache 1.66, mod_security 1.4 (with libmodsecurity v3.0.14)) BUILD (built: Thu May  7 15:34:11 UTC 2026) ...
+2026-06-27 03:28:38.200992 [NOTICE] Using [BoringSSL]
+2026-06-27 03:28:38.203507 [NOTICE] [ADMIN] server socket: uds://usr/local/lsws/admin/tmp/admin.sock.7175, fd 7.
+2026-06-27 03:28:38.203867 [NOTICE] [32] chroot is disabled.
+2026-06-27 03:28:38.203884 [INFO] [32] old priority: 0, new priority: 0
+2026-06-27 03:28:38.204112 [INFO] [32] [config:server:basics2] For better obscurity, server version number is hidden in the response header.
+2026-06-27 03:28:38.205329 [INFO] [32] setuid is allowed in Ext Apps
+2026-06-27 03:28:38.205501 [INFO] [32] Add QUIC.cloud IPs from admin/conf/quic-cloud-ips to trusted ACL ...
+2026-06-27 03:28:38.205560 [INFO] [32] Add CloudFlare Subnets to trusted ACL ...
+2026-06-27 03:28:38.205600 [INFO] [32] [PlainConf] [adminConfig:] start parsing file /usr/local/lsws/admin/conf/admin_config.conf
+2026-06-27 03:28:38.205864 [INFO] [32] [PlainConf] [adminConfig:] Finished parsing file /usr/local/lsws/admin/conf/admin_config.conf
+2026-06-27 03:28:38.206745 [INFO] [32] QuicEngine::init(), pid: 32, log level [warn].
+2026-06-27 03:28:38.207516 [INFO] [32] [Module: modcompress 1.1] has been initialized successfully
+2026-06-27 03:28:38.207649 [INFO] [32] [Module: moddecompress 1.1] has been initialized successfully
+2026-06-27 03:28:38.207828 [INFO] [32] [Module: cache 1.66] has been initialized successfully
+2026-06-27 03:28:38.209156 [NOTICE] [32] Created new Listener [adminListener].
+2026-06-27 03:28:38.209204 [NOTICE] [32] [*:7080] enabled QUIC UDP
+2026-06-27 03:28:38.209232 [INFO] [32] [*:80] Enable SO_REUSEPORT .
+2026-06-27 03:28:38.209238 [NOTICE] [32] [*:80] Add SO_REUSEPORT socket, #1 to #4
+2026-06-27 03:28:38.209354 [NOTICE] [32] Created new Listener [DefaultHTTP].
+2026-06-27 03:28:38.209851 [INFO] [32] [*:443] Enable SO_REUSEPORT .
+2026-06-27 03:28:38.209865 [NOTICE] [32] [*:443] Add SO_REUSEPORT socket, #1 to #4
+2026-06-27 03:28:38.210287 [NOTICE] [32] Created new Listener [DefaultHTTPS].
+2026-06-27 03:28:38.210298 [INFO] [32] [*:443] Enable SO_REUSEPORT .
+2026-06-27 03:28:38.210336 [NOTICE] [32] [UDP *:443] SO_REUSEPORT #1 socket started, fd: 28
+2026-06-27 03:28:38.210362 [NOTICE] [32] [UDP *:443] SO_REUSEPORT #2 socket started, fd: 29
+2026-06-27 03:28:38.210383 [NOTICE] [32] [UDP *:443] SO_REUSEPORT #3 socket started, fd: 30
+2026-06-27 03:28:38.210406 [NOTICE] [32] [UDP *:443] SO_REUSEPORT #4 socket started, fd: 31
+2026-06-27 03:28:38.210411 [NOTICE] [32] [*:443] enabled QUIC UDP
+2026-06-27 03:28:38.210428 [NOTICE] [32] The maximum number of file descriptor limit is set to 50000.
+2026-06-27 03:28:38.211163 [ERROR] [32] [config:accesslog] missing <accessLog>
+2026-06-27 03:28:38.211205 [INFO] [32] [PlainConf] [virtualHostConfig:] start parsing file /usr/local/lsws/conf/vhosts/payload/vhconf.conf
+2026-06-27 03:28:38.211338 [ERROR] [32] [PlainConf] [extprocessor:payload-proxy] Not support [keepalive 0] in file /usr/local/lsws/conf/vhosts/payload/vhconf.conf:9
+2026-06-27 03:28:38.211433 [INFO] [32] [PlainConf] [virtualHostConfig:] Finished parsing file /usr/local/lsws/conf/vhosts/payload/vhconf.conf
+2026-06-27 03:28:38.214185 [INFO] [32] [config:server:vhosts:vhost:payload] config context /.
+2026-06-27 03:28:38.214230 [INFO] [32] [config:server:vhosts:vhost:payload] config context /.well-known/acme-challenge/.
+2026-06-27 03:28:38.214309 [NOTICE] [32] [ZConfManager] No VHosts added, do not send!
+2026-06-27 03:28:38.214654 [NOTICE] [32] Instance is ready for service. m_fdCmd 33, m_fdAdmin 7.
+2026-06-27 03:28:38.215145 [NOTICE] [32] [AutoRestarter] new child process with pid=35 is forked!
+2026-06-27 03:28:38.215452 [NOTICE] [32] [AutoRestarter] new child process with pid=36 is forked!
+2026-06-27 03:28:38.216050 [NOTICE] [32] [AutoRestarter] new child process with pid=37 is forked!
+2026-06-27 03:28:38.216090 [INFO] [35] Close SO_REUSEPORT #2 fd: 21.
+2026-06-27 03:28:38.216140 [INFO] [35] Close SO_REUSEPORT #3 fd: 22.
+2026-06-27 03:28:38.216144 [INFO] [35] Close SO_REUSEPORT #4 fd: 23.
+2026-06-27 03:28:38.216161 [NOTICE] [35] [*:80] Worker #1 activates SO_REUSEPORT #1 socket, fd: 20
+2026-06-27 03:28:38.216158 [INFO] [36] Close SO_REUSEPORT #1 fd: 20.
+2026-06-27 03:28:38.216185 [INFO] [36] Close SO_REUSEPORT #3 fd: 22.
+2026-06-27 03:28:38.216189 [INFO] [36] Close SO_REUSEPORT #4 fd: 23.
+2026-06-27 03:28:38.216200 [NOTICE] [36] [*:80] Worker #2 activates SO_REUSEPORT #2 socket, fd: 21
+2026-06-27 03:28:38.216219 [INFO] [35] Close SO_REUSEPORT #2 fd: 25.
+2026-06-27 03:28:38.216225 [INFO] [35] Close SO_REUSEPORT #3 fd: 26.
+2026-06-27 03:28:38.216230 [INFO] [35] Close SO_REUSEPORT #4 fd: 27.
+2026-06-27 03:28:38.216234 [NOTICE] [35] [*:443] Worker #1 activates SO_REUSEPORT #1 socket, fd: 24
+2026-06-27 03:28:38.216253 [INFO] [36] Close SO_REUSEPORT #1 fd: 24.
+2026-06-27 03:28:38.216259 [INFO] [36] Close SO_REUSEPORT #3 fd: 26.
+2026-06-27 03:28:38.216260 [INFO] [35] Close SO_REUSEPORT #2 fd: 29.
+2026-06-27 03:28:38.216264 [INFO] [36] Close SO_REUSEPORT #4 fd: 27.
+2026-06-27 03:28:38.216268 [INFO] [35] Close SO_REUSEPORT #3 fd: 30.
+2026-06-27 03:28:38.216269 [NOTICE] [36] [*:443] Worker #2 activates SO_REUSEPORT #2 socket, fd: 25
+2026-06-27 03:28:38.216273 [INFO] [35] Close SO_REUSEPORT #4 fd: 31.
+2026-06-27 03:28:38.216277 [NOTICE] [35] [UDP *:443] Worker #1 activates SO_REUSEPORT #1 socket, fd: 28
+2026-06-27 03:28:38.216296 [INFO] [36] Close SO_REUSEPORT #1 fd: 28.
+2026-06-27 03:28:38.216301 [INFO] [36] Close SO_REUSEPORT #3 fd: 30.
+2026-06-27 03:28:38.216305 [INFO] [36] Close SO_REUSEPORT #4 fd: 31.
+2026-06-27 03:28:38.216309 [NOTICE] [36] [UDP *:443] Worker #2 activates SO_REUSEPORT #2 socket, fd: 29
+2026-06-27 03:28:38.216369 [INFO] [35] [UDP:0.0.0.0:443] initPacketsIn: allocated 100 packets
+2026-06-27 03:28:38.216388 [INFO] [36] [UDP:0.0.0.0:443] initPacketsIn: allocated 100 packets
+2026-06-27 03:28:38.216383 [NOTICE] [32] [AutoRestarter] new child process with pid=38 is forked!
+2026-06-27 03:28:38.216407 [INFO] [35] [UDP:0.0.0.0:7080] initPacketsIn: allocated 100 packets
+2026-06-27 03:28:38.216418 [NOTICE] [36] Stop listener *:7080, fd 18.
+2026-06-27 03:28:38.216957 [INFO] [37] Close SO_REUSEPORT #1 fd: 20.
+2026-06-27 03:28:38.216983 [INFO] [37] Close SO_REUSEPORT #2 fd: 21.
+2026-06-27 03:28:38.216987 [INFO] [37] Close SO_REUSEPORT #4 fd: 23.
+2026-06-27 03:28:38.216995 [NOTICE] [37] [*:80] Worker #3 activates SO_REUSEPORT #3 socket, fd: 22
+2026-06-27 03:28:38.217025 [INFO] [37] Close SO_REUSEPORT #1 fd: 24.
+2026-06-27 03:28:38.217030 [INFO] [37] Close SO_REUSEPORT #2 fd: 25.
+2026-06-27 03:28:38.217034 [INFO] [37] Close SO_REUSEPORT #4 fd: 27.
+2026-06-27 03:28:38.217037 [NOTICE] [37] [*:443] Worker #3 activates SO_REUSEPORT #3 socket, fd: 26
+2026-06-27 03:28:38.217061 [INFO] [37] Close SO_REUSEPORT #1 fd: 28.
+2026-06-27 03:28:38.217066 [INFO] [37] Close SO_REUSEPORT #2 fd: 29.
+2026-06-27 03:28:38.217069 [INFO] [37] Close SO_REUSEPORT #4 fd: 31.
+2026-06-27 03:28:38.217073 [NOTICE] [37] [UDP *:443] Worker #3 activates SO_REUSEPORT #3 socket, fd: 30
+2026-06-27 03:28:38.217077 [NOTICE] [36] Successfully change current user to lsadm
+2026-06-27 03:28:38.217088 [NOTICE] [36] Core dump is enabled.
+2026-06-27 03:28:38.217123 [NOTICE] [36] Setup swapping space...
+2026-06-27 03:28:38.217143 [INFO] [37] [UDP:0.0.0.0:443] initPacketsIn: allocated 100 packets
+2026-06-27 03:28:38.217155 [NOTICE] [37] Stop listener *:7080, fd 18.
+2026-06-27 03:28:38.217242 [NOTICE] [36] LiteSpeed/1.9.0 Open starts successfully!
+2026-06-27 03:28:38.217523 [INFO] [38] Close SO_REUSEPORT #1 fd: 20.
+2026-06-27 03:28:38.217556 [INFO] [38] Close SO_REUSEPORT #2 fd: 21.
+2026-06-27 03:28:38.217560 [INFO] [38] Close SO_REUSEPORT #3 fd: 22.
+2026-06-27 03:28:38.217572 [NOTICE] [38] [*:80] Worker #4 activates SO_REUSEPORT #4 socket, fd: 23
+2026-06-27 03:28:38.217608 [INFO] [38] Close SO_REUSEPORT #1 fd: 24.
+2026-06-27 03:28:38.217613 [INFO] [38] Close SO_REUSEPORT #2 fd: 25.
+2026-06-27 03:28:38.217612 [NOTICE] [35] Successfully change current user to lsadm
+2026-06-27 03:28:38.217617 [INFO] [38] Close SO_REUSEPORT #3 fd: 26.
+2026-06-27 03:28:38.217624 [NOTICE] [35] Core dump is enabled.
+2026-06-27 03:28:38.217625 [NOTICE] [38] [*:443] Worker #4 activates SO_REUSEPORT #4 socket, fd: 27
+2026-06-27 03:28:38.217653 [INFO] [38] Close SO_REUSEPORT #1 fd: 28.
+2026-06-27 03:28:38.217658 [INFO] [38] Close SO_REUSEPORT #2 fd: 29.
+2026-06-27 03:28:38.217661 [INFO] [38] Close SO_REUSEPORT #3 fd: 30.
+2026-06-27 03:28:38.217665 [NOTICE] [38] [UDP *:443] Worker #4 activates SO_REUSEPORT #4 socket, fd: 31
+2026-06-27 03:28:38.217667 [NOTICE] [35] Setup swapping space...
+2026-06-27 03:28:38.217701 [NOTICE] [37] Successfully change current user to lsadm
+2026-06-27 03:28:38.217709 [NOTICE] [37] Core dump is enabled.
+2026-06-27 03:28:38.217784 [INFO] [38] [UDP:0.0.0.0:443] initPacketsIn: allocated 100 packets
+2026-06-27 03:28:38.217800 [NOTICE] [35] LiteSpeed/1.9.0 Open starts successfully!
+2026-06-27 03:28:38.217815 [NOTICE] [38] Stop listener *:7080, fd 18.
+2026-06-27 03:28:38.217838 [NOTICE] [37] Setup swapping space...
+2026-06-27 03:28:38.217920 [NOTICE] [37] LiteSpeed/1.9.0 Open starts successfully!
+2026-06-27 03:28:38.218342 [NOTICE] [38] Successfully change current user to lsadm
+2026-06-27 03:28:38.218359 [NOTICE] [38] Core dump is enabled.
+2026-06-27 03:28:38.218400 [NOTICE] [38] Setup swapping space...
+2026-06-27 03:28:38.218575 [NOTICE] [38] LiteSpeed/1.9.0 Open starts successfully!
+2026-06-27 03:28:39.000960 [NOTICE] [32] [PID: 32]: forked cgid: 40
+2026-06-27 03:28:42.452608 [NOTICE] [35] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 03:28:42.452664 [INFO] [35] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 03:28:42.452674 [NOTICE] [35] [LocalWorker::workerExec] Config[AdminPHP]: suExec uid -1 gid -1 cmd /usr/local/lsws/admin/fcgi-bin/admin_php -c ../conf/php.ini, final uid 997 gid 1001, flags: 0.
+2026-06-27 03:28:42.452695 [ERROR] [35] [LocalWorker::workerExec] Config[AdminPHP]: cgidSuEXEC failed.
+2026-06-27 03:28:42.452793 [NOTICE] [35] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 03:28:42.452801 [INFO] [35] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 03:28:42.452805 [NOTICE] [35] [LocalWorker::workerExec] Config[AdminPHP]: suExec uid -1 gid -1 cmd /usr/local/lsws/admin/fcgi-bin/admin_php -c ../conf/php.ini, final uid 997 gid 1001, flags: 0.
+2026-06-27 03:28:42.452808 [ERROR] [35] [LocalWorker::workerExec] Config[AdminPHP]: cgidSuEXEC failed.
+2026-06-27 03:28:42.452830 [NOTICE] [35] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 03:28:42.452834 [INFO] [35] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 03:28:42.452838 [NOTICE] [35] [LocalWorker::workerExec] Config[AdminPHP]: suExec uid -1 gid -1 cmd /usr/local/lsws/admin/fcgi-bin/admin_php -c ../conf/php.ini, final uid 997 gid 1001, flags: 0.
+2026-06-27 03:28:42.452841 [ERROR] [35] [LocalWorker::workerExec] Config[AdminPHP]: cgidSuEXEC failed.
+2026-06-27 03:28:42.452914 [NOTICE] [35] [211.72.50.85:60828:H2-3#_AdminVHost] oops! 503 Service Unavailable
+2026-06-27 03:28:42.452950 [INFO] [35] [211.72.50.85:60828:H2-3] Content len: 0, request line: 'GET / HTTP/1.1'
+2026-06-27 03:28:44.745253 [NOTICE] [35] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 03:28:44.745309 [INFO] [35] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 03:28:44.745322 [NOTICE] [35] [LocalWorker::workerExec] Config[AdminPHP]: suExec uid -1 gid -1 cmd /usr/local/lsws/admin/fcgi-bin/admin_php -c ../conf/php.ini, final uid 997 gid 1001, flags: 0.
+2026-06-27 03:28:44.745327 [ERROR] [35] [LocalWorker::workerExec] Config[AdminPHP]: cgidSuEXEC failed.
+2026-06-27 03:28:44.745373 [NOTICE] [35] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 03:28:44.745383 [INFO] [35] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 03:28:44.745390 [NOTICE] [35] [LocalWorker::workerExec] Config[AdminPHP]: suExec uid -1 gid -1 cmd /usr/local/lsws/admin/fcgi-bin/admin_php -c ../conf/php.ini, final uid 997 gid 1001, flags: 0.
+2026-06-27 03:28:44.745394 [ERROR] [35] [LocalWorker::workerExec] Config[AdminPHP]: cgidSuEXEC failed.
+2026-06-27 03:28:44.745422 [NOTICE] [35] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 03:28:44.745428 [INFO] [35] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 03:28:44.745433 [NOTICE] [35] [LocalWorker::workerExec] Config[AdminPHP]: suExec uid -1 gid -1 cmd /usr/local/lsws/admin/fcgi-bin/admin_php -c ../conf/php.ini, final uid 997 gid 1001, flags: 0.
+2026-06-27 03:28:44.745438 [ERROR] [35] [LocalWorker::workerExec] Config[AdminPHP]: cgidSuEXEC failed.
+2026-06-27 03:28:44.745489 [NOTICE] [35] [211.72.50.85:60828:H2-5#_AdminVHost] oops! 503 Service Unavailable
+2026-06-27 03:28:44.745519 [INFO] [35] [211.72.50.85:60828:H2-5] Content len: 0, request line: 'GET / HTTP/1.1'
+2026-06-27 03:29:02.497366 [NOTICE] [35] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 03:29:02.497428 [INFO] [35] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 03:29:02.497440 [NOTICE] [35] [LocalWorker::workerExec] Config[AdminPHP]: suExec uid -1 gid -1 cmd /usr/local/lsws/admin/fcgi-bin/admin_php -c ../conf/php.ini, final uid 997 gid 1001, flags: 0.
+2026-06-27 03:29:02.497445 [ERROR] [35] [LocalWorker::workerExec] Config[AdminPHP]: cgidSuEXEC failed.
+2026-06-27 03:29:02.497487 [NOTICE] [35] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 03:29:02.497512 [INFO] [35] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 03:29:02.497522 [NOTICE] [35] [LocalWorker::workerExec] Config[AdminPHP]: suExec uid -1 gid -1 cmd /usr/local/lsws/admin/fcgi-bin/admin_php -c ../conf/php.ini, final uid 997 gid 1001, flags: 0.
+2026-06-27 03:29:02.497525 [ERROR] [35] [LocalWorker::workerExec] Config[AdminPHP]: cgidSuEXEC failed.
+2026-06-27 03:29:02.497551 [NOTICE] [35] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 03:29:02.497555 [INFO] [35] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 03:29:02.497559 [NOTICE] [35] [LocalWorker::workerExec] Config[AdminPHP]: suExec uid -1 gid -1 cmd /usr/local/lsws/admin/fcgi-bin/admin_php -c ../conf/php.ini, final uid 997 gid 1001, flags: 0.
+2026-06-27 03:29:02.497562 [ERROR] [35] [LocalWorker::workerExec] Config[AdminPHP]: cgidSuEXEC failed.
+2026-06-27 03:29:02.497601 [NOTICE] [35] [211.72.50.85:60828:H2-7#_AdminVHost] oops! 503 Service Unavailable
+2026-06-27 03:29:02.497632 [INFO] [35] [211.72.50.85:60828:H2-7] Content len: 0, request line: 'GET / HTTP/1.1'
+2026-06-27 03:29:04.367868 [NOTICE] [35] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 03:29:04.367912 [INFO] [35] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 03:29:04.367922 [NOTICE] [35] [LocalWorker::workerExec] Config[AdminPHP]: suExec uid -1 gid -1 cmd /usr/local/lsws/admin/fcgi-bin/admin_php -c ../conf/php.ini, final uid 997 gid 1001, flags: 0.
+2026-06-27 03:29:04.367926 [ERROR] [35] [LocalWorker::workerExec] Config[AdminPHP]: cgidSuEXEC failed.
+2026-06-27 03:29:04.367964 [NOTICE] [35] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 03:29:04.367967 [INFO] [35] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 03:29:04.367971 [NOTICE] [35] [LocalWorker::workerExec] Config[AdminPHP]: suExec uid -1 gid -1 cmd /usr/local/lsws/admin/fcgi-bin/admin_php -c ../conf/php.ini, final uid 997 gid 1001, flags: 0.
+2026-06-27 03:29:04.367974 [ERROR] [35] [LocalWorker::workerExec] Config[AdminPHP]: cgidSuEXEC failed.
+2026-06-27 03:29:04.367997 [NOTICE] [35] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 03:29:04.368000 [INFO] [35] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 03:29:04.368004 [NOTICE] [35] [LocalWorker::workerExec] Config[AdminPHP]: suExec uid -1 gid -1 cmd /usr/local/lsws/admin/fcgi-bin/admin_php -c ../conf/php.ini, final uid 997 gid 1001, flags: 0.
+2026-06-27 03:29:04.368431 [ERROR] [35] [LocalWorker::workerExec] Config[AdminPHP]: cgidSuEXEC failed.
+2026-06-27 03:29:04.368839 [NOTICE] [35] [211.72.50.85:60828:H2-9#_AdminVHost] oops! 503 Service Unavailable
+2026-06-27 03:29:04.368876 [INFO] [35] [211.72.50.85:60828:H2-9] Content len: 0, request line: 'GET / HTTP/1.1'
+2026-06-27 03:29:06.085251 [NOTICE] [35] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 03:29:06.085295 [INFO] [35] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 03:29:06.085307 [NOTICE] [35] [LocalWorker::workerExec] Config[AdminPHP]: suExec uid -1 gid -1 cmd /usr/local/lsws/admin/fcgi-bin/admin_php -c ../conf/php.ini, final uid 997 gid 1001, flags: 0.
+2026-06-27 03:29:06.085310 [ERROR] [35] [LocalWorker::workerExec] Config[AdminPHP]: cgidSuEXEC failed.
+2026-06-27 03:29:06.085349 [NOTICE] [35] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 03:29:06.085352 [INFO] [35] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 03:29:06.085356 [NOTICE] [35] [LocalWorker::workerExec] Config[AdminPHP]: suExec uid -1 gid -1 cmd /usr/local/lsws/admin/fcgi-bin/admin_php -c ../conf/php.ini, final uid 997 gid 1001, flags: 0.
+2026-06-27 03:29:06.085381 [ERROR] [35] [LocalWorker::workerExec] Config[AdminPHP]: cgidSuEXEC failed.
+2026-06-27 03:29:06.085404 [NOTICE] [35] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 03:29:06.085407 [INFO] [35] [LocalWorker::workerExec] VHost:_AdminVHost suExec check uid 997 gid 1001 setuidmode 2.
+2026-06-27 03:29:06.085411 [NOTICE] [35] [LocalWorker::workerExec] Config[AdminPHP]: suExec uid -1 gid -1 cmd /usr/local/lsws/admin/fcgi-bin/admin_php -c ../conf/php.ini, final uid 997 gid 1001, flags: 0.
+2026-06-27 03:29:06.085414 [ERROR] [35] [LocalWorker::workerExec] Config[AdminPHP]: cgidSuEXEC failed.
+2026-06-27 03:29:06.085458 [NOTICE] [35] [211.72.50.85:60828:H2-11#_AdminVHost] oops! 503 Service Unavailable
+2026-06-27 03:29:06.085480 [INFO] [35] [211.72.50.85:60828:H2-11] Content len: 0, request line: 'GET / HTTP/1.1'

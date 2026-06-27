@@ -1,0 +1,46 @@
+serverName                payload.presspizza.com
+serverRoot                /usr/local/lsws
+user                      nobody
+group                     nogroup
+
+errorLog                  /usr/local/lsws/logs/error.log {
+  logLevel                NOTICE
+  rollingSize             10M
+}
+
+accessLog                 /usr/local/lsws/logs/access.log {
+  rollingSize             10M
+  keepDays                30
+}
+
+tuning {
+  maxConnections          10000
+  maxSSLConnections       10000
+  connTimeout             300
+  maxKeepAliveReq         1000
+  keepAliveTimeout        5
+  gzipStatic              1
+}
+
+virtualHost payload.presspizza.com {
+  vhRoot                  /usr/local/lsws/conf/vhosts/payload/
+  configFile              /usr/local/lsws/conf/vhosts/payload/vhconf.conf
+  allowSymbolLink         1
+  enableScript            1
+  restrained              1
+}
+
+listener DefaultHTTP {
+  address                 *:80
+  secure                  0
+  map                     payload.presspizza.com payload.presspizza.com
+}
+
+#listener DefaultHTTPS {
+#  address                 *:443
+#  secure                  1
+#  keyFile                 /etc/letsencrypt/live/payload.presspizza.com/privkey.pem
+#  certFile                /etc/letsencrypt/live/payload.presspizza.com/fullchain.pem
+#  certChain               1
+#  map                     payload.presspizza.com payload.presspizza.com
+#}

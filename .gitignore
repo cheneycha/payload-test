@@ -1,0 +1,13 @@
+# 敏感資料與環境設定
+.env
+# 不包含資料庫檔案
+data/
+# 不包含 OpenLiteSpeed 的日誌與過渡檔案
+lsws/logs/
+# 不包含 Node.js 依賴
+node_modules/
+# 不包含建置產物
+dist/
+.next/
+# 不包含系統暫存檔
+.DS_Store

@@ -1,0 +1,16 @@
+docRoot                   $VH_ROOT/html
+enableGzip                1
+
+rewrite {
+  enable                  1
+  autoLoadHtaccess        1
+  RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+}
+
+context / {
+  type                    proxy
+  handler                 payload_proxy
+  addDefaultCharset       off
+  proxyHeaders            X-Forwarded-Proto:https, X-Forwarded-Host:$HTTP_HOST, X-Forwarded-For:$REMOTE_ADDR
+}
+

@@ -1,0 +1,73 @@
+services:
+  postgres:
+    image: postgres:15-alpine
+    container_name: payload-db
+    restart: always
+    environment:
+      POSTGRES_USER: ${DB_USER}
+      POSTGRES_PASSWORD: ${DB_PASSWORD}
+      POSTGRES_DB: ${DB_NAME}
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    networks:
+      - app-network
+
+  payload_cms:
+    build: 
+      context: ./payload-app
+      dockerfile: Dockerfile
+    container_name: payload-cms
+    restart: always
+    environment:
+      NODE_ENV: production
+      DATABASE_URL: postgres://${DB_USER}:${DB_PASSWORD}@postgres:5432/${DB_NAME}
+      PAYLOAD_SECRET: ${PAYLOAD_SECRET}
+      PORT: 3000
+    depends_on:
+      - postgres
+    networks:
+      - app-network
+
+  openlitespeed:
+    image: litespeedtech/openlitespeed:latest
+    container_name: openlitespeed-server
+    restart: always
+    ports:
+      - "80:80"
+      - "443:443"
+      - "7080:7080"
+    environment:
+      - ADMIN_PASSWORD=${OLS_ADMIN_PASSWORD}
+    volumes:
+      - ./lsws/conf/httpd_config.conf:/usr/local/lsws/conf/httpd_config.conf
+      - ./lsws/conf/vhosts:/usr/local/lsws/conf/vhosts
+      - ./lsws/logs:/usr/local/lsws/logs
+      - certbot_webroot:/usr/local/lsws/conf/vhosts/payload/html/.well-known/acme-challenge
+      - certbot_certs:/etc/letsencrypt:ro
+    networks:
+      - app-network
+
+  certbot:
+    image: certbot/certbot:latest
+    container_name: certbot-ssl
+    restart: always
+    volumes:
+      - certbot_certs:/etc/letsencrypt
+      - certbot_webroot:/var/www/html/.well-known/acme-challenge
+    entrypoint: "/bin/sh -c 'trap exit TERM; while :; do certbot renew --webroot -w /var/www/html; sleep 12h; done'"
+    networks:
+      - app-network
+
+volumes:
+  postgres_data:
+  ols_conf:
+  certbot_webroot:
+  certbot_certs:
+    driver_opts:
+      type: none
+      device: /home/cheney/web-projects/payload-test/certbot/conf # 確保這裡指向你剛才成功申請憑證的目錄
+      o: bind
+
+networks:
+  app-network:
+    driver: bridge
