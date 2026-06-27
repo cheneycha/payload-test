@@ -1,8 +1,6 @@
 import { headers as getHeaders } from 'next/headers.js'
-import Image from 'next/image'
 import { getPayload } from 'payload'
 import React from 'react'
-import { fileURLToPath } from 'url'
 
 import config from '@/payload.config'
 import './styles.css'
@@ -13,47 +11,36 @@ export default async function HomePage() {
   const payload = await getPayload({ config: payloadConfig })
   const { user } = await payload.auth({ headers })
 
-  const fileURL = `vscode://file/${fileURLToPath(import.meta.url)}`
-
+  const postsData = await payload.find({
+    collection: 'posts',
+    sort: '-createdAt', // Get newest first
+  })
   return (
-    <div className="home">
-      <div className="content">
-        <picture>
-          <source srcSet="https://raw.githubusercontent.com/payloadcms/payload/3.x/packages/ui/src/assets/payload-favicon.svg" />
-          <Image
-            alt="Payload Logo"
-            height={65}
-            src="https://raw.githubusercontent.com/payloadcms/payload/3.x/packages/ui/src/assets/payload-favicon.svg"
-            width={65}
-          />
-        </picture>
-        {!user && <h1>Welcome to your new project.</h1>}
-        {user && <h1>Welcome back, {user.email}</h1>}
-        <div className="links">
-          <a
-            className="admin"
-            href={payloadConfig.routes.admin}
-            rel="noopener noreferrer"
-            target="_blank"
-          >
-            Go to admin panel
-          </a>
-          <a
-            className="docs"
-            href="https://payloadcms.com/docs"
-            rel="noopener noreferrer"
-            target="_blank"
-          >
-            Documentation
-          </a>
-        </div>
-      </div>
-      <div className="footer">
-        <p>Update this page by editing</p>
-        <a className="codeLink" href={fileURL}>
-          <code>app/(frontend)/page.tsx</code>
+    <div className="home" style={{ padding: '2rem', maxWidth: '800px', margin: '0 auto' }}>
+      <header style={{ marginBottom: '2rem' }}>
+        {user ? <h1>Welcome back, {user.email}!</h1> : <h1>Welcome to our site</h1>}
+        <a href={payloadConfig.routes.admin} style={{ color: '#0070f3', textDecoration: 'underline' }}>
+          Go to admin panel
         </a>
-      </div>
+      </header>
+      <main>
+        <h2>Latest Posts</h2>
+        {postsData.docs.length === 0 ? (
+          <p>No posts found. Log in to the admin panel and add some!</p>
+        ) : (
+          <div style={{ display: 'flex', flexDirection: 'column', gap: '1.5rem' }}>
+            {postsData.docs.map((post) => (
+              <article key={post.id} style={{ border: '1px solid #ccc', padding: '1rem', borderRadius: '8px' }}>
+                <h3 style={{ margin: '0 0 0.5rem 0' }}>{post.title}</h3>
+                {/* Render content snippet if available */}
+                <p style={{ color: '#666' }}>
+                  {post.content ? 'Rich text content exists' : 'No content'}
+                </p>
+              </article>
+            ))}
+          </div>
+        )}
+      </main>
     </div>
   )
 }
