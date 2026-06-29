@@ -23,5 +23,10 @@ export const Posts: CollectionConfig = {
       type: 'richText',
       editor: lexicalEditor(),
     },
+    {
+      name: 'image',
+      type: 'upload',
+      relationTo: 'media',
+    },
   ],
 }
