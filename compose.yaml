@@ -13,13 +13,15 @@ services:
       - app-network
 
   payload_cms:
-    build: 
+    build:
       context: ./payload-app
       dockerfile: Dockerfile
     container_name: payload-cms
     restart: always
+    # command: npm run dev
     environment:
       NODE_ENV: production
+      # NODE_ENV: development
       DATABASE_URL: postgres://${DB_USER}:${DB_PASSWORD}@postgres:5432/${DB_NAME}
       PAYLOAD_SECRET: ${PAYLOAD_SECRET}
       PORT: 3000
