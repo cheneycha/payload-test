@@ -1,5 +1,6 @@
 import { headers as getHeaders } from 'next/headers.js'
 import { getPayload } from 'payload'
+import { RichText } from '@payloadcms/richtext-lexical/react'
 import React from 'react'
 
 import config from '@/payload.config'
@@ -33,9 +34,12 @@ export default async function HomePage() {
               <article key={post.id} style={{ border: '1px solid #ccc', padding: '1rem', borderRadius: '8px' }}>
                 <h3 style={{ margin: '0 0 0.5rem 0' }}>{post.title}</h3>
                 {/* Render content snippet if available */}
-                <p style={{ color: '#666' }}>
-                  {post.content ? 'Rich text content exists' : 'No content'}
-                </p>
+                {post.content && (
+                  <div style={{ color: '#666', marginTop: '0.5rem' }}>
+                    <RichText data={post.content} />
+                  </div>
+                )}
+
               </article>
             ))}
           </div>
